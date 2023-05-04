@@ -12,7 +12,7 @@ read:
 status: undefined
 ---
 
-### [[Books MOC]]
+### [Books MOC](Books%20MOC.md)
 
 # Oath of Office: Jack Ryan Book 18
 

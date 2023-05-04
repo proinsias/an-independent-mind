@@ -15,7 +15,7 @@ read:
 status: undefined
 ---
 
-### [[Books MOC]]
+### [Books MOC](Books%20MOC.md)
 
 # Grit: The Power of Passion and Perseverance
 

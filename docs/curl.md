@@ -1,8 +1,15 @@
 ---
+title: 'curl'
+date: 2023-05-04 09:03
+last_modified_at: 2023-05-04 09:03
 tags:
     - command-line-tool
     - curl
 ---
+
+# curl
+
+## Miscellaneous
 
 ```shell
 # Get my global IP address.

@@ -15,17 +15,17 @@ My public digital garden / knowledge base.
 
 ## Main topics
 
--   [[Books]]
--   [[Cloud computing]]
--   [[Command line tools]]
--   [[Data science]]
--   [[Databases]]
--   [[Management]]
--   [[Newsletters]]
--   [[Operating systems]]
--   [[Podcasts]]
--   [[Programming languages]]
--   [[Talks]]
+-   [Books MOC](Books%20MOC.md)
+-   [Cloud computing](Cloud%20computing.md)
+-   [Command line tools](Command%20line%20tools.md)
+-   [Data science](Data%20science.md)
+-   [Databases](Databases)
+-   [Management](Management)
+-   [Newsletters](Newsletters)
+-   [Operating systems](Operating%20systems.md)
+-   [Podcasts](Podcasts)
+-   [Programming languages](Programming%20languages.md)
+-   [Talks](Talks)
 
 ## What's 'An Independent Mind' all about?
 

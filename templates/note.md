@@ -1,6 +1,14 @@
+---
+title: "{{title}}"
+date: {{date}} {{time}}
+last_modified_at: {{date}} {{time}}
+tags:
+---
+
 ### [[YOUR MOC]]
 
-# The Title of Your Note
+# {{title}}
 
-**Tags**::
+## Miscellaneous
+
 **Links**::

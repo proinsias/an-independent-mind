@@ -15,7 +15,7 @@ read:
 status: undefined
 ---
 
-### [[Books MOC]]
+### [Books MOC](Books%20MOC.md)
 
 # The Meritocracy Trap
 
