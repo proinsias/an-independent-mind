@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-05 04:29:42
+last_modified_at: 2023-05-05 19:53:39
 tags:
     - command-line-tool
     - git
@@ -26,11 +26,32 @@ Git cannot add a completely empty directory. People who want to track empty dire
 
 Via [Stack Overflow](http://stackoverflow.com/a/7229996/1257318).
 
+### Verbose output
+
+```shell
+GIT_CURL_VERBOSE=1 GIT_TRACE=1 git clone <repo url>
+```
+
+Via [haacked.com](http://haacked.com/archive/2014/07/28/github-flow-aliases/).
+
 ## add
 
 ```shell
 # Tell git you intend to add an untracked file.
 git add -N file.txt
+
+# Add all changes including untracked files.
+git add -A
+```
+
+## blame
+
+```shell
+# Show who authored each line in <file>.
+git blame <file>
+
+# Show who authored each line in <file> as of <rev>.
+git blame <file> <rev>
 ```
 
 ## branch
@@ -42,6 +63,9 @@ git branch -m old_branch_name new_brach_name
 # Move the current branch.
 git branch -m new_brach_name
 
+# List all local branches
+git branch
+
 # List branches that have been merged into your current branch.
 git branch --merged
 
@@ -50,6 +74,9 @@ git branch --no-merged
 
 # List branches (including remote).
 git branch [-a | --all]
+
+# List remote branches.
+git branch [-r | --remotes]
 
 # See the last commit on each branch.
 git branch -v
@@ -77,7 +104,7 @@ git bundle verify myBundle
 git clone myBundle bundled_repo
 ```
 
-Via [Enki](https://insights.enki.com/insight/56c5ab363e75da06001547cc).
+Via [Enki](https://app.enki.com/public/insight/56c5ab363e75da06001547cc).
 
 ## clone
 
@@ -94,6 +121,9 @@ git commit --fixup HEAD && git stash && git rebase -i HEAD~2 --autosquash
 
 # Make changes to your most recent commit.
 git commit --amend
+
+# Include diff of committed changes in the commit message screen.
+git commit -v
 ```
 
 ### Empty commits
@@ -113,7 +143,7 @@ Some use-cases for this (that make sense), include:
 
 ### Commit messages
 
-The seven rules of a [great git commit message](http://chris.beams.io/posts/git-commit/%3E):
+The seven rules of a [great git commit message](http://chris.beams.io/posts/git-commit/):
 
 -   Separate subject from body with a blank line
 -   Limit the subject line to 50 characters
@@ -129,11 +159,11 @@ The seven rules of a [great git commit message](http://chris.beams.io/posts/git-
 # Set global .gitignore file.
 git config --global core.excludesfile ~/.gitignore_global
 
-# Repo is accessable to all users.
+# Repo is accessible to all users.
 git config core.sharedrepository [all | world | everybody]
-# Repo is accessable only to all group memebers.
+# Repo is accessible only to all group members.
 git config core.sharedrepository [group | true]
-# Repo is accessable to users as determined by umask of files.
+# Repo is accessible to users as determined by umask of files.
 git config core.sharedrepository [umask | false]
 
 # Set author name.
@@ -147,7 +177,13 @@ git config [-l | --list] [--global]
 # Remove a setting.
 git config --unset --global user.name
 
+# Configure Git's colored terminal output.
+# The default setting is `auto`, which colors output when it's going straight to a terminal, but omits the color-control codes when the output is redirected to a pipe or a file.
+# You can also set it to `always` or `true` to ignore the difference between terminals and pipes.
+# Set to `false` to turn color output off.
+git config --global color.ui [auto | true | always | false]
 
+git config --global merge.tool opendiff
 ```
 
 ### Autocorrect
@@ -156,7 +192,7 @@ git config --unset --global user.name
 git config --global help.autocorrect 30
 ```
 
-Via [Enki](https://insights.enki.com/insight/56b9cd144a409006009087c6).
+Via [Enki](https://app.enki.com/public/insight/56b9cd144a409006009087c6).
 
 ### Caching credentials
 
@@ -220,7 +256,7 @@ git log -L :myFunction:myFile.js
 
 This will show all the changes made to myFunction in the file `myFile.js` as a series of patches. Then `git` will attempt to work out the bounds of the function. You can also give the tool a range of lines to search for.
 
-Via [Enki](https://insights.enki.com/insight/56c48439bb514406009a8dd6).
+Via [Enki](https://app.enki.com/public/insight/56c48439bb514406009a8dd6).
 
 ## ls-files
 
@@ -250,9 +286,12 @@ git pull --recurse-submodules
 ## push
 
 ```shell
+
 # Rename the upstream branch.
 # First delete the branch with the old name.
 git push origin :old_branch_name
+# Or
+git push origin --delete old_branch_name
 # Next push the new branch and set it as the upstream branch.
 git push --set-upstream origin new_brach_name
 
@@ -273,7 +312,14 @@ $ git push --force-with-lease origin master
 
 To summarize Git's [documentation](https://git-scm.com/docs/git-push#git-push---force-with-leaseltrefnamegt), using `force-with-lease` tells `git` to check whether the remote repo is the same as the one you're trying to push up. If it isn't, `git` will throw an error instead of blindly overwriting the remote repo. This will save you from accidentally overwriting work that you don't intend to.
 
-Via [medium.freecodecamp.com](https://medium.freecodecamp.com/git-please-a182f28efeb5#.r7fhgucxh).
+Via [medium.freecodecamp.com](https://web.archive.org/web/20170531085421/https://medium.freecodecamp.com/git-please-a182f28efeb5).
+
+## switch
+
+```shell
+# Go back to previous branch.
+git switch -
+```
 
 ## stash
 

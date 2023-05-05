@@ -1,1 +1,12 @@
 Dataview
+subshell
+haacked
+autosquash
+excludesfile
+sharedrepository
+opendiff
+jbranchaud
+Greping
+freecodecamp
+unstaged
+tocstop

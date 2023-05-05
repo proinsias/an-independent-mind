@@ -1,3 +1,8 @@
+---
+date: 2023-05-05 00:30
+last_modified_at: 2023-05-05 19:53:39
+---
+
 # An Independent Mind
 
 My public digital garden / knowledge base, created using [Obsidian](https://obsidian.md/).

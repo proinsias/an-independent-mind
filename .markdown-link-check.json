@@ -1,4 +1,48 @@
 {
+  "ignorePatterns": [
+    {
+      "pattern": "^#"
+    },
+    {
+      "pattern": "^https://www.linkedin.com"
+    },
+    {
+      "pattern": "^https://img.shields.io"
+    },
+    {
+      "pattern": "^https://visitor-badge.glitch.me"
+    },
+    {
+      "pattern": "^https://superuser.com"
+    },
+    {
+      "pattern": "^https://app.enkipro.com"
+    },
+    {
+      "pattern": "^https://app.enki.com"
+    },
+    {
+      "pattern": "^https://deelay.me"
+    },
+    {
+      "pattern": "^https://jqplay.org"
+    },
+    {
+      "pattern": "^https://.*stackexchange.com"
+    },
+    {
+      "pattern": "^https://stackoverflow.com"
+    },
+    {
+      "pattern": "^https://serverfault.com"
+    },
+    {
+      "pattern": "^https://4kib.com"
+    },
+    {
+      "pattern": "^https://help.medium.com"
+    }
+  ],
   "retryOn429": true,
   "retryCount": 5,
   "aliveStatusCodes": [200, 203]
