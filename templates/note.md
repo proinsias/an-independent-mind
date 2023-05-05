@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 date: {{date}} {{time}}
-last_modified_at: {{date}} {{time}}
+last_modified_at: 2023-05-05 19:14:01
 tags:
 ---
 
@@ -11,4 +11,4 @@ tags:
 
 ## Miscellaneous
 
-**Links**::
+## Links
