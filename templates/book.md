@@ -38,7 +38,7 @@ by [[{{author}}]]
 
 ## Summary
 
-<!-- No more than a couple paragraphs summarizing this BOOK -->
+<!--The Book in 3 Sentences. No more than a couple paragraphs summarizing this BOOK -->
 
 {{description}}
 

@@ -1,6 +1,6 @@
 # An Independent Mind
 
-My public digital garden / knowledge base.
+My public digital garden / knowledge base, created using [Obsidian](https://obsidian.md/).
 
 #todo
 
