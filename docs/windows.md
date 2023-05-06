@@ -1,7 +1,7 @@
 ---
 title: 'windows'
 date: 2023-05-04 09:06
-last_modified_at: 2023-05-06 00:36
+last_modified_at: 2023-05-06 00:44
 tags:
     - operating-system
     - windows
