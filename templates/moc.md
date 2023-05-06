@@ -5,10 +5,9 @@ last_modified_at: {{date}} {{time}}
 tags:
 ---
 
-### [[YOUR MOC]]
-
 # {{title}}
 
-## Miscellaneous
-
-## Links
+```dataview
+list from [[]] and !outgoing([[]])
+```
+#todo - remove README

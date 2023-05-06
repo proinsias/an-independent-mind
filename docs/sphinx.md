@@ -1,13 +1,13 @@
 ---
 title: 'sphinx'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-04 09:05
+last_modified_at: 2023-05-06 00:35
 tags:
-    - sphinx
     - python
+    - sphinx
 link: https://www.sphinx-doc.org/
 ---
-
+[Python](Python.md)
 # Sphinx
 
 ### Quickstart

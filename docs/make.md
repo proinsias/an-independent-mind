@@ -1,12 +1,14 @@
 ---
 title: 'make'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-04 09:04
+last_modified_at: 2023-05-06 00:33
 tags:
-    - command-line-tools
+    - command-line-tool
     - make
-    - programming-languages
+    - programming-language
 ---
+[Command line tools MOC](Command%20line%20tools%20MOC.md)
+[Programming languages MOC](Programming%20languages%20MOC.md)
 
 # Make
 

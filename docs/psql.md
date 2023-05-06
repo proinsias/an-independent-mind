@@ -1,13 +1,16 @@
 ---
 title: 'psql'
 date: 2023-05-04 09:20
-last_modified_at: 2023-05-04 09:20
+last_modified_at: 2023-05-06 00:34
 tags:
     - command-line-tool
     - database
-    - mysql
+    - psql
     - sql
 ---
+[Command line tools MOC](Command%20line%20tools%20MOC.md)
+[Databases MOC](Databases%20MOC.md)
+[sql](sql.md)
 
 # psql
 

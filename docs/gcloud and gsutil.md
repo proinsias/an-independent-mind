@@ -1,12 +1,13 @@
 ---
 title: 'gcloud and gsutil'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-05 04:29:42
+last_modified_at: 2023-05-06 00:24
 tags:
     - command-line-tool
     - gcloud
     - gsutil
 ---
+[Command line tools MOC](Command%20line%20tools%20MOC.md)
 
 # gcloud and gsutil
 

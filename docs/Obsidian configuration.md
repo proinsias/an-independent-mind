@@ -1,10 +1,9 @@
 ---
 title: "Obsidian configuration"
 date: 2023-05-05 14:49
-last_modified_at: 2023-05-05 19:14:01
+last_modified_at: 2023-05-06 00:34
 tags:
   - obsidian
-  - todo
 ---
 
 # Obsidian configuration

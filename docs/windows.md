@@ -1,13 +1,16 @@
 ---
 title: 'windows'
 date: 2023-05-04 09:06
-last_modified_at: 2023-05-04 09:06
+last_modified_at: 2023-05-06 00:36
 tags:
-    - operating-systems
+    - operating-system
     - windows
 ---
 
 # Windows
+```dataview
+list from [[]] and !outgoing([[]])
+```
 
 ## Miscellaneous
 

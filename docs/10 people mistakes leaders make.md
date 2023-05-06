@@ -1,7 +1,7 @@
 ---
 title: '10 people mistakes leaders make'
 date: 2023-05-05 16:15
-last_modified_at: 2023-05-06 04:16:24
+last_modified_at: 2023-05-06 00:27
 link: https://www.imd.org/research-knowledge/articles/10-people-mistakes-leaders-make/
 tags:
     - conflict
@@ -10,6 +10,7 @@ tags:
     - management
     - motivation
 ---
+[Management MOC](Management%20MOC.md)
 
 # 10 people mistakes leaders make
 

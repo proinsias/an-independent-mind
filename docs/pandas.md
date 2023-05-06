@@ -1,12 +1,12 @@
 ---
 title: 'pandas'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-04 09:04
+last_modified_at: 2023-05-06 00:34
 tags:
     - pandas
     - python
 ---
-
+[Python](Python.md)
 # pandas
 
 ## Miscellaneous

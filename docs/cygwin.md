@@ -1,13 +1,12 @@
 ---
 title: 'cygwin'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-04 09:03
+last_modified_at: 2023-05-06 00:32
 tags:
-    - operating-systems
     - cygwin
     - windows
 ---
-
+[windows](windows.md)
 # cygwin
 
 ## Miscellaneous

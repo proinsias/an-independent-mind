@@ -1,7 +1,7 @@
 ---
 title: '7 top strategies for managing employee performance'
 date: 2023-05-05 16:26
-last_modified_at: 2023-05-06 04:16:24
+last_modified_at: 2023-05-06 00:27
 link: https://lattice.com/library/top-strategies-for-managing-employee-performance
 tags:
     - management
@@ -9,7 +9,7 @@ tags:
     - motivation
     - performance
 ---
-
+[Management MOC](Management%20MOC.md)
 # 7 top strategies for managing employee performance
 
 ## Quotes
