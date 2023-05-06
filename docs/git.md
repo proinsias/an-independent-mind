@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-05 19:53:39
+last_modified_at: 2023-05-06 04:16:24
 tags:
     - command-line-tool
     - git
@@ -43,6 +43,42 @@ git add -N file.txt
 # Add all changes including untracked files.
 git add -A
 ```
+
+## bisect
+
+### Identifying buggy commits
+
+The bisect tool helps to identify the commit that introduced a bug.
+
+To start, you need to tell git when the code last ran without problems:
+
+```shell
+git bisect start
+git bisect bad
+# Current commit has a bug.
+git bisect good v2.1
+# v2.1 passes the test.
+```
+
+`git` will then check out the commit that is halfway between the good and bad commits. You test the code and if there was no problem:
+
+```shell
+git bisect good
+```
+
+If there was a problem:
+
+```shell
+git bisect bad
+```
+
+You continue doing this until `git` identifies the first bad commit. When you finish you need to reset to the original state:
+
+```shell
+git bisect reset
+```
+
+Via [Enki](https://app.enki.com/public/insight/56c5a1823e75da0600154730).
 
 ## blame
 
@@ -105,6 +141,22 @@ git clone myBundle bundled_repo
 ```
 
 Via [Enki](https://app.enki.com/public/insight/56c5ab363e75da06001547cc).
+
+## clean
+
+```shell
+# Delete untracked files in the current directory.
+git clean [-f | --force]
+
+# Delete untracked files and directories recursively and interactively.
+git clean [-i | --interactive] -d
+
+# Don't actually remove anything, just show what would be done.
+git clean [-n | --dry-run]
+
+# Delete ignored files as well.
+git clean -x
+```
 
 ## clone
 
@@ -184,6 +236,9 @@ git config --unset --global user.name
 git config --global color.ui [auto | true | always | false]
 
 git config --global merge.tool opendiff
+
+# Warn about whitespace when you use `git diff`.
+git config --global core.whitespace warn
 ```
 
 ### Autocorrect
