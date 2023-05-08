@@ -10,3 +10,14 @@ Greping
 freecodecamp
 unstaged
 tocstop
+Sanderson
+Delacorte
+kentcdodds
+olddata
+teej
+realpath
+builtins
+makefiles
+BINDIR
+shortcodes
+tutsplus

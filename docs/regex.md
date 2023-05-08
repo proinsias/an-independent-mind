@@ -1,12 +1,14 @@
 ---
 title: 'regex'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-06 00:35
+last_modified_at: 2023-05-08 12:42:54
 tags:
-    - programming-language
+    - programming
     - regex
 ---
-[Programming languages MOC](Programming%20languages%20MOC.md)
+
+[Programming MOC](Programming%20MOC.md)
+
 # Regex
 
 ## 8 regular expressions you should know

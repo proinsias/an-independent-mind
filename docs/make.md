@@ -1,14 +1,15 @@
 ---
 title: 'make'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-06 00:33
+last_modified_at: 2023-05-08 12:42:54
 tags:
     - command-line-tool
     - make
-    - programming-language
+    - programming
 ---
+
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
-[Programming languages MOC](Programming%20languages%20MOC.md)
+[Programming MOC](Programming%20MOC.md)
 
 # Make
 
@@ -92,7 +93,7 @@ Via [GNU.org](https://www.gnu.org/software/make/manual/html_node/Phony-Targets.h
 BINDIR ?= /usr/local/bin
 ```
 
-Then when you run `make`, the default value for `BINDIR` will be `/usr/local/bin`, but this can be overrided, e.g.:
+Then when you run `make`, the default value for `BINDIR` will be `/usr/local/bin`, but this can be overridden, e.g.:
 
 ```text
 make BINDIR=/usr/bin
