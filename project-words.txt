@@ -21,3 +21,14 @@ makefiles
 BINDIR
 shortcodes
 tutsplus
+webauthn
+myremote
+unprotect
+pyenv
+virtualenv
+featurization
+bigram
+bigrams
+touchid
+keychain
+Betteridge

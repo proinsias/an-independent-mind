@@ -41,6 +41,9 @@
     },
     {
       "pattern": "^https://help.medium.com"
+    },
+    {
+      "pattern": "^https://twitter.com"
     }
   ],
   "retryOn429": true,
