@@ -1,13 +1,14 @@
 ---
-title: 'windows'
+title: "windows"
 date: 2023-05-04 09:06
-last_modified_at: 2023-05-06 00:44
+last_modified_at: 2023-05-10 08:58
 tags:
-    - operating-system
-    - windows
+  - operating-system
+  - windows
 ---
 
 # Windows
+
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
@@ -20,7 +21,7 @@ Note the `"%%"` instead of the `"$"`, and the `";"` instead of the `":"`.
 
 To type a pound symbol in Windows, type `Alt-0163`.
 
-In order to take a screenshot, use `Alt-Print Screen`, and then paste into `Accessories > Paint`. Save as PNG. It will save a screenshot of the frontmost window.
+In order to take a screenshot, use `Alt-Print Screen`, and then paste into `Accessories > Paint`. Save as PNG. It will save a screenshot of the front-most window.
 
 `Ctrl-Shift-Esc` brings up Task Manager normally. To get Task Manager under Remote Desktop, use `Ctrl-Alt-End`, rather than `Ctrl-Alt-Delete`.
 

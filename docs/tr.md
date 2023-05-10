@@ -1,10 +1,10 @@
 ---
-title: 'tr'
+title: "tr"
 date: 2023-05-07 20:35
-last_modified_at: 2023-05-08 12:42:54
+last_modified_at: 2023-05-10 08:11
 tags:
-    - command-line-tool
-    - programming
+  - command-line-tool
+  - programming
 ---
 
 ### [\*nix](*nix.md)

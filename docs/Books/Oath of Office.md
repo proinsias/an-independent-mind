@@ -1,7 +1,7 @@
 ---
 tags:
-    - book
-    - fiction
+  - book
+  - fiction
 title: Oath of Office
 subtitle: Jack Ryan Book 18
 author: Marc Cameron
@@ -10,6 +10,8 @@ rating:
 date:
 read:
 status: undefined
+date: 2023-05-10 08:10
+last_modified_at: 2023-05-10 08:10
 ---
 
 ### [Books MOC](Books%20MOC.md)

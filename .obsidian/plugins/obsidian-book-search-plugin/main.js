@@ -11,21 +11,29 @@ var Vr = Object.getOwnPropertyNames,
   $r = Object.getPrototypeOf,
   _t = Object.prototype.hasOwnProperty,
   Hr = Object.prototype.propertyIsEnumerable;
-var Ft = (r, e, t) => (e in r ? ke(r, e, { enumerable: !0, configurable: !0, writable: !0, value: t }) : (r[e] = t)),
+var Ft = (r, e, t) =>
+    e in r
+      ? ke(r, e, { enumerable: !0, configurable: !0, writable: !0, value: t })
+      : (r[e] = t),
   xe = (r, e) => {
     for (var t in e || (e = {})) _t.call(e, t) && Ft(r, t, e[t]);
     if (Lt) for (var t of Lt(e)) Hr.call(e, t) && Ft(r, t, e[t]);
     return r;
   };
-var Vt = (r) => ke(r, '__esModule', { value: !0 });
+var Vt = (r) => ke(r, "__esModule", { value: !0 });
 var Wr = (r, e) => {
     Vt(r);
     for (var t in e) ke(r, t, { get: e[t], enumerable: !0 });
   },
   Xr = (r, e, t) => {
-    if ((e && typeof e == 'object') || typeof e == 'function')
+    if ((e && typeof e == "object") || typeof e == "function")
       for (let o of Vr(e))
-        !_t.call(r, o) && o !== 'default' && ke(r, o, { get: () => e[o], enumerable: !(t = Fr(e, o)) || t.enumerable });
+        !_t.call(r, o) &&
+          o !== "default" &&
+          ke(r, o, {
+            get: () => e[o],
+            enumerable: !(t = Fr(e, o)) || t.enumerable,
+          });
     return r;
   },
   q = (r) =>
@@ -33,8 +41,10 @@ var Wr = (r, e) => {
       Vt(
         ke(
           r != null ? _r($r(r)) : {},
-          'default',
-          r && r.__esModule && 'default' in r ? { get: () => r.default, enumerable: !0 } : { value: r, enumerable: !0 },
+          "default",
+          r && r.__esModule && "default" in r
+            ? { get: () => r.default, enumerable: !0 }
+            : { value: r, enumerable: !0 },
         ),
       ),
       r,
@@ -59,13 +69,13 @@ var g = (r, e, t) =>
     a((t = t.apply(r, e)).next());
   });
 Wr(exports, { default: () => Tt });
-var Pe = q(require('obsidian'));
-var oe = q(require('obsidian'));
+var Pe = q(require("obsidian"));
+var oe = q(require("obsidian"));
 var N;
 (function (t) {
-  (t.google = 'google'), (t.naver = 'naver');
+  (t.google = "google"), (t.naver = "naver");
 })(N || (N = {}));
-var $t = q(require('obsidian'));
+var $t = q(require("obsidian"));
 var tt = class {
   constructor(e) {
     this.localePreference = e;
@@ -73,11 +83,15 @@ var tt = class {
   getByQuery(e) {
     return g(this, null, function* () {
       try {
-        let t = { q: e, maxResults: 40, printType: 'books' },
+        let t = { q: e, maxResults: 40, printType: "books" },
           o = this.localePreference;
-        o === 'default' ? (t.langRestrict = window.moment.locale()) : (t.langRestrict = o);
-        let n = yield He('https://www.googleapis.com/books/v1/volumes', t);
-        return (n == null ? void 0 : n.totalItems) ? n.items.map(({ volumeInfo: i }) => this.createBookItem(i)) : [];
+        o === "default"
+          ? (t.langRestrict = window.moment.locale())
+          : (t.langRestrict = o);
+        let n = yield He("https://www.googleapis.com/books/v1/volumes", t);
+        return (n == null ? void 0 : n.totalItems)
+          ? n.items.map(({ volumeInfo: i }) => this.createBookItem(i))
+          : [];
       } catch (t) {
         throw (console.warn(t), t);
       }
@@ -88,8 +102,8 @@ var tt = class {
       ? void 0
       : e.reduce(
           (t, o) => (
-            o.type == 'ISBN_10' && (t.isbn10 = o.identifier.trim()),
-            o.type == 'ISBN_13' && (t.isbn13 = o.identifier.trim()),
+            o.type == "ISBN_10" && (t.isbn10 = o.identifier.trim()),
+            o.type == "ISBN_13" && (t.isbn13 = o.identifier.trim()),
             t
           ),
           {},
@@ -106,9 +120,15 @@ var tt = class {
         category: this.formatList(e.categories),
         publisher: e.publisher,
         totalPage: e.pageCount,
-        coverUrl: (n = (o = e.imageLinks) == null ? void 0 : o.thumbnail) != null ? n : '',
-        coverSmallUrl: (s = (i = e.imageLinks) == null ? void 0 : i.smallThumbnail) != null ? s : '',
-        publishDate: e.publishedDate || '',
+        coverUrl:
+          (n = (o = e.imageLinks) == null ? void 0 : o.thumbnail) != null
+            ? n
+            : "",
+        coverSmallUrl:
+          (s = (i = e.imageLinks) == null ? void 0 : i.smallThumbnail) != null
+            ? s
+            : "",
+        publishDate: e.publishedDate || "",
         description: e.description,
         link: e.canonicalVolumeLink || e.infoLink,
         previewLink: e.previewLink,
@@ -122,10 +142,13 @@ var tt = class {
   formatList(e) {
     var t, o;
     return (e == null ? void 0 : e.length) > 1
-      ? e.map((n) => `${n.trim()}`).join(', ')
-      : (o = (t = e == null ? void 0 : e[0]) == null ? void 0 : t.replace('N/A', '')) != null
+      ? e.map((n) => `${n.trim()}`).join(", ")
+      : (o =
+          (t = e == null ? void 0 : e[0]) == null
+            ? void 0
+            : t.replace("N/A", "")) != null
       ? o
-      : '';
+      : "";
   }
 };
 var rt = class {
@@ -136,10 +159,15 @@ var rt = class {
   getByQuery(e) {
     return g(this, null, function* () {
       try {
-        let t = { query: e, display: 50, sort: 'sim' },
-          o = { 'X-Naver-Client-Id': this.clientId, 'X-Naver-Client-Secret': this.clientSecret },
-          n = yield He('https://openapi.naver.com/v1/search/book.json', t, o);
-        return (n == null ? void 0 : n.total) ? n.items.map(this.createBookItem) : [];
+        let t = { query: e, display: 50, sort: "sim" },
+          o = {
+            "X-Naver-Client-Id": this.clientId,
+            "X-Naver-Client-Secret": this.clientSecret,
+          },
+          n = yield He("https://openapi.naver.com/v1/search/book.json", t, o);
+        return (n == null ? void 0 : n.total)
+          ? n.items.map(this.createBookItem)
+          : [];
       } catch (t) {
         throw (console.warn(t), t);
       }
@@ -153,12 +181,14 @@ var rt = class {
         author: e.author,
         publisher: e.publisher,
         coverUrl: e.image,
-        publishDate: ((t = e.pubdate) == null ? void 0 : t.slice(0, 4)) || '',
+        publishDate: ((t = e.pubdate) == null ? void 0 : t.slice(0, 4)) || "",
         link: e.link,
         description: e.description,
         isbn: e.isbn,
       },
-      ((o = e.isbn) == null ? void 0 : o.length) >= 13 ? { isbn13: e.isbn } : { isbn10: e.isbn },
+      ((o = e.isbn) == null ? void 0 : o.length) >= 13
+        ? { isbn13: e.isbn }
+        : { isbn10: e.isbn },
     );
   }
 };
@@ -181,8 +211,11 @@ function He(o) {
       }),
       (yield (0, $t.requestUrl)({
         url: n.href,
-        method: 'GET',
-        headers: xe({ Accept: '*/*', 'Content-Type': 'application/json; charset=utf-8' }, t),
+        method: "GET",
+        headers: xe(
+          { Accept: "*/*", "Content-Type": "application/json; charset=utf-8" },
+          t,
+        ),
       })).json
     );
   });
@@ -199,11 +232,12 @@ var ot = class extends oe.Modal {
     var t, o;
     (this.isBusy = e),
       (t = this.okBtnRef) == null || t.setDisabled(e),
-      (o = this.okBtnRef) == null || o.setButtonText(e ? 'Requesting...' : 'Search');
+      (o = this.okBtnRef) == null ||
+        o.setButtonText(e ? "Requesting..." : "Search");
   }
   searchBook() {
     return g(this, null, function* () {
-      if (!this.query) throw new Error('No query entered.');
+      if (!this.query) throw new Error("No query entered.");
       if (!this.isBusy) {
         try {
           this.setBusy(!0);
@@ -221,22 +255,25 @@ var ot = class extends oe.Modal {
     });
   }
   submitEnterCallback(e) {
-    e.key === 'Enter' && !e.isComposing && this.searchBook();
+    e.key === "Enter" && !e.isComposing && this.searchBook();
   }
   onOpen() {
     let { contentEl: e } = this;
-    e.createEl('h2', { text: 'Search Book' }),
-      e.createDiv({ cls: 'book-search-plugin__search-modal--input' }, (t) => {
+    e.createEl("h2", { text: "Search Book" }),
+      e.createDiv({ cls: "book-search-plugin__search-modal--input" }, (t) => {
         new oe.TextComponent(t)
           .setValue(this.query)
-          .setPlaceholder('Search by keyword or ISBN')
+          .setPlaceholder("Search by keyword or ISBN")
           .onChange((o) => (this.query = o))
-          .inputEl.addEventListener('keydown', this.submitEnterCallback.bind(this));
+          .inputEl.addEventListener(
+            "keydown",
+            this.submitEnterCallback.bind(this),
+          );
       }),
       new oe.Setting(e).addButton(
         (t) =>
           (this.okBtnRef = t
-            .setButtonText('Search')
+            .setButtonText("Search")
             .setCta()
             .onClick(() => {
               this.searchBook();
@@ -247,7 +284,7 @@ var ot = class extends oe.Modal {
     this.contentEl.empty();
   }
 };
-var Wt = q(require('obsidian')),
+var Wt = q(require("obsidian")),
   nt = class extends Wt.SuggestModal {
     constructor(e, t, o) {
       super(e);
@@ -267,17 +304,17 @@ var Wt = q(require('obsidian')),
     }
     renderSuggestion(e, t) {
       let o = e.title,
-        n = e.publisher ? `, ${e.publisher}` : '',
-        i = e.publishDate ? `(${e.publishDate})` : '',
-        s = e.totalPage ? `, p${e.totalPage}` : '',
+        n = e.publisher ? `, ${e.publisher}` : "",
+        i = e.publishDate ? `(${e.publishDate})` : "",
+        s = e.totalPage ? `, p${e.totalPage}` : "",
         a = `${e.author}${n}${i}${s}`;
-      t.createEl('div', { text: o }), t.createEl('small', { text: a });
+      t.createEl("div", { text: o }), t.createEl("small", { text: a });
     }
     onChooseSuggestion(e) {
       this.onChoose(null, e);
     }
   };
-var Xt = q(require('obsidian')),
+var Xt = q(require("obsidian")),
   it = class {
     constructor(e) {
       this.app = e;
@@ -292,16 +329,21 @@ var Xt = q(require('obsidian')),
       });
     }
   };
-var W = q(require('obsidian'));
+var W = q(require("obsidian"));
 var Gt = /^-?[0-9]*$/,
   st = /{{DATE(\+-?[0-9]+)?}}/,
   at = /{{DATE:([^}\n\r+]*)(\+-?[0-9]+)?}}/;
 function Gr(r) {
-  return r.replace(/[\\,#%&{}/*<>$":@.?]/g, '').replace(/\s+/g, ' ');
+  return r.replace(/[\\,#%&{}/*<>$":@.?]/g, "").replace(/\s+/g, " ");
 }
 function Ut(r, e) {
   let t;
-  return e ? (t = Ne(r, We(e))) : (t = r.author ? `${r.title} - ${r.author}` : r.title), Gr(t) + '.md';
+  return (
+    e
+      ? (t = Ne(r, We(e)))
+      : (t = r.author ? `${r.title} - ${r.author}` : r.title),
+    Gr(t) + ".md"
+  );
 }
 function Ur(r) {
   return Object.entries(r).reduce((e, [t, o]) => ((e[qr(t)] = o), e), {});
@@ -309,9 +351,10 @@ function Ur(r) {
 function qt(r, e, t = Q.snakeCase) {
   var i, s;
   let o = t === Q.camelCase ? r : Ur(r),
-    n = typeof e == 'string' ? Yr(e) : e;
+    n = typeof e == "string" ? Yr(e) : e;
   for (let a in n) {
-    let l = (s = (i = n[a]) == null ? void 0 : i.toString().trim()) != null ? s : '';
+    let l =
+      (s = (i = n[a]) == null ? void 0 : i.toString().trim()) != null ? s : "";
     o[a] && o[a] !== l ? (o[a] = `${o[a]}, ${l}`) : (o[a] = l);
   }
   return o;
@@ -319,10 +362,13 @@ function qt(r, e, t = Q.snakeCase) {
 function Ne(r, e) {
   return (e == null ? void 0 : e.trim())
     ? Object.entries(r)
-        .reduce((o, [n, i = '']) => o.replace(new RegExp(`{{${n}}}`, 'ig'), i), e)
-        .replace(/{{\w+}}/gi, '')
+        .reduce(
+          (o, [n, i = ""]) => o.replace(new RegExp(`{{${n}}}`, "ig"), i),
+          e,
+        )
+        .replace(/{{\w+}}/gi, "")
         .trim()
-    : '';
+    : "";
 }
 function qr(r) {
   return r.replace(/[A-Z]/g, (e) => `_${e == null ? void 0 : e.toLowerCase()}`);
@@ -336,15 +382,18 @@ function Yr(r) {
         )
         .map((e) => {
           var i, s;
-          let t = e.indexOf(':');
-          if (t === -1) return [e.trim(), ''];
+          let t = e.indexOf(":");
+          if (t === -1) return [e.trim(), ""];
           let o = (i = e.slice(0, t)) == null ? void 0 : i.trim(),
             n = (s = e.slice(t + 1)) == null ? void 0 : s.trim();
           return [o, n];
         })
         .reduce((e, [t, o]) => {
           var n;
-          return t && (e[t] = (n = o == null ? void 0 : o.trim()) != null ? n : ''), e;
+          return (
+            t && (e[t] = (n = o == null ? void 0 : o.trim()) != null ? n : ""),
+            e
+          );
         }, {})
     : {};
 }
@@ -352,16 +401,16 @@ function Yt(r) {
   return Object.entries(r)
     .map(([e, t]) => {
       var n;
-      let o = (n = t == null ? void 0 : t.toString().trim()) != null ? n : '';
+      let o = (n = t == null ? void 0 : t.toString().trim()) != null ? n : "";
       return /\r|\n/.test(o)
-        ? ''
+        ? ""
         : /:\s/.test(o)
-        ? `${e}: "${o.replace(/"/g, '&quot;')}"
+        ? `${e}: "${o.replace(/"/g, "&quot;")}"
 `
         : `${e}: ${o}
 `;
     })
-    .join('')
+    .join("")
     .trim();
 }
 function zt(r) {
@@ -369,14 +418,14 @@ function zt(r) {
   return (
     (r == null ? void 0 : r.offset) !== null &&
       (r == null ? void 0 : r.offset) !== void 0 &&
-      typeof r.offset == 'number' &&
-      (e = window.moment.duration(r.offset, 'days')),
+      typeof r.offset == "number" &&
+      (e = window.moment.duration(r.offset, "days")),
     (r == null ? void 0 : r.format)
       ? window
           .moment()
           .add(e)
           .format(r == null ? void 0 : r.format)
-      : window.moment().add(e).format('YYYY-MM-DD')
+      : window.moment().add(e).format("YYYY-MM-DD")
   );
 }
 function We(r) {
@@ -385,7 +434,7 @@ function We(r) {
     let t = st.exec(e),
       o = 0;
     if (t == null ? void 0 : t[1]) {
-      let n = t[1].replace('+', '').trim();
+      let n = t[1].replace("+", "").trim();
       Gt.test(n) && (o = parseInt(n));
     }
     e = Kt(e, st, zt({ offset: o }));
@@ -395,7 +444,7 @@ function We(r) {
       o = t == null ? void 0 : t[1],
       n = 0;
     if (t == null ? void 0 : t[2]) {
-      let i = t[2].replace('+', '').trim();
+      let i = t[2].replace("+", "").trim();
       Gt.test(i) && (n = parseInt(i));
     }
     e = Kt(e, at, zt({ format: o, offset: n }));
@@ -407,41 +456,41 @@ function Kt(r, e, t) {
     return t;
   });
 }
-var wr = q(require('obsidian'));
-var C = 'top',
-  D = 'bottom',
-  k = 'right',
-  O = 'left',
-  Xe = 'auto',
+var wr = q(require("obsidian"));
+var C = "top",
+  D = "bottom",
+  k = "right",
+  O = "left",
+  Xe = "auto",
   ne = [C, D, k, O],
-  Z = 'start',
-  pe = 'end',
-  Qt = 'clippingParents',
-  Ge = 'viewport',
-  be = 'popper',
-  Jt = 'reference',
+  Z = "start",
+  pe = "end",
+  Qt = "clippingParents",
+  Ge = "viewport",
+  be = "popper",
+  Jt = "reference",
   lt = ne.reduce(function (r, e) {
-    return r.concat([e + '-' + Z, e + '-' + pe]);
+    return r.concat([e + "-" + Z, e + "-" + pe]);
   }, []),
   Ue = [].concat(ne, [Xe]).reduce(function (r, e) {
-    return r.concat([e, e + '-' + Z, e + '-' + pe]);
+    return r.concat([e, e + "-" + Z, e + "-" + pe]);
   }, []),
-  zr = 'beforeRead',
-  Kr = 'read',
-  Qr = 'afterRead',
-  Jr = 'beforeMain',
-  Zr = 'main',
-  eo = 'afterMain',
-  to = 'beforeWrite',
-  ro = 'write',
-  oo = 'afterWrite',
+  zr = "beforeRead",
+  Kr = "read",
+  Qr = "afterRead",
+  Jr = "beforeMain",
+  Zr = "main",
+  eo = "afterMain",
+  to = "beforeWrite",
+  ro = "write",
+  oo = "afterWrite",
   Zt = [zr, Kr, Qr, Jr, Zr, eo, to, ro, oo];
 function M(r) {
-  return r ? (r.nodeName || '').toLowerCase() : null;
+  return r ? (r.nodeName || "").toLowerCase() : null;
 }
 function B(r) {
   if (r == null) return window;
-  if (r.toString() !== '[object Window]') {
+  if (r.toString() !== "[object Window]") {
     var e = r.ownerDocument;
     return (e && e.defaultView) || window;
   }
@@ -456,7 +505,7 @@ function A(r) {
   return r instanceof e || r instanceof HTMLElement;
 }
 function ye(r) {
-  if (typeof ShadowRoot == 'undefined') return !1;
+  if (typeof ShadowRoot == "undefined") return !1;
   var e = B(r).ShadowRoot;
   return r instanceof e || r instanceof ShadowRoot;
 }
@@ -471,15 +520,20 @@ function no(r) {
       (Object.assign(i.style, o),
       Object.keys(n).forEach(function (s) {
         var a = n[s];
-        a === !1 ? i.removeAttribute(s) : i.setAttribute(s, a === !0 ? '' : a);
+        a === !1 ? i.removeAttribute(s) : i.setAttribute(s, a === !0 ? "" : a);
       }));
   });
 }
 function io(r) {
   var e = r.state,
     t = {
-      popper: { position: e.options.strategy, left: '0', top: '0', margin: '0' },
-      arrow: { position: 'absolute' },
+      popper: {
+        position: e.options.strategy,
+        left: "0",
+        top: "0",
+        margin: "0",
+      },
+      arrow: { position: "absolute" },
       reference: {},
     };
   return (
@@ -492,7 +546,7 @@ function io(r) {
           i = e.attributes[o] || {},
           s = Object.keys(e.styles.hasOwnProperty(o) ? e.styles[o] : t[o]),
           a = s.reduce(function (l, m) {
-            return (l[m] = ''), l;
+            return (l[m] = ""), l;
           }, {});
         !A(n) ||
           !M(n) ||
@@ -504,9 +558,16 @@ function io(r) {
     }
   );
 }
-var er = { name: 'applyStyles', enabled: !0, phase: 'write', fn: no, effect: io, requires: ['computeStyles'] };
+var er = {
+  name: "applyStyles",
+  enabled: !0,
+  phase: "write",
+  fn: no,
+  effect: io,
+  requires: ["computeStyles"],
+};
 function I(r) {
-  return r.split('-')[0];
+  return r.split("-")[0];
 }
 var Y = Math.max,
   ce = Math.min,
@@ -558,34 +619,37 @@ function F(r) {
   return B(r).getComputedStyle(r);
 }
 function pt(r) {
-  return ['table', 'td', 'th'].indexOf(M(r)) >= 0;
+  return ["table", "td", "th"].indexOf(M(r)) >= 0;
 }
 function _(r) {
-  return ((J(r) ? r.ownerDocument : r.document) || window.document).documentElement;
+  return ((J(r) ? r.ownerDocument : r.document) || window.document)
+    .documentElement;
 }
 function te(r) {
-  return M(r) === 'html' ? r : r.assignedSlot || r.parentNode || (ye(r) ? r.host : null) || _(r);
+  return M(r) === "html"
+    ? r
+    : r.assignedSlot || r.parentNode || (ye(r) ? r.host : null) || _(r);
 }
 function tr(r) {
-  return !A(r) || F(r).position === 'fixed' ? null : r.offsetParent;
+  return !A(r) || F(r).position === "fixed" ? null : r.offsetParent;
 }
 function so(r) {
-  var e = navigator.userAgent.toLowerCase().indexOf('firefox') !== -1,
-    t = navigator.userAgent.indexOf('Trident') !== -1;
+  var e = navigator.userAgent.toLowerCase().indexOf("firefox") !== -1,
+    t = navigator.userAgent.indexOf("Trident") !== -1;
   if (t && A(r)) {
     var o = F(r);
-    if (o.position === 'fixed') return null;
+    if (o.position === "fixed") return null;
   }
   var n = te(r);
-  for (ye(n) && (n = n.host); A(n) && ['html', 'body'].indexOf(M(n)) < 0; ) {
+  for (ye(n) && (n = n.host); A(n) && ["html", "body"].indexOf(M(n)) < 0; ) {
     var i = F(n);
     if (
-      i.transform !== 'none' ||
-      i.perspective !== 'none' ||
-      i.contain === 'paint' ||
-      ['transform', 'perspective'].indexOf(i.willChange) !== -1 ||
-      (e && i.willChange === 'filter') ||
-      (e && i.filter && i.filter !== 'none')
+      i.transform !== "none" ||
+      i.perspective !== "none" ||
+      i.contain === "paint" ||
+      ["transform", "perspective"].indexOf(i.willChange) !== -1 ||
+      (e && i.willChange === "filter") ||
+      (e && i.filter && i.filter !== "none")
     )
       return n;
     n = n.parentNode;
@@ -593,11 +657,15 @@ function so(r) {
   return null;
 }
 function z(r) {
-  for (var e = B(r), t = tr(r); t && pt(t) && F(t).position === 'static'; ) t = tr(t);
-  return t && (M(t) === 'html' || (M(t) === 'body' && F(t).position === 'static')) ? e : t || so(r) || e;
+  for (var e = B(r), t = tr(r); t && pt(t) && F(t).position === "static"; )
+    t = tr(t);
+  return t &&
+    (M(t) === "html" || (M(t) === "body" && F(t).position === "static"))
+    ? e
+    : t || so(r) || e;
 }
 function me(r) {
-  return ['top', 'bottom'].indexOf(r) >= 0 ? 'x' : 'y';
+  return ["top", "bottom"].indexOf(r) >= 0 ? "x" : "y";
 }
 function fe(r, e, t) {
   return Y(r, ce(e, t));
@@ -619,8 +687,11 @@ function Ie(r, e) {
 }
 var ao = function (e, t) {
   return (
-    (e = typeof e == 'function' ? e(Object.assign({}, t.rects, { placement: t.placement })) : e),
-    Me(typeof e != 'number' ? e : Ie(e, ne))
+    (e =
+      typeof e == "function"
+        ? e(Object.assign({}, t.rects, { placement: t.placement }))
+        : e),
+    Me(typeof e != "number" ? e : Ie(e, ne))
   );
 };
 function lo(r) {
@@ -633,16 +704,17 @@ function lo(r) {
     a = I(t.placement),
     l = me(a),
     m = [O, k].indexOf(a) >= 0,
-    c = m ? 'height' : 'width';
+    c = m ? "height" : "width";
   if (!(!i || !s)) {
     var h = ao(n.padding, t),
       E = ue(i),
-      p = l === 'y' ? C : O,
-      u = l === 'y' ? D : k,
-      f = t.rects.reference[c] + t.rects.reference[l] - s[l] - t.rects.popper[c],
+      p = l === "y" ? C : O,
+      u = l === "y" ? D : k,
+      f =
+        t.rects.reference[c] + t.rects.reference[l] - s[l] - t.rects.popper[c],
       d = s[l] - t.rects.reference[l],
       x = z(i),
-      j = x ? (l === 'y' ? x.clientHeight || 0 : x.clientWidth || 0) : 0,
+      j = x ? (l === "y" ? x.clientHeight || 0 : x.clientWidth || 0) : 0,
       P = f / 2 - d / 2,
       v = h[p],
       b = j - E[c] - h[u],
@@ -656,25 +728,25 @@ function po(r) {
   var e = r.state,
     t = r.options,
     o = t.element,
-    n = o === void 0 ? '[data-popper-arrow]' : o;
+    n = o === void 0 ? "[data-popper-arrow]" : o;
   n != null &&
-    ((typeof n == 'string' && ((n = e.elements.popper.querySelector(n)), !n)) ||
+    ((typeof n == "string" && ((n = e.elements.popper.querySelector(n)), !n)) ||
       !De(e.elements.popper, n) ||
       (e.elements.arrow = n));
 }
 var or = {
-  name: 'arrow',
+  name: "arrow",
   enabled: !0,
-  phase: 'main',
+  phase: "main",
   fn: lo,
   effect: po,
-  requires: ['popperOffsets'],
-  requiresIfExists: ['preventOverflow'],
+  requires: ["popperOffsets"],
+  requiresIfExists: ["preventOverflow"],
 };
 function G(r) {
-  return r.split('-')[1];
+  return r.split("-")[1];
 }
-var co = { top: 'auto', right: 'auto', bottom: 'auto', left: 'auto' };
+var co = { top: "auto", right: "auto", bottom: "auto", left: "auto" };
 function uo(r) {
   var e = r.x,
     t = r.y,
@@ -698,20 +770,23 @@ function nr(r) {
     p = E === void 0 ? 0 : E,
     u = s.y,
     f = u === void 0 ? 0 : u,
-    d = typeof c == 'function' ? c({ x: p, y: f }) : { x: p, y: f };
+    d = typeof c == "function" ? c({ x: p, y: f }) : { x: p, y: f };
   (p = d.x), (f = d.y);
-  var x = s.hasOwnProperty('x'),
-    j = s.hasOwnProperty('y'),
+  var x = s.hasOwnProperty("x"),
+    j = s.hasOwnProperty("y"),
     P = O,
     v = C,
     b = window;
   if (m) {
     var w = z(t),
-      y = 'clientHeight',
-      T = 'clientWidth';
+      y = "clientHeight",
+      T = "clientWidth";
     if (
       (w === B(t) &&
-        ((w = _(t)), F(w).position !== 'static' && a === 'absolute' && ((y = 'scrollHeight'), (T = 'scrollWidth'))),
+        ((w = _(t)),
+        F(w).position !== "static" &&
+          a === "absolute" &&
+          ((y = "scrollHeight"), (T = "scrollWidth"))),
       (w = w),
       n === C || ((n === O || n === k) && i === pe))
     ) {
@@ -733,19 +808,23 @@ function nr(r) {
       {},
       S,
       (($ = {}),
-      ($[v] = j ? '0' : ''),
-      ($[P] = x ? '0' : ''),
+      ($[v] = j ? "0" : ""),
+      ($[P] = x ? "0" : ""),
       ($.transform =
         (b.devicePixelRatio || 1) <= 1
-          ? 'translate(' + p + 'px, ' + f + 'px)'
-          : 'translate3d(' + p + 'px, ' + f + 'px, 0)'),
+          ? "translate(" + p + "px, " + f + "px)"
+          : "translate3d(" + p + "px, " + f + "px, 0)"),
       $),
     );
   }
   return Object.assign(
     {},
     S,
-    ((e = {}), (e[v] = j ? f + 'px' : ''), (e[P] = x ? p + 'px' : ''), (e.transform = ''), e),
+    ((e = {}),
+    (e[v] = j ? f + "px" : ""),
+    (e[P] = x ? p + "px" : ""),
+    (e.transform = ""),
+    e),
   );
 }
 function mo(r) {
@@ -764,7 +843,7 @@ function mo(r) {
     popper: e.elements.popper,
     popperRect: e.rects.popper,
     gpuAcceleration: n,
-    isFixed: e.options.strategy === 'fixed',
+    isFixed: e.options.strategy === "fixed",
   };
   e.modifiersData.popperOffsets != null &&
     (e.styles.popper = Object.assign(
@@ -784,12 +863,25 @@ function mo(r) {
         {},
         e.styles.arrow,
         nr(
-          Object.assign({}, c, { offsets: e.modifiersData.arrow, position: 'absolute', adaptive: !1, roundOffsets: l }),
+          Object.assign({}, c, {
+            offsets: e.modifiersData.arrow,
+            position: "absolute",
+            adaptive: !1,
+            roundOffsets: l,
+          }),
         ),
       )),
-    (e.attributes.popper = Object.assign({}, e.attributes.popper, { 'data-popper-placement': e.placement }));
+    (e.attributes.popper = Object.assign({}, e.attributes.popper, {
+      "data-popper-placement": e.placement,
+    }));
 }
-var ir = { name: 'computeStyles', enabled: !0, phase: 'beforeWrite', fn: mo, data: {} };
+var ir = {
+  name: "computeStyles",
+  enabled: !0,
+  phase: "beforeWrite",
+  fn: mo,
+  data: {},
+};
 var qe = { passive: !0 };
 function fo(r) {
   var e = r.state,
@@ -804,26 +896,33 @@ function fo(r) {
   return (
     i &&
       m.forEach(function (c) {
-        c.addEventListener('scroll', t.update, qe);
+        c.addEventListener("scroll", t.update, qe);
       }),
-    a && l.addEventListener('resize', t.update, qe),
+    a && l.addEventListener("resize", t.update, qe),
     function () {
       i &&
         m.forEach(function (c) {
-          c.removeEventListener('scroll', t.update, qe);
+          c.removeEventListener("scroll", t.update, qe);
         }),
-        a && l.removeEventListener('resize', t.update, qe);
+        a && l.removeEventListener("resize", t.update, qe);
     }
   );
 }
-var sr = { name: 'eventListeners', enabled: !0, phase: 'write', fn: function () {}, effect: fo, data: {} };
-var go = { left: 'right', right: 'left', bottom: 'top', top: 'bottom' };
+var sr = {
+  name: "eventListeners",
+  enabled: !0,
+  phase: "write",
+  fn: function () {},
+  effect: fo,
+  data: {},
+};
+var go = { left: "right", right: "left", bottom: "top", top: "bottom" };
 function Se(r) {
   return r.replace(/left|right|bottom|top/g, function (e) {
     return go[e];
   });
 }
-var ho = { start: 'end', end: 'start' };
+var ho = { start: "end", end: "start" };
 function Ye(r) {
   return r.replace(/start|end/g, function (e) {
     return ho[e];
@@ -850,7 +949,8 @@ function ct(r) {
     o &&
       ((n = o.width),
       (i = o.height),
-      /^((?!chrome|android).)*safari/i.test(navigator.userAgent) || ((s = o.offsetLeft), (a = o.offsetTop))),
+      /^((?!chrome|android).)*safari/i.test(navigator.userAgent) ||
+        ((s = o.offsetLeft), (a = o.offsetTop))),
     { width: n, height: i, x: s + ge(r), y: a }
   );
 }
@@ -859,12 +959,23 @@ function ut(r) {
     t = _(r),
     o = de(r),
     n = (e = r.ownerDocument) == null ? void 0 : e.body,
-    i = Y(t.scrollWidth, t.clientWidth, n ? n.scrollWidth : 0, n ? n.clientWidth : 0),
-    s = Y(t.scrollHeight, t.clientHeight, n ? n.scrollHeight : 0, n ? n.clientHeight : 0),
+    i = Y(
+      t.scrollWidth,
+      t.clientWidth,
+      n ? n.scrollWidth : 0,
+      n ? n.clientWidth : 0,
+    ),
+    s = Y(
+      t.scrollHeight,
+      t.clientHeight,
+      n ? n.scrollHeight : 0,
+      n ? n.clientHeight : 0,
+    ),
     a = -o.scrollLeft + ge(r),
     l = -o.scrollTop;
   return (
-    F(n || t).direction === 'rtl' && (a += Y(t.clientWidth, n ? n.clientWidth : 0) - i),
+    F(n || t).direction === "rtl" &&
+      (a += Y(t.clientWidth, n ? n.clientWidth : 0) - i),
     { width: i, height: s, x: a, y: l }
   );
 }
@@ -876,7 +987,11 @@ function he(r) {
   return /auto|scroll|overlay|hidden/.test(t + n + o);
 }
 function ze(r) {
-  return ['html', 'body', '#document'].indexOf(M(r)) >= 0 ? r.ownerDocument.body : A(r) && he(r) ? r : ze(te(r));
+  return ["html", "body", "#document"].indexOf(M(r)) >= 0
+    ? r.ownerDocument.body
+    : A(r) && he(r)
+    ? r
+    : ze(te(r));
 }
 function ie(r, e) {
   var t;
@@ -889,7 +1004,12 @@ function ie(r, e) {
   return n ? a : a.concat(ie(te(s)));
 }
 function Ee(r) {
-  return Object.assign({}, r, { left: r.x, top: r.y, right: r.x + r.width, bottom: r.y + r.height });
+  return Object.assign({}, r, {
+    left: r.x,
+    top: r.y,
+    right: r.x + r.width,
+    bottom: r.y + r.height,
+  });
 }
 function vo(r) {
   var e = X(r);
@@ -910,16 +1030,16 @@ function ar(r, e) {
 }
 function wo(r) {
   var e = ie(te(r)),
-    t = ['absolute', 'fixed'].indexOf(F(r).position) >= 0,
+    t = ["absolute", "fixed"].indexOf(F(r).position) >= 0,
     o = t && A(r) ? z(r) : r;
   return J(o)
     ? e.filter(function (n) {
-        return J(n) && De(n, o) && M(n) !== 'body';
+        return J(n) && De(n, o) && M(n) !== "body";
       })
     : [];
 }
 function mt(r, e, t) {
-  var o = e === 'clippingParents' ? wo(r) : [].concat(e),
+  var o = e === "clippingParents" ? wo(r) : [].concat(e),
     n = [].concat(o, [t]),
     i = n[0],
     s = n.reduce(
@@ -935,7 +1055,13 @@ function mt(r, e, t) {
       },
       ar(r, i),
     );
-  return (s.width = s.right - s.left), (s.height = s.bottom - s.top), (s.x = s.left), (s.y = s.top), s;
+  return (
+    (s.width = s.right - s.left),
+    (s.height = s.bottom - s.top),
+    (s.x = s.left),
+    (s.y = s.top),
+    s
+  );
 }
 function Re(r) {
   var e = r.reference,
@@ -964,7 +1090,7 @@ function Re(r) {
   }
   var m = n ? me(n) : null;
   if (m != null) {
-    var c = m === 'y' ? 'height' : 'width';
+    var c = m === "y" ? "height" : "width";
     switch (i) {
       case Z:
         l[m] = l[m] - (e[c] / 2 - t[c] / 2);
@@ -992,13 +1118,13 @@ function K(r, e) {
     E = h === void 0 ? !1 : h,
     p = t.padding,
     u = p === void 0 ? 0 : p,
-    f = Me(typeof u != 'number' ? u : Ie(u, ne)),
+    f = Me(typeof u != "number" ? u : Ie(u, ne)),
     d = c === be ? Jt : be,
     x = r.rects.popper,
     j = r.elements[E ? d : c],
     P = mt(J(j) ? j : j.contextElement || _(r.elements.popper), s, l),
     v = X(r.elements.reference),
-    b = Re({ reference: v, element: x, strategy: 'absolute', placement: n }),
+    b = Re({ reference: v, element: x, strategy: "absolute", placement: n }),
     w = Ee(Object.assign({}, x, b)),
     y = c === be ? w : v,
     T = {
@@ -1012,7 +1138,7 @@ function K(r, e) {
     var L = R[n];
     Object.keys(T).forEach(function (S) {
       var V = [k, D].indexOf(S) >= 0 ? 1 : -1,
-        $ = [C, D].indexOf(S) >= 0 ? 'y' : 'x';
+        $ = [C, D].indexOf(S) >= 0 ? "y" : "x";
       T[S] += L[$] * V;
     });
   }
@@ -1041,7 +1167,12 @@ function ft(r, e) {
     });
   E.length === 0 && (E = h);
   var p = E.reduce(function (u, f) {
-    return (u[f] = K(r, { placement: f, boundary: n, rootBoundary: i, padding: s })[I(f)]), u;
+    return (
+      (u[f] = K(r, { placement: f, boundary: n, rootBoundary: i, padding: s })[
+        I(f)
+      ]),
+      u
+    );
   }, {});
   return Object.keys(p).sort(function (u, f) {
     return p[u] - p[f];
@@ -1101,8 +1232,14 @@ function bo(r) {
         V = I(S),
         $ = G(S) === Z,
         Ce = [C, D].indexOf(V) >= 0,
-        Te = Ce ? 'width' : 'height',
-        H = K(e, { placement: S, boundary: c, rootBoundary: h, altBoundary: E, padding: m }),
+        Te = Ce ? "width" : "height",
+        H = K(e, {
+          placement: S,
+          boundary: c,
+          rootBoundary: h,
+          altBoundary: E,
+          padding: m,
+        }),
         U = Ce ? ($ ? k : O) : $ ? D : C;
       b[Te] > w[Te] && (U = Se(U));
       var Le = Se(U),
@@ -1130,19 +1267,27 @@ function bo(r) {
                   return Je;
                 });
             });
-            if (Be) return (R = Be), 'break';
+            if (Be) return (R = Be), "break";
           },
           Oe = _e;
         Oe > 0;
         Oe--
       ) {
         var Fe = Qe(Oe);
-        if (Fe === 'break') break;
+        if (Fe === "break") break;
       }
-    e.placement !== R && ((e.modifiersData[o]._skip = !0), (e.placement = R), (e.reset = !0));
+    e.placement !== R &&
+      ((e.modifiersData[o]._skip = !0), (e.placement = R), (e.reset = !0));
   }
 }
-var lr = { name: 'flip', enabled: !0, phase: 'main', fn: bo, requiresIfExists: ['offset'], data: { _skip: !1 } };
+var lr = {
+  name: "flip",
+  enabled: !0,
+  phase: "main",
+  fn: bo,
+  requiresIfExists: ["offset"],
+  data: { _skip: !1 },
+};
 function pr(r, e, t) {
   return (
     t === void 0 && (t = { x: 0, y: 0 }),
@@ -1165,7 +1310,7 @@ function yo(r) {
     o = e.rects.reference,
     n = e.rects.popper,
     i = e.modifiersData.preventOverflow,
-    s = K(e, { elementContext: 'reference' }),
+    s = K(e, { elementContext: "reference" }),
     a = K(e, { altBoundary: !0 }),
     l = pr(s, o),
     m = pr(a, n, i),
@@ -1178,18 +1323,28 @@ function yo(r) {
     hasPopperEscaped: h,
   }),
     (e.attributes.popper = Object.assign({}, e.attributes.popper, {
-      'data-popper-reference-hidden': c,
-      'data-popper-escaped': h,
+      "data-popper-reference-hidden": c,
+      "data-popper-escaped": h,
     }));
 }
-var ur = { name: 'hide', enabled: !0, phase: 'main', requiresIfExists: ['preventOverflow'], fn: yo };
+var ur = {
+  name: "hide",
+  enabled: !0,
+  phase: "main",
+  requiresIfExists: ["preventOverflow"],
+  fn: yo,
+};
 function So(r, e, t) {
   var o = I(r),
     n = [O, C].indexOf(o) >= 0 ? -1 : 1,
-    i = typeof t == 'function' ? t(Object.assign({}, e, { placement: r })) : t,
+    i = typeof t == "function" ? t(Object.assign({}, e, { placement: r })) : t,
     s = i[0],
     a = i[1];
-  return (s = s || 0), (a = (a || 0) * n), [O, k].indexOf(o) >= 0 ? { x: a, y: s } : { x: s, y: a };
+  return (
+    (s = s || 0),
+    (a = (a || 0) * n),
+    [O, k].indexOf(o) >= 0 ? { x: a, y: s } : { x: s, y: a }
+  );
 }
 function Eo(r) {
   var e = r.state,
@@ -1204,23 +1359,36 @@ function Eo(r) {
     l = a.x,
     m = a.y;
   e.modifiersData.popperOffsets != null &&
-    ((e.modifiersData.popperOffsets.x += l), (e.modifiersData.popperOffsets.y += m)),
+    ((e.modifiersData.popperOffsets.x += l),
+    (e.modifiersData.popperOffsets.y += m)),
     (e.modifiersData[o] = s);
 }
-var mr = { name: 'offset', enabled: !0, phase: 'main', requires: ['popperOffsets'], fn: Eo };
+var mr = {
+  name: "offset",
+  enabled: !0,
+  phase: "main",
+  requires: ["popperOffsets"],
+  fn: Eo,
+};
 function jo(r) {
   var e = r.state,
     t = r.name;
   e.modifiersData[t] = Re({
     reference: e.rects.reference,
     element: e.rects.popper,
-    strategy: 'absolute',
+    strategy: "absolute",
     placement: e.placement,
   });
 }
-var fr = { name: 'popperOffsets', enabled: !0, phase: 'read', fn: jo, data: {} };
+var fr = {
+  name: "popperOffsets",
+  enabled: !0,
+  phase: "read",
+  fn: jo,
+  data: {},
+};
 function dt(r) {
-  return r === 'x' ? 'y' : 'x';
+  return r === "x" ? "y" : "x";
 }
 function Po(r) {
   var e = r.state,
@@ -1247,16 +1415,22 @@ function Po(r) {
     w = e.modifiersData.popperOffsets,
     y = e.rects.reference,
     T = e.rects.popper,
-    R = typeof f == 'function' ? f(Object.assign({}, e.rects, { placement: e.placement })) : f,
-    L = typeof R == 'number' ? { mainAxis: R, altAxis: R } : Object.assign({ mainAxis: 0, altAxis: 0 }, R),
+    R =
+      typeof f == "function"
+        ? f(Object.assign({}, e.rects, { placement: e.placement }))
+        : f,
+    L =
+      typeof R == "number"
+        ? { mainAxis: R, altAxis: R }
+        : Object.assign({ mainAxis: 0, altAxis: 0 }, R),
     S = e.modifiersData.offset ? e.modifiersData.offset[e.placement] : null,
     V = { x: 0, y: 0 };
   if (!!w) {
     if (i) {
       var $,
-        Ce = v === 'y' ? C : O,
-        Te = v === 'y' ? D : k,
-        H = v === 'y' ? 'height' : 'width',
+        Ce = v === "y" ? C : O,
+        Te = v === "y" ? D : k,
+        H = v === "y" ? "height" : "width",
         U = w[v],
         Le = U + d[Ce],
         se = U - d[Te],
@@ -1265,14 +1439,20 @@ function Po(r) {
         Oe = j === Z ? -T[H] : -y[H],
         Fe = e.elements.arrow,
         we = p && Fe ? ue(Fe) : { width: 0, height: 0 },
-        re = e.modifiersData['arrow#persistent'] ? e.modifiersData['arrow#persistent'].padding : Ae(),
+        re = e.modifiersData["arrow#persistent"]
+          ? e.modifiersData["arrow#persistent"].padding
+          : Ae(),
         Be = re[Ce],
         Ve = re[Te],
         ae = fe(0, y[H], we[H]),
-        Je = P ? y[H] / 2 - _e - ae - Be - L.mainAxis : Qe - ae - Be - L.mainAxis,
-        Dr = P ? -y[H] / 2 + _e + ae + Ve + L.mainAxis : Oe + ae + Ve + L.mainAxis,
+        Je = P
+          ? y[H] / 2 - _e - ae - Be - L.mainAxis
+          : Qe - ae - Be - L.mainAxis,
+        Dr = P
+          ? -y[H] / 2 + _e + ae + Ve + L.mainAxis
+          : Oe + ae + Ve + L.mainAxis,
         Ze = e.elements.arrow && z(e.elements.arrow),
-        Ar = Ze ? (v === 'y' ? Ze.clientTop || 0 : Ze.clientLeft || 0) : 0,
+        Ar = Ze ? (v === "y" ? Ze.clientTop || 0 : Ze.clientLeft || 0) : 0,
         Ot = ($ = S == null ? void 0 : S[v]) != null ? $ : 0,
         Mr = U + Je - Ot - Ar,
         Ir = U + Dr - Ot,
@@ -1281,10 +1461,10 @@ function Po(r) {
     }
     if (a) {
       var kt,
-        Rr = v === 'x' ? C : O,
-        Lr = v === 'x' ? D : k,
+        Rr = v === "x" ? C : O,
+        Lr = v === "x" ? D : k,
         le = w[b],
-        $e = b === 'y' ? 'height' : 'width',
+        $e = b === "y" ? "height" : "width",
         Nt = le + d[Rr],
         Dt = le - d[Lr],
         et = [C, O].indexOf(x) !== -1,
@@ -1297,7 +1477,13 @@ function Po(r) {
     e.modifiersData[o] = V;
   }
 }
-var dr = { name: 'preventOverflow', enabled: !0, phase: 'main', fn: Po, requiresIfExists: ['offset'] };
+var dr = {
+  name: "preventOverflow",
+  enabled: !0,
+  phase: "main",
+  fn: Po,
+  requiresIfExists: ["offset"],
+};
 function gt(r) {
   return { scrollLeft: r.scrollLeft, scrollTop: r.scrollTop };
 }
@@ -1320,9 +1506,16 @@ function vt(r, e, t) {
     l = { x: 0, y: 0 };
   return (
     (o || (!o && !t)) &&
-      ((M(e) !== 'body' || he(i)) && (a = ht(e)),
-      A(e) ? ((l = X(e, !0)), (l.x += e.clientLeft), (l.y += e.clientTop)) : i && (l.x = ge(i))),
-    { x: s.left + a.scrollLeft - l.x, y: s.top + a.scrollTop - l.y, width: s.width, height: s.height }
+      ((M(e) !== "body" || he(i)) && (a = ht(e)),
+      A(e)
+        ? ((l = X(e, !0)), (l.x += e.clientLeft), (l.y += e.clientTop))
+        : i && (l.x = ge(i))),
+    {
+      x: s.left + a.scrollLeft - l.x,
+      y: s.top + a.scrollTop - l.y,
+      width: s.width,
+      height: s.height,
+    }
   );
 }
 function To(r) {
@@ -1391,11 +1584,12 @@ function bt(r) {
     return e[t];
   });
 }
-var gr = { placement: 'bottom', modifiers: [], strategy: 'absolute' };
+var gr = { placement: "bottom", modifiers: [], strategy: "absolute" };
 function hr() {
-  for (var r = arguments.length, e = new Array(r), t = 0; t < r; t++) e[t] = arguments[t];
+  for (var r = arguments.length, e = new Array(r), t = 0; t < r; t++)
+    e[t] = arguments[t];
   return !e.some(function (o) {
-    return !(o && typeof o.getBoundingClientRect == 'function');
+    return !(o && typeof o.getBoundingClientRect == "function");
   });
 }
 function vr(r) {
@@ -1408,7 +1602,7 @@ function vr(r) {
   return function (a, l, m) {
     m === void 0 && (m = i);
     var c = {
-        placement: 'bottom',
+        placement: "bottom",
         orderedModifiers: [],
         options: Object.assign({}, gr, i),
         modifiersData: {},
@@ -1421,11 +1615,15 @@ function vr(r) {
       p = {
         state: c,
         setOptions: function (x) {
-          var j = typeof x == 'function' ? x(c.options) : x;
+          var j = typeof x == "function" ? x(c.options) : x;
           f(),
             (c.options = Object.assign({}, i, c.options, j)),
             (c.scrollParents = {
-              reference: J(a) ? ie(a) : a.contextElement ? ie(a.contextElement) : [],
+              reference: J(a)
+                ? ie(a)
+                : a.contextElement
+                ? ie(a.contextElement)
+                : [],
               popper: ie(l),
             });
           var P = wt(bt([].concat(o, c.options.modifiers)));
@@ -1447,7 +1645,10 @@ function vr(r) {
               j = x.reference,
               P = x.popper;
             if (!!hr(j, P)) {
-              (c.rects = { reference: vt(j, z(P), c.options.strategy === 'fixed'), popper: ue(P) }),
+              (c.rects = {
+                reference: vt(j, z(P), c.options.strategy === "fixed"),
+                popper: ue(P),
+              }),
                 (c.reset = !1),
                 (c.placement = c.options.placement),
                 c.orderedModifiers.forEach(function (S) {
@@ -1463,7 +1664,8 @@ function vr(r) {
                   T = w.options,
                   R = T === void 0 ? {} : T,
                   L = w.name;
-                typeof y == 'function' && (c = y({ state: c, options: R, name: L, instance: p }) || c);
+                typeof y == "function" &&
+                  (c = y({ state: c, options: R, name: L, instance: p }) || c);
               }
             }
           }
@@ -1487,7 +1689,7 @@ function vr(r) {
           j = d.options,
           P = j === void 0 ? {} : j,
           v = d.effect;
-        if (typeof v == 'function') {
+        if (typeof v == "function") {
           var b = v({ state: c, name: x, instance: p, options: P }),
             w = function () {};
           h.push(b || w);
@@ -1510,15 +1712,21 @@ var Bo = (r, e) => ((r % e) + e) % e,
     constructor(e, t, o) {
       (this.owner = e),
         (this.containerEl = t),
-        t.on('click', '.suggestion-item', this.onSuggestionClick.bind(this)),
-        t.on('mousemove', '.suggestion-item', this.onSuggestionMouseover.bind(this)),
-        o.register([], 'ArrowUp', (n) => {
-          if (!n.isComposing) return this.setSelectedItem(this.selectedItem - 1, !0), !1;
+        t.on("click", ".suggestion-item", this.onSuggestionClick.bind(this)),
+        t.on(
+          "mousemove",
+          ".suggestion-item",
+          this.onSuggestionMouseover.bind(this),
+        ),
+        o.register([], "ArrowUp", (n) => {
+          if (!n.isComposing)
+            return this.setSelectedItem(this.selectedItem - 1, !0), !1;
         }),
-        o.register([], 'ArrowDown', (n) => {
-          if (!n.isComposing) return this.setSelectedItem(this.selectedItem + 1, !0), !1;
+        o.register([], "ArrowDown", (n) => {
+          if (!n.isComposing)
+            return this.setSelectedItem(this.selectedItem + 1, !0), !1;
         }),
-        o.register([], 'Enter', (n) => {
+        o.register([], "Enter", (n) => {
           if (!n.isComposing) return this.useSelectedItem(n), !1;
         });
     }
@@ -1535,7 +1743,7 @@ var Bo = (r, e) => ((r % e) + e) % e,
       this.containerEl.empty();
       let t = [];
       e.forEach((o) => {
-        let n = this.containerEl.createDiv('suggestion-item');
+        let n = this.containerEl.createDiv("suggestion-item");
         this.owner.renderSuggestion(o, n), t.push(n);
       }),
         (this.values = e),
@@ -1550,8 +1758,8 @@ var Bo = (r, e) => ((r % e) + e) % e,
       let o = Bo(e, this.suggestions.length),
         n = this.suggestions[this.selectedItem],
         i = this.suggestions[o];
-      n == null || n.removeClass('is-selected'),
-        i == null || i.addClass('is-selected'),
+      n == null || n.removeClass("is-selected"),
+        i == null || i.addClass("is-selected"),
         (this.selectedItem = o),
         t && i.scrollIntoView(!1);
     }
@@ -1560,14 +1768,15 @@ var Bo = (r, e) => ((r % e) + e) % e,
     constructor(e, t) {
       this.app = e;
       this.inputEl = t;
-      (this.scope = new wr.Scope()), (this.suggestEl = createDiv('suggestion-container'));
-      let o = this.suggestEl.createDiv('suggestion');
+      (this.scope = new wr.Scope()),
+        (this.suggestEl = createDiv("suggestion-container"));
+      let o = this.suggestEl.createDiv("suggestion");
       (this.suggest = new xr(this, o, this.scope)),
-        this.scope.register([], 'Escape', this.close.bind(this)),
-        this.inputEl.addEventListener('input', this.onInputChanged.bind(this)),
-        this.inputEl.addEventListener('focus', this.onInputChanged.bind(this)),
-        this.inputEl.addEventListener('blur', this.close.bind(this)),
-        this.suggestEl.on('mousedown', '.suggestion-container', (n) => {
+        this.scope.register([], "Escape", this.close.bind(this)),
+        this.inputEl.addEventListener("input", this.onInputChanged.bind(this)),
+        this.inputEl.addEventListener("focus", this.onInputChanged.bind(this)),
+        this.inputEl.addEventListener("blur", this.close.bind(this)),
+        this.suggestEl.on("mousedown", ".suggestion-container", (n) => {
           n.preventDefault();
         });
     }
@@ -1579,24 +1788,26 @@ var Bo = (r, e) => ((r % e) + e) % e,
         return;
       }
       t.length > 0
-        ? (this.suggest.setSuggestions(t), this.open(this.app.dom.appContainerEl, this.inputEl))
+        ? (this.suggest.setSuggestions(t),
+          this.open(this.app.dom.appContainerEl, this.inputEl))
         : this.close();
     }
     open(e, t) {
       this.app.keymap.pushScope(this.scope),
         e.appendChild(this.suggestEl),
         (this.popper = yt(t, this.suggestEl, {
-          placement: 'bottom-start',
+          placement: "bottom-start",
           modifiers: [
             {
-              name: 'sameWidth',
+              name: "sameWidth",
               enabled: !0,
               fn: ({ state: o, instance: n }) => {
                 let i = `${o.rects.reference.width}px`;
-                o.styles.popper.width !== i && ((o.styles.popper.width = i), n.update());
+                o.styles.popper.width !== i &&
+                  ((o.styles.popper.width = i), n.update());
               },
-              phase: 'beforeWrite',
-              requires: ['computeStyles'],
+              phase: "beforeWrite",
+              requires: ["computeStyles"],
             },
           ],
         }));
@@ -1608,20 +1819,20 @@ var Bo = (r, e) => ((r % e) + e) % e,
         this.suggestEl.detach();
     }
   };
-var ko = '{{DATE}}',
-  br = '{{DATE:}}',
+var ko = "{{DATE}}",
+  br = "{{DATE:}}",
   No = /{{D?A?T?E?}?}?$/i,
   Do = /{{D?A?T?E?:?$|{{DATE:[^\n\r}]*}}$/i,
-  Ao = '{{author}}',
+  Ao = "{{author}}",
   Mo = /{{a?u?t?h?o?r?}?}?$/i,
-  Io = '{{title}}',
+  Io = "{{title}}",
   Ro = /{{t?i?t?l?e?}?}?$/i,
   St = class extends ve {
     constructor(e, t) {
       super(e, t);
       this.app = e;
       this.inputEl = t;
-      this.lastInput = '';
+      this.lastInput = "";
     }
     getSuggestions(e) {
       let t = this.inputEl.selectionStart,
@@ -1642,9 +1853,12 @@ var ko = '{{DATE}}',
         i = 0,
         s = (a, l = 0) => `${n.substr(0, t - o + l)}${a}${n.substr(t)}`;
       this.processToken(e, (a, l) => {
-        e.contains(l) && ((this.inputEl.value = s(e)), (i = t - o + e.length), e === br && (i -= 2));
+        e.contains(l) &&
+          ((this.inputEl.value = s(e)),
+          (i = t - o + e.length),
+          e === br && (i -= 2));
       }),
-        this.inputEl.trigger('input'),
+        this.inputEl.trigger("input"),
         this.close(),
         this.inputEl.setSelectionRange(i, i);
     }
@@ -1662,7 +1876,7 @@ var ko = '{{DATE}}',
       s && t(s, Io);
     }
   };
-var yr = q(require('obsidian'));
+var yr = q(require("obsidian"));
 var Et = class extends ve {
   getSuggestions(e) {
     let t = this.app.vault.getAllLoadedFiles(),
@@ -1670,7 +1884,9 @@ var Et = class extends ve {
       n = e.toLowerCase();
     return (
       t.forEach((i) => {
-        i instanceof yr.TFolder && i.path.toLowerCase().contains(n) && o.push(i);
+        i instanceof yr.TFolder &&
+          i.path.toLowerCase().contains(n) &&
+          o.push(i);
       }),
       o
     );
@@ -1679,10 +1895,10 @@ var Et = class extends ve {
     t.setText(e.path);
   }
   selectSuggestion(e) {
-    (this.inputEl.value = e.path), this.inputEl.trigger('input'), this.close();
+    (this.inputEl.value = e.path), this.inputEl.trigger("input"), this.close();
   }
 };
-var Sr = q(require('obsidian'));
+var Sr = q(require("obsidian"));
 var jt = class extends ve {
   getSuggestions(e) {
     let t = this.app.vault.getAllLoadedFiles(),
@@ -1690,7 +1906,10 @@ var jt = class extends ve {
       n = e.toLowerCase();
     return (
       t.forEach((i) => {
-        i instanceof Sr.TFile && i.extension === 'md' && i.path.toLowerCase().contains(n) && o.push(i);
+        i instanceof Sr.TFile &&
+          i.extension === "md" &&
+          i.path.toLowerCase().contains(n) &&
+          o.push(i);
       }),
       o
     );
@@ -1699,10 +1918,10 @@ var jt = class extends ve {
     t.setText(e.path);
   }
   selectSuggestion(e) {
-    (this.inputEl.value = e.path), this.inputEl.trigger('input'), this.close();
+    (this.inputEl.value = e.path), this.inputEl.trigger("input"), this.close();
   }
 };
-var je = q(require('obsidian')),
+var je = q(require("obsidian")),
   Pt = class extends je.Modal {
     constructor(e, t) {
       super(e.app);
@@ -1710,7 +1929,9 @@ var je = q(require('obsidian')),
       var o, n;
       (this.plugin = e),
         (this.currentServiceProvider =
-          (n = (o = e.settings) == null ? void 0 : o.serviceProvider) != null ? n : N.google);
+          (n = (o = e.settings) == null ? void 0 : o.serviceProvider) != null
+            ? n
+            : N.google);
     }
     get settings() {
       return this.plugin.settings;
@@ -1721,34 +1942,46 @@ var je = q(require('obsidian')),
       });
     }
     saveClientId(e) {
-      this.currentServiceProvider === N.naver && (this.plugin.settings.naverClientId = e);
+      this.currentServiceProvider === N.naver &&
+        (this.plugin.settings.naverClientId = e);
     }
     saveClientSecret(e) {
-      this.currentServiceProvider === N.naver && (this.settings.naverClientSecret = e);
+      this.currentServiceProvider === N.naver &&
+        (this.settings.naverClientSecret = e);
     }
     get currentClientId() {
-      return this.currentServiceProvider === N.naver ? this.settings.naverClientId : '';
+      return this.currentServiceProvider === N.naver
+        ? this.settings.naverClientId
+        : "";
     }
     get currentClientSecret() {
-      return this.currentServiceProvider === N.naver ? this.settings.naverClientSecret : '';
+      return this.currentServiceProvider === N.naver
+        ? this.settings.naverClientSecret
+        : "";
     }
     onOpen() {
       let { contentEl: e } = this;
-      e.createEl('h2', { text: 'Service Provider Setting' }),
-        new je.Setting(e).setName('Client ID').addText((t) => {
-          t.setValue(this.currentClientId).onChange((o) => this.saveClientId(o));
+      e.createEl("h2", { text: "Service Provider Setting" }),
+        new je.Setting(e).setName("Client ID").addText((t) => {
+          t.setValue(this.currentClientId).onChange((o) =>
+            this.saveClientId(o),
+          );
         }),
-        new je.Setting(e).setName('Client Secret').addText((t) => {
-          t.setValue(this.currentClientSecret).onChange((o) => this.saveClientSecret(o));
+        new je.Setting(e).setName("Client Secret").addText((t) => {
+          t.setValue(this.currentClientSecret).onChange((o) =>
+            this.saveClientSecret(o),
+          );
         }),
         new je.Setting(e).addButton((t) =>
           t
-            .setButtonText('Save')
+            .setButtonText("Save")
             .setCta()
             .onClick(() =>
               g(this, null, function* () {
                 var o;
-                yield this.plugin.saveSettings(), this.close(), (o = this.callback) == null || o.call(this);
+                yield this.plugin.saveSettings(),
+                  this.close(),
+                  (o = this.callback) == null || o.call(this);
               }),
             ),
         );
@@ -1757,23 +1990,23 @@ var je = q(require('obsidian')),
       this.contentEl.empty();
     }
   };
-var Er = 'https://github.com/anpigon/obsidian-book-search-plugin',
+var Er = "https://github.com/anpigon/obsidian-book-search-plugin",
   Q;
 (function (t) {
-  (t.snakeCase = 'Snake Case'), (t.camelCase = 'Camel Case');
+  (t.snakeCase = "Snake Case"), (t.camelCase = "Camel Case");
 })(Q || (Q = {}));
 var jr = {
-    folder: '',
-    fileNameFormat: '',
-    frontmatter: '',
-    content: '',
+    folder: "",
+    fileNameFormat: "",
+    frontmatter: "",
+    content: "",
     useDefaultFrontmatter: !0,
     defaultFrontmatterKeyType: Q.camelCase,
-    templateFile: '',
+    templateFile: "",
     serviceProvider: N.google,
-    naverClientId: '',
-    naverClientSecret: '',
-    localePreference: 'default',
+    naverClientId: "",
+    naverClientSecret: "",
+    localePreference: "default",
   },
   Ct = class extends W.PluginSettingTab {
     constructor(e, t) {
@@ -1786,89 +2019,114 @@ var jr = {
     display() {
       let { containerEl: e } = this;
       e.empty(),
-        e.classList.add('book-search-plugin__settings'),
-        Pr(e, 'General Settings'),
+        e.classList.add("book-search-plugin__settings"),
+        Pr(e, "General Settings"),
         new W.Setting(e)
-          .setName('New file location')
-          .setDesc('New book notes will be placed here.')
+          .setName("New file location")
+          .setDesc("New book notes will be placed here.")
           .addSearch((p) => {
             try {
               new Et(this.app, p.inputEl);
             } catch (u) {}
-            p.setPlaceholder('Example: folder1/folder2')
+            p.setPlaceholder("Example: folder1/folder2")
               .setValue(this.plugin.settings.folder)
               .onChange((u) => {
                 (this.plugin.settings.folder = u), this.plugin.saveSettings();
               });
           });
-      let t = document
-        .createDocumentFragment()
-        .createEl('code', { text: We(this.plugin.settings.fileNameFormat) || '{{title}} - {{author}}' });
+      let t = document.createDocumentFragment().createEl("code", {
+        text:
+          We(this.plugin.settings.fileNameFormat) || "{{title}} - {{author}}",
+      });
       new W.Setting(e)
-        .setClass('book-search-plugin__settings--new_file_name')
-        .setName('New file name')
-        .setDesc('Enter the file name format.')
+        .setClass("book-search-plugin__settings--new_file_name")
+        .setName("New file name")
+        .setDesc("Enter the file name format.")
         .addSearch((p) => {
           try {
             new St(this.app, p.inputEl);
           } catch (u) {}
-          p.setPlaceholder('Example: {{title}} - {{author}}')
+          p.setPlaceholder("Example: {{title}} - {{author}}")
             .setValue(this.plugin.settings.fileNameFormat)
             .onChange((u) => {
-              (this.plugin.settings.fileNameFormat = u == null ? void 0 : u.trim()),
+              (this.plugin.settings.fileNameFormat =
+                u == null ? void 0 : u.trim()),
                 this.plugin.saveSettings(),
-                (t.innerHTML = We(u) || '{{title}} - {{author}}');
+                (t.innerHTML = We(u) || "{{title}} - {{author}}");
             });
         }),
         e
-          .createEl('div', { cls: ['setting-item-description', 'book-search-plugin__settings--new_file_name_hint'] })
+          .createEl("div", {
+            cls: [
+              "setting-item-description",
+              "book-search-plugin__settings--new_file_name_hint",
+            ],
+          })
           .append(t);
       let o = document.createDocumentFragment();
-      o.createDiv({ text: 'Files will be available as templates.' }),
-        o.createEl('a', { text: 'Example Template', href: `${Er}#example-template` }),
+      o.createDiv({ text: "Files will be available as templates." }),
+        o.createEl("a", {
+          text: "Example Template",
+          href: `${Er}#example-template`,
+        }),
         new W.Setting(e)
-          .setName('Template file')
+          .setName("Template file")
           .setDesc(o)
           .addSearch((p) => {
             try {
               new jt(this.app, p.inputEl);
             } catch (u) {}
-            p.setPlaceholder('Example: templates/template-file')
+            p.setPlaceholder("Example: templates/template-file")
               .setValue(this.plugin.settings.templateFile)
               .onChange((u) => {
-                (this.plugin.settings.templateFile = u), this.plugin.saveSettings();
+                (this.plugin.settings.templateFile = u),
+                  this.plugin.saveSettings();
               });
           });
       let n,
         i,
         s = () => {
-          n.addClass('book-search-plugin__hide');
+          n.addClass("book-search-plugin__hide");
         },
         a = () => {
-          n.removeClass('book-search-plugin__hide');
+          n.removeClass("book-search-plugin__hide");
         },
         l = () => {
-          i !== void 0 && i.settingEl.addClass('book-search-plugin__hide');
+          i !== void 0 && i.settingEl.addClass("book-search-plugin__hide");
         },
         m = () => {
-          i !== void 0 && i.settingEl.removeClass('book-search-plugin__hide');
+          i !== void 0 && i.settingEl.removeClass("book-search-plugin__hide");
         },
-        c = (p = ((u) => ((u = this.settings) == null ? void 0 : u.serviceProvider))()) => {
+        c = (
+          p = ((u) =>
+            (u = this.settings) == null ? void 0 : u.serviceProvider)(),
+        ) => {
           p === N.naver ? (a(), l()) : (s(), m());
         };
       new W.Setting(e)
-        .setName('Service Provider')
-        .setDesc('Choose the service provider you want to use to search your books.')
-        .setClass('book-search-plugin__settings--service_provider')
+        .setName("Service Provider")
+        .setDesc(
+          "Choose the service provider you want to use to search your books.",
+        )
+        .setClass("book-search-plugin__settings--service_provider")
         .addDropdown((p) => {
           var u, f;
           p.addOption(N.google, `${N.google} (Global)`),
             p.addOption(N.naver, `${N.naver} (Korean)`),
-            p.setValue((f = (u = this.plugin.settings) == null ? void 0 : u.serviceProvider) != null ? f : N.google),
+            p.setValue(
+              (f =
+                (u = this.plugin.settings) == null
+                  ? void 0
+                  : u.serviceProvider) != null
+                ? f
+                : N.google,
+            ),
             p.onChange((d) =>
               g(this, null, function* () {
                 let x = d;
-                c(x), (this.settings.serviceProvider = x), yield this.plugin.saveSettings();
+                c(x),
+                  (this.settings.serviceProvider = x),
+                  yield this.plugin.saveSettings();
               }),
             );
         })
@@ -1880,8 +2138,8 @@ var jr = {
             });
         }),
         (i = new W.Setting(e)
-          .setName('Preferred locale')
-          .setDesc('Sets the preferred locale to use when searching for books.')
+          .setName("Preferred locale")
+          .setDesc("Sets the preferred locale to use when searching for books.")
           .addDropdown((p) => {
             let u = window.moment.locale();
             p.addOption(u, `${u} (Default Locale)`),
@@ -1889,32 +2147,37 @@ var jr = {
                 p.addOption(d, d);
               });
             let f = this.settings.localePreference;
-            f === 'default' ? p.setValue(u) : p.setValue(f),
+            f === "default" ? p.setValue(u) : p.setValue(f),
               p.onChange((d) =>
                 g(this, null, function* () {
                   let x = d;
-                  (this.settings.localePreference = x), yield this.plugin.saveSettings();
+                  (this.settings.localePreference = x),
+                    yield this.plugin.saveSettings();
                 }),
               );
           }));
       let h = [];
-      Cr(e, 'Frontmatter Settings', h),
+      Cr(e, "Frontmatter Settings", h),
         h.push(
           new W.Setting(e)
-            .setClass('book-search-plugin__hide')
-            .setName('Use the default frontmatter')
-            .setDesc("If you don't want the default frontmatter to be inserted, disable it.")
+            .setClass("book-search-plugin__hide")
+            .setName("Use the default frontmatter")
+            .setDesc(
+              "If you don't want the default frontmatter to be inserted, disable it.",
+            )
             .addToggle((p) => {
-              p.setValue(this.plugin.settings.useDefaultFrontmatter).onChange((u) =>
-                g(this, null, function* () {
-                  let f = u;
-                  (this.plugin.settings.useDefaultFrontmatter = f), yield this.plugin.saveSettings();
-                }),
+              p.setValue(this.plugin.settings.useDefaultFrontmatter).onChange(
+                (u) =>
+                  g(this, null, function* () {
+                    let f = u;
+                    (this.plugin.settings.useDefaultFrontmatter = f),
+                      yield this.plugin.saveSettings();
+                  }),
               );
             }),
           new W.Setting(e)
-            .setClass('book-search-plugin__hide')
-            .setName('Default frontmatter key type')
+            .setClass("book-search-plugin__hide")
+            .setName("Default frontmatter key type")
             .setDesc(Lo())
             .addDropdown((p) => {
               p.addOption(Q.snakeCase, Q.snakeCase.toString()),
@@ -1922,37 +2185,40 @@ var jr = {
                 p.setValue(this.plugin.settings.defaultFrontmatterKeyType),
                 p.onChange((u) =>
                   g(this, null, function* () {
-                    (this.plugin.settings.defaultFrontmatterKeyType = u), yield this.plugin.saveSettings();
+                    (this.plugin.settings.defaultFrontmatterKeyType = u),
+                      yield this.plugin.saveSettings();
                   }),
                 );
             }),
           new W.Setting(e)
-            .setClass('book-search-plugin__hide')
-            .setName('(Deprecated) Text to insert into frontmatter')
-            .setDesc(Tr('#text-to-insert-into-frontmatter'))
+            .setClass("book-search-plugin__hide")
+            .setName("(Deprecated) Text to insert into frontmatter")
+            .setDesc(Tr("#text-to-insert-into-frontmatter"))
             .addTextArea((p) => {
               let u = this.plugin.settings.frontmatter;
               p.setValue(u).onChange((f) =>
                 g(this, null, function* () {
                   let d = f;
-                  (this.plugin.settings.frontmatter = d), yield this.plugin.saveSettings();
+                  (this.plugin.settings.frontmatter = d),
+                    yield this.plugin.saveSettings();
                 }),
               );
             }),
         );
       let E = [];
-      Cr(e, 'Content Settings', E),
+      Cr(e, "Content Settings", E),
         E.push(
           new W.Setting(e)
-            .setClass('book-search-plugin__hide')
-            .setName('(Deprecated) Text to insert into content')
-            .setDesc(Tr('#text-to-insert-into-content'))
+            .setClass("book-search-plugin__hide")
+            .setName("(Deprecated) Text to insert into content")
+            .setDesc(Tr("#text-to-insert-into-content"))
             .addTextArea((p) => {
               let u = this.plugin.settings.content;
               p.setValue(u).onChange((f) =>
                 g(this, null, function* () {
                   let d = f;
-                  (this.plugin.settings.content = d), yield this.plugin.saveSettings();
+                  (this.plugin.settings.content = d),
+                    yield this.plugin.saveSettings();
                 }),
               );
             }),
@@ -1963,24 +2229,26 @@ function Lo() {
   let r = document.createDocumentFragment();
   return (
     r.append(
-      '- Snake Case: ',
-      r.createEl('code', { text: 'total_page' }),
-      r.createEl('br'),
-      '- Camel Case: ',
-      r.createEl('code', { text: 'totalPage' }),
+      "- Snake Case: ",
+      r.createEl("code", { text: "total_page" }),
+      r.createEl("br"),
+      "- Camel Case: ",
+      r.createEl("code", { text: "totalPage" }),
     ),
     r
   );
 }
 function Pr(r, e) {
   let t = document.createDocumentFragment();
-  return t.createEl('h2', { text: e }), new W.Setting(r).setHeading().setName(t);
+  return (
+    t.createEl("h2", { text: e }), new W.Setting(r).setHeading().setName(t)
+  );
 }
 function Cr(r, e, t) {
   return Pr(r, e).addToggle((o) => {
     o.onChange((n) => {
       t.forEach(({ settingEl: i }) => {
-        i.toggleClass('book-search-plugin__show', n);
+        i.toggleClass("book-search-plugin__show", n);
       });
     });
   });
@@ -1989,62 +2257,72 @@ function Tr(r) {
   let e = document.createDocumentFragment();
   return (
     e.append(
-      'Please use the template file.',
-      e.createEl('br'),
-      'The following syntaxes are available: ',
-      e.createEl('br'),
-      e.createEl('code', { text: '{{title}}' }),
-      ', ',
-      e.createEl('code', { text: '{{author}}' }),
-      ', ',
-      e.createEl('code', { text: '{{category}}' }),
-      ', ',
-      e.createEl('code', { text: '{{publisher}}' }),
-      ', ',
-      e.createEl('code', { text: '{{publishDate}}' }),
-      ', ',
-      e.createEl('code', { text: '{{totalPage}}' }),
-      ', ',
-      e.createEl('code', { text: '{{coverUrl}}' }),
-      ', ',
-      e.createEl('code', { text: '{{isbn10}}' }),
-      ', ',
-      e.createEl('code', { text: '{{isbn13}}' }),
-      e.createEl('br'),
-      'Check the ',
-      e.createEl('a', { href: `${Er}${r}`, text: 'documentation' }),
-      ' for more information.',
+      "Please use the template file.",
+      e.createEl("br"),
+      "The following syntaxes are available: ",
+      e.createEl("br"),
+      e.createEl("code", { text: "{{title}}" }),
+      ", ",
+      e.createEl("code", { text: "{{author}}" }),
+      ", ",
+      e.createEl("code", { text: "{{category}}" }),
+      ", ",
+      e.createEl("code", { text: "{{publisher}}" }),
+      ", ",
+      e.createEl("code", { text: "{{publishDate}}" }),
+      ", ",
+      e.createEl("code", { text: "{{totalPage}}" }),
+      ", ",
+      e.createEl("code", { text: "{{coverUrl}}" }),
+      ", ",
+      e.createEl("code", { text: "{{isbn10}}" }),
+      ", ",
+      e.createEl("code", { text: "{{isbn13}}" }),
+      e.createEl("br"),
+      "Check the ",
+      e.createEl("a", { href: `${Er}${r}`, text: "documentation" }),
+      " for more information.",
     ),
     e
   );
 }
-var Ke = q(require('obsidian'));
+var Ke = q(require("obsidian"));
 function Or(r, e) {
   return g(this, null, function* () {
     let { metadataCache: t, vault: o } = r,
-      n = (0, Ke.normalizePath)(e != null ? e : '');
-    if (e === '/') return Promise.resolve('');
+      n = (0, Ke.normalizePath)(e != null ? e : "");
+    if (e === "/") return Promise.resolve("");
     try {
-      let i = t.getFirstLinkpathDest(n, '');
-      return i ? o.cachedRead(i) : '';
+      let i = t.getFirstLinkpathDest(n, "");
+      return i ? o.cachedRead(i) : "";
     } catch (i) {
       return (
         console.error(`Failed to read the daily note template '${n}'`, i),
-        new Ke.Notice('Failed to read the daily note template'),
-        ''
+        new Ke.Notice("Failed to read the daily note template"),
+        ""
       );
     }
   });
 }
 function Br(r) {
-  return r.replace(/{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi, (e, t, o, n, i, s) => {
-    let a = window.moment(),
-      l = window
-        .moment()
-        .clone()
-        .set({ hour: a.get('hour'), minute: a.get('minute'), second: a.get('second') });
-    return o && l.add(parseInt(n, 10), i), s ? l.format(s.substring(1).trim()) : l.format('YYYY-MM-DD');
-  });
+  return r.replace(
+    /{{\s*(date|time)\s*(([+-]\d+)([yqmwdhs]))?\s*(:.+?)?}}/gi,
+    (e, t, o, n, i, s) => {
+      let a = window.moment(),
+        l = window
+          .moment()
+          .clone()
+          .set({
+            hour: a.get("hour"),
+            minute: a.get("minute"),
+            second: a.get("second"),
+          });
+      return (
+        o && l.add(parseInt(n, 10), i),
+        s ? l.format(s.substring(1).trim()) : l.format("YYYY-MM-DD")
+      );
+    },
+  );
 }
 function kr(r, e) {
   let t = /<%(?:=)(.+)%>/g,
@@ -2053,11 +2331,11 @@ function kr(r, e) {
     try {
       let l = new o(
         [
-          'const [book] = arguments',
+          "const [book] = arguments",
           `const output = ${a}`,
           'if(typeof output === "string") return output',
-          'return JSON.stringify(output)',
-        ].join(';'),
+          "return JSON.stringify(output)",
+        ].join(";"),
       )(r);
       return i.replace(s, l);
     } catch (l) {
@@ -2068,36 +2346,43 @@ function kr(r, e) {
 }
 function _o() {
   try {
-    return new Function('return (function(){}).constructor')();
+    return new Function("return (function(){}).constructor")();
   } catch (r) {
-    throw (console.warn(r), r instanceof SyntaxError ? Error('Bad template syntax') : r);
+    throw (
+      (console.warn(r),
+      r instanceof SyntaxError ? Error("Bad template syntax") : r)
+    );
   }
 }
 function Nr(r, e) {
   return g(this, null, function* () {
-    let t = r.plugins.plugins['templater-obsidian'];
-    t && !(t == null ? void 0 : t.settings.trigger_on_file_creation) && (yield t.templater.overwrite_file_commands(e));
+    let t = r.plugins.plugins["templater-obsidian"];
+    t &&
+      !(t == null ? void 0 : t.settings.trigger_on_file_creation) &&
+      (yield t.templater.overwrite_file_commands(e));
   });
 }
 var Tt = class extends Pe.Plugin {
   onload() {
     return g(this, null, function* () {
       yield this.loadSettings(),
-        this.addRibbonIcon('book', 'Create new book note', () => this.createNewBookNote()).addClass(
-          'obsidian-book-search-plugin-ribbon-class',
-        ),
+        this.addRibbonIcon("book", "Create new book note", () =>
+          this.createNewBookNote(),
+        ).addClass("obsidian-book-search-plugin-ribbon-class"),
         this.addCommand({
-          id: 'open-book-search-modal',
-          name: 'Create new book note',
+          id: "open-book-search-modal",
+          name: "Create new book note",
           callback: () => this.createNewBookNote(),
         }),
         this.addCommand({
-          id: 'open-book-search-modal-to-insert',
-          name: 'Insert the metadata',
+          id: "open-book-search-modal-to-insert",
+          name: "Insert the metadata",
           callback: () => this.insertMetadata(),
         }),
         this.addSettingTab(new Ct(this.app, this)),
-        console.log(`Book Search: version ${this.manifest.version} (requires obsidian ${this.manifest.minAppVersion})`);
+        console.log(
+          `Book Search: version ${this.manifest.version} (requires obsidian ${this.manifest.minAppVersion})`,
+        );
     });
   }
   showNotice(e) {
@@ -2141,12 +2426,12 @@ ${l}`
       try {
         let e = this.app.workspace.getActiveViewOfType(Pe.MarkdownView);
         if (!e) {
-          console.warn('Can not find an active markdown view');
+          console.warn("Can not find an active markdown view");
           return;
         }
         let t = yield this.searchBookMetadata(e.file.basename);
         if (!e.editor) {
-          console.warn('Can not find editor from the active markdown view');
+          console.warn("Can not find editor from the active markdown view");
           return;
         }
         let o = yield this.getRenderedContents(t);
@@ -2162,7 +2447,7 @@ ${l}`
         let e = yield this.searchBookMetadata(),
           t = this.app.workspace.getLeaf();
         if (!t) {
-          console.warn('No active leaf');
+          console.warn("No active leaf");
           return;
         }
         let o = yield this.getRenderedContents(e),
@@ -2170,22 +2455,26 @@ ${l}`
           i = `${this.settings.folder}/${n}`,
           s = yield this.app.vault.create(i, o);
         yield Nr(this.app, s),
-          yield t.openFile(s, { state: { mode: 'source' } }),
-          t.setEphemeralState({ rename: 'all' }),
+          yield t.openFile(s, { state: { mode: "source" } }),
+          t.setEphemeralState({ rename: "all" }),
           yield new it(this.app).jumpToNextCursorLocation();
       } catch (e) {
         console.warn(e), this.showNotice(e);
       }
     });
   }
-  openBookSearchModal(e = '') {
+  openBookSearchModal(e = "") {
     return g(this, null, function* () {
-      return new Promise((t, o) => new ot(this, e, (n, i) => (n ? o(n) : t(i))).open());
+      return new Promise((t, o) =>
+        new ot(this, e, (n, i) => (n ? o(n) : t(i))).open(),
+      );
     });
   }
   openBookSuggestModal(e) {
     return g(this, null, function* () {
-      return new Promise((t, o) => new nt(this.app, e, (n, i) => (n ? o(n) : t(i))).open());
+      return new Promise((t, o) =>
+        new nt(this.app, e, (n, i) => (n ? o(n) : t(i))).open(),
+      );
     });
   }
   loadSettings() {

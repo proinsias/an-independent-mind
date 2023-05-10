@@ -1,18 +1,20 @@
 ---
 tags:
-    - book
-    - non-fiction
-    - passion
-    - self-help
-    - todo
-title: 'Grit'
-subtitle: 'The Power of Passion and Perseverance'
+  - book
+  - non-fiction
+  - passion
+  - self-help
+  - todo
+title: "Grit"
+subtitle: "The Power of Passion and Perseverance"
 author: Angela Duckworth
 link: https://www.amazon.com/gp/product/1443442313/
 rating:
 date:
 read:
 status: undefined
+date: 2023-05-10 08:10
+last_modified_at: 2023-05-10 08:10
 ---
 
 ### [Books MOC](Books%20MOC.md)
@@ -47,7 +49,7 @@ by [[Angela Duckworth]]
 > Why were the highly accomplished so dogged in their pursuits?
 > For most, there was no realistic expectation of ever catching up to their ambitions.
 > In their own eyes, they were never good enough. They were the opposite of complacent.
-> And yet, in a very real sense, they were satisfied being un-satisified.
+> And yet, in a very real sense, they were satisfied being un-satisfied.
 > Each was chasing something of unparalleled interest and importance,
 > and it was the chase - as much as the capture - that was gratifying.
 > Even if some of the things they had to do were boring, frustrating, or even painful,
@@ -90,10 +92,10 @@ by [[Angela Duckworth]]
 
 > Each of the basic requirements of deliberate practice is unremarkable:
 >
-> -   A clearly defined stretch goal
-> -   Full concentration and effort
-> -   Immediate and informative feedback
-> -   Repetition with reflection and refinement
+> - A clearly defined stretch goal
+> - Full concentration and effort
+> - Immediate and informative feedback
+> - Repetition with reflection and refinement
 
 > The idea of purpose is the idea that what we do matters to people other than ourselves.
 
@@ -110,11 +112,11 @@ by [[Angela Duckworth]]
 > "I worry a lot about kids in poverty," Steve said.
 > "They're getting a lot of helplessness experiences. They're not getting enough mastery experiences.
 > They're not learning: I can do this. I can succeed in that.
-> My speculation is that those earlier experiences can have really endur ing effects.
+> My speculation is that those earlier experiences can have really enduring effects.
 > You need to learn that there's a contingency between your actions and what happens to you:
 > 'If I do something, then something will happen.'"
 
-> When I hear that, I sometimes interrupt with a précis of Steve Maiers research showing that,
+> When I hear that, I sometimes interrupt with a précis of Steve Maier's research showing that,
 > in fact, finding a way out of the suffering is what does the strengthening.
 
 > Endure to the end, Steve.
@@ -125,7 +127,7 @@ by [[Angela Duckworth]]
 > In homage to the earlier work of Seligman and Maier on learned helplessness,
 > where the inability to escape punishment led animals to give up on a second challenging task,
 > Bob dubbed this phenomenon learned industriousness.
-> His major conclusion was simply that the assocation between working hard and reward can be learned.
+> His major conclusion was simply that the association between working hard and reward can be learned.
 > Bob will go further and say that without directly experiencing the connection between effort and reward,
 > animals, whether they're rats or people, default to laziness.
 > Calorie-burning effort is, after all, something evolution has shaped us to avoid whenever possible.
@@ -150,26 +152,26 @@ by [[Angela Duckworth]]
 > And here is how Jamie translates the poetry of Roosevelt into the prose of a JPMorgan Chase manual,
 > titled How We Do Business:
 >
-> -   "Have a fierce resolve in everything you do."
-> -   "Demonstrate determination, resiliency, and tenacity."
-> -   "Do not let temporary setbacks become permanent excuses."
-> -   And, finally, "Use mistakes and problems as opportunities to get better - not reasons to quit.
+> - "Have a fierce resolve in everything you do."
+> - "Demonstrate determination, resiliency, and tenacity."
+> - "Do not let temporary setbacks become permanent excuses."
+> - And, finally, "Use mistakes and problems as opportunities to get better - not reasons to quit.
 
 > The first core value - We don't whine - and its corresponding quote,
 > courtesy of playwright George Bernard Shaw:
 > "The true joy in life is to be a force of fortune
-> instead of a leverish, selfish little clod of ailments and grievances
-> complaining that the world will not devore itself to making you happy."
+> instead of a feverish, selfish little clod of ailments and grievances
+> complaining that the world will not devote itself to making you happy."
 
 > Let me close with a few final thoughts.
 > The first is that you can grow your grit. I see two ways to do so.
 
 > On your own, you can grow your grit "from the inside out":
 >
-> -   You can cultivate your interests.
-> -   You can develop a habit of daily challenge-exceeding-skill practice.
-> -   You can connect your work to a purpose beyond yourself.
-> -   And you can learn to hope when all seems lost.
+> - You can cultivate your interests.
+> - You can develop a habit of daily challenge-exceeding-skill practice.
+> - You can connect your work to a purpose beyond yourself.
+> - And you can learn to hope when all seems lost.
 
 > You can also grow your grit "from the outside in."
 > Parents, coaches, teachers, bosses, mentors, friends -

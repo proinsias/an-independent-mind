@@ -1,12 +1,14 @@
 ---
-title: 'sql'
+title: "sql"
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-06 00:44
+last_modified_at: 2023-05-10 13:00:10
 tags:
-    - database
-    - sql
+  - database
+  - sql
 ---
+
 [Databases MOC](Databases%20MOC.md)
+
 # sql
 
 ```dataview
@@ -18,15 +20,15 @@ list from [[]] and !outgoing([[]])
 ```sql
 show databases;
 
-show tables in databasename;
+show tables in database_name;
 
-use databasename;
+use database_name;
 
 show tables;
 
-describe tablename;
+describe table_name;
 
-select count(*) from tablename; # this is a comment
+select count(*) from table_name; # this is a comment
 
 # Use of backticks.
 select *
@@ -47,7 +49,7 @@ FROM `AlertLog_Output_employee`
 SELECT (
         SELECT DISTINCT 'AlertLog_Output_employee'
         FROM `AlertLog_Output_employee`
-    ) AS 'tablename'
+    ) AS 'table_name'
     , (
         SELECT COUNT(*)
         FROM `AlertLog_Output_employee`
