@@ -70,4 +70,4 @@ by [[Carla Naumburg]]
 
 > But when it doesn't work, we end up thinking we've failed at parenting rather than realizing that the advice has failed us. 
 
-> Taking responsibility for shit that's not your fault what parenting is all about.
+> Taking responsibility for shit that's not your fault is what parenting is all about.
