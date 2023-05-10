@@ -89,17 +89,10 @@ ttyrecord
 ttyrec
 Maier
 Markovits
-
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:137:20 - Unknown word (perience)
-# /Users/ftod/GitHub/an-independent-mind/docs/windows.md:24:145 - Unknown word (frontmost)
-# /Users/ftod/GitHub/an-independent-mind/docs/windows.md:38:1 - Unknown word (cver)
-# /Users/ftod/GitHub/an-independent-mind/docs/windows.md:38:11 - Unknown word (localonly)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Outliers.md:51:52 - Unknown word (birthdates)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:15:5 - Unknown word (Quickstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:25:3 - Unknown word (Quickstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:28:8 - Unknown word (quickstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:38:11 - Unknown word (viewcode)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:29 - Unknown word (movflags)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:38 - Unknown word (faststart)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:76 - Unknown word (trunc)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:90 - Unknown word (trunc)
+cver
+localonly
+quickstart
+viewcode
+movflags
+faststart
+trunc

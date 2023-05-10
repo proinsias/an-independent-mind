@@ -136,10 +136,10 @@ by [[Daniel Markovits]]
 > Whereas work once underwrote midcentury America's apt self-image as
 > an economy and society dominated by the broad middle class, work
 > today underwrites the equally apt sense of a rising division between
-> the rich and the perience, and the unionized middle-class
+> the rich and the rest. At mid-century, work united Americans around a shared, democratic experience, and the unionized middle-class
 > autoworkers at General Motors embodied the labor market. Today, work
 > divides Americans, in a labor market epitomized by Walmart greeters
-> and Goldman Sachs bankers.
+> 	and Goldman Sachs bankers.
 
 ---
 

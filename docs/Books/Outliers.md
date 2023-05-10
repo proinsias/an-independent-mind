@@ -48,6 +48,6 @@ by [[Malcolm Gladwell]]
 ## Notes
 
 - The [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect?wprov=sfti1)of accumulated advantage, Matthew principle, or Matthew effect is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, wealth, etc.
-  - Example of kids sports with cutoffs. Kids with birthdates on either side of the cutoff have a difference of a year's maturation. The older kid gets preferential treatment and this effect is compounded. Solution could be to have multiple leagues divided by birth month.
+  - Example of kids sports with cutoffs. Kids with birth dates on either side of the cutoff have a difference of a year's maturation. The older kid gets preferential treatment and this effect is compounded. Solution could be to have multiple leagues divided by birth month.
 - The 10,000 hour rule.
   - It's hard to get these hours in if you're working a part time job. Really you need to get into a special program.
