@@ -1,7 +1,7 @@
 ---
 title: "sql"
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-10 08:17
+last_modified_at: 2023-05-10 13:00:10
 tags:
   - database
   - sql
@@ -49,7 +49,7 @@ FROM `AlertLog_Output_employee`
 SELECT (
         SELECT DISTINCT 'AlertLog_Output_employee'
         FROM `AlertLog_Output_employee`
-    ) AS 'tablename'
+    ) AS 'table_name'
     , (
         SELECT COUNT(*)
         FROM `AlertLog_Output_employee`

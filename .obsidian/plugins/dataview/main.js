@@ -25804,14 +25804,12 @@ class GeneralSettingsTab extends obsidian.PluginSettingTab {
         "Enable or disable executing inline DataviewJS queries. Requires that DataviewJS queries are enabled.",
       )
       .addToggle((toggle) =>
-        toggle
-          .setValue(this.plugin.settings.enableInlineDataviewJs)
-          .onChange(
-            async (value) =>
-              await this.plugin.updateSettings({
-                enableInlineDataviewJs: value,
-              }),
-          ),
+        toggle.setValue(this.plugin.settings.enableInlineDataviewJs).onChange(
+          async (value) =>
+            await this.plugin.updateSettings({
+              enableInlineDataviewJs: value,
+            }),
+        ),
       );
     new obsidian.Setting(this.containerEl)
       .setName("Enable Inline Field Highlighting")
@@ -25819,14 +25817,12 @@ class GeneralSettingsTab extends obsidian.PluginSettingTab {
         "Enables or disables visual highlighting / pretty rendering for inline fields.",
       )
       .addToggle((toggle) =>
-        toggle
-          .setValue(this.plugin.settings.prettyRenderInlineFields)
-          .onChange(
-            async (value) =>
-              await this.plugin.updateSettings({
-                prettyRenderInlineFields: value,
-              }),
-          ),
+        toggle.setValue(this.plugin.settings.prettyRenderInlineFields).onChange(
+          async (value) =>
+            await this.plugin.updateSettings({
+              prettyRenderInlineFields: value,
+            }),
+        ),
       );
     this.containerEl.createEl("h2", { text: "Codeblock Settings" });
     new obsidian.Setting(this.containerEl)

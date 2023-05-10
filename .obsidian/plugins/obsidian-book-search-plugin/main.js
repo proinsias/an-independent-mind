@@ -2034,12 +2034,10 @@ var jr = {
                 (this.plugin.settings.folder = u), this.plugin.saveSettings();
               });
           });
-      let t = document
-        .createDocumentFragment()
-        .createEl("code", {
-          text:
-            We(this.plugin.settings.fileNameFormat) || "{{title}} - {{author}}",
-        });
+      let t = document.createDocumentFragment().createEl("code", {
+        text:
+          We(this.plugin.settings.fileNameFormat) || "{{title}} - {{author}}",
+      });
       new W.Setting(e)
         .setClass("book-search-plugin__settings--new_file_name")
         .setName("New file name")
