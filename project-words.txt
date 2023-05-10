@@ -90,8 +90,6 @@ ttyrec
 Maier
 Markovits
 
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:102:44 - Unknown word (richwho)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:134:32 - Unknown word (midcentury)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:137:20 - Unknown word (perience)
 # /Users/ftod/GitHub/an-independent-mind/docs/windows.md:24:145 - Unknown word (frontmost)
 # /Users/ftod/GitHub/an-independent-mind/docs/windows.md:38:1 - Unknown word (cver)

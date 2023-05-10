@@ -13,8 +13,8 @@ rating:
 date:
 read:
 status: undefined
-date: 2023-05-10 08:10
-last_modified_at: 2023-05-10 08:10
+date: 2023-05-10 08:55
+last_modified_at: 2023-05-10 08:55
 ---
 
 ### [Books MOC](Books%20MOC.md)
@@ -101,7 +101,7 @@ by [[Daniel Markovits]]
 > consumption, and why inequality in expenditures on education has in
 > recent decades increased more rapidly even than income
 > inequality. Indeed, meritocracy's imaginative hold over today's
-> elite is so powerful that even the super-richwho own enough physical
+> elite is so powerful that even the super-rich who own enough physical
 > and financial capital to secure dynastic succession through
 > traditional bequests-nevertheless commonly give their children a
 > meritocratic inheritance, often (as in Mark Zuckerberg's case) as
