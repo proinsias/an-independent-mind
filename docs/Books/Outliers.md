@@ -51,3 +51,4 @@ by [[Malcolm Gladwell]]
   - Example of kids sports with cutoffs. Kids with birth dates on either side of the cutoff have a difference of a year's maturation. The older kid gets preferential treatment and this effect is compounded. Solution could be to have multiple leagues divided by birth month.
 - The 10,000 hour rule.
   - It's hard to get these hours in if you're working a part time job. Really you need to get into a special program.
+* There seems to be a threshold with IQs. You need to be **smart enough** to win a Noble Prize, but being **smarter** than smart enough doesn't increase your chances.
