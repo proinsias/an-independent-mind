@@ -40,3 +40,5 @@ by [[Carla Naumburg]]
 
 ## Quotes
 
+> Much of parenting is based on trust, which is an especially tricky issue for kids. They're wired to trust their parents and caregivres because we're the ones who are supposed to keep then safe. As a result, when we lose our shit with them, they tend to blame themselves because that's easier than questioning or doubting the person who keeps them alive and runs their lives. Over time, our kids may learn to not only tolerate and expect bad behavior in others but to also blame themselves for it.
+
