@@ -57,49 +57,36 @@ nouchg
 afconvert
 afplay
 Gladwell
+cygwin
+nodosfilewarning
+cygcheck
+cygcheck
+statsblogs
+gcloud
+gsutil
+pipx
+pytest
+autodoc
+venv
+doctest
+mathjax
+typehints
+Duckworth
+Buffett
+Wrzesniewski
+Seligman
+Markovits
+Zuckerberg
+Chocolately
+isnull
+psql
+ttyrec
+vertica
 
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:2:9 - Unknown word (cygwin)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:6:5 - Unknown word (cygwin)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:12:3 - Unknown word (cygwin)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:16:22 - Unknown word (cygwin)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:22:42 - Unknown word (cygwin)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:34:10 - Unknown word (CYGWIN)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:34:43 - Unknown word (nodosfilewarning)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:39:1 - Unknown word (cygcheck)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:45:1 - Unknown word (cygstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/cygwin.md:51:1 - Unknown word (cygcheck)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:23:16 - Unknown word (databasename)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:25:5 - Unknown word (databasename)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:29:10 - Unknown word (tablename)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:31:22 - Unknown word (tablename)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:52:11 - Unknown word (tablename)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:100:6 - Unknown word (statsblogs)
-# /Users/ftod/GitHub/an-independent-mind/docs/sql.md:106:6 - Unknown word (vertica)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Outliers.md:51:52 - Unknown word (birthdates)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:2:9 - Unknown word (gcloud)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:2:20 - Unknown word (gsutil)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:7:5 - Unknown word (gcloud)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:8:5 - Unknown word (gsutil)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:13:3 - Unknown word (gcloud)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:13:14 - Unknown word (gsutil)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:18:10 - Unknown word (gcloud)
-# /Users/ftod/GitHub/an-independent-mind/docs/gcloud and gsutil.md:19:6 - Unknown word (gcloud)
-# /Users/ftod/GitHub/an-independent-mind/docs/poetry.md:18:1 - Unknown word (pipx)
-# /Users/ftod/GitHub/an-independent-mind/docs/poetry.md:32:12 - Unknown word (pytest)
-# /Users/ftod/GitHub/an-independent-mind/docs/poetry.md:38:17 - Unknown word (venv)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:15:5 - Unknown word (Quickstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:25:3 - Unknown word (Quickstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:28:8 - Unknown word (quickstart)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:32:11 - Unknown word (autodoc)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:33:11 - Unknown word (doctest)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:36:11 - Unknown word (mathjax)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:38:11 - Unknown word (viewcode)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:45:27 - Unknown word (autodoc)
-# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:45:35 - Unknown word (typehints)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:10 - Unknown word (ttyrec)
+# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:10 - Unknown word ()
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:33 - Unknown word (noprofile)
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:45 - Unknown word (norc)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:10:15 - Unknown word (ttyrec)
+# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:10:15 - Unknown word ()
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:14:10 - Unknown word (ttygif)
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:14:17 - Unknown word (ttyrecord)
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:16:15 - Unknown word (ttyrec)
@@ -108,21 +95,13 @@ Gladwell
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:76 - Unknown word (trunc)
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:90 - Unknown word (trunc)
 # /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:22:15 - Unknown word (ttyrec)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:10:16 - Unknown word (Duckworth)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:22:13 - Unknown word (Duckworth)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:50:63 - Unknown word (satisified)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:84:3 - Unknown word (Buffett)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:85:23 - Unknown word (Buffett)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:86:12 - Unknown word (Buffett)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:102:7 - Unknown word (Wrzesniewski)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:113:68 - Unknown word (endur)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:117:66 - Unknown word (Maiers)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:125:36 - Unknown word (Seligman)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:125:49 - Unknown word (Maier)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:128:44 - Unknown word (assocation) fix: (association)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:161:16 - Unknown word (leverish)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:162:39 - Unknown word (devore)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:10:16 - Unknown word (Markovits)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:22:13 - Unknown word (Markovits)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:64:371 - Unknown word (ofprior)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:68:531 - Unknown word (midcentury)
@@ -130,16 +109,13 @@ Gladwell
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:80:585 - Unknown word (midcentury)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:87:6 - Unknown word (middleclass)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:102:44 - Unknown word (richwho)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:105:47 - Unknown word (Zuckerberg's)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:134:32 - Unknown word (midcentury)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:137:20 - Unknown word (perience)
-# /Users/ftod/GitHub/an-independent-mind/docs/pyenv.md:20:29 - Unknown word (venv)
 # /Users/ftod/GitHub/an-independent-mind/docs/windows.md:24:145 - Unknown word (frontmost)
 # /Users/ftod/GitHub/an-independent-mind/docs/windows.md:38:1 - Unknown word (cver)
 # /Users/ftod/GitHub/an-independent-mind/docs/windows.md:38:11 - Unknown word (localonly)
-# /Users/ftod/GitHub/an-independent-mind/docs/windows.md:41:5 - Unknown word (Chocolately)
-# /Users/ftod/GitHub/an-independent-mind/docs/pandas.md:18:15 - Unknown word (isnull)
-# /Users/ftod/GitHub/an-independent-mind/docs/pandas.md:21:4 - Unknown word (isnull)
-# /Users/ftod/GitHub/an-independent-mind/docs/psql.md:2:9 - Unknown word (psql)
-# /Users/ftod/GitHub/an-independent-mind/docs/psql.md:8:5 - Unknown word (psql)
-# /Users/ftod/GitHub/an-independent-mind/docs/psql.md:16:3 - Unknown word (psql)
+# /Users/ftod/GitHub/an-independent-mind/docs/Books/Outliers.md:51:52 - Unknown word (birthdates)
+# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:15:5 - Unknown word (Quickstart)
+# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:25:3 - Unknown word (Quickstart)
+# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:28:8 - Unknown word (quickstart)
+# /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:38:11 - Unknown word (viewcode)

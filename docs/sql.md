@@ -1,7 +1,7 @@
 ---
 title: "sql"
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-10 08:11
+last_modified_at: 2023-05-10 08:17
 tags:
   - database
   - sql
@@ -20,15 +20,15 @@ list from [[]] and !outgoing([[]])
 ```sql
 show databases;
 
-show tables in databasename;
+show tables in database_name;
 
-use databasename;
+use database_name;
 
 show tables;
 
-describe tablename;
+describe table_name;
 
-select count(*) from tablename; # this is a comment
+select count(*) from table_name; # this is a comment
 
 # Use of backticks.
 select *
