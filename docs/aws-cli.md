@@ -1,7 +1,7 @@
 ---
 title: "aws-cli"
 date: 2023-05-09 11:01
-last_modified_at: 2023-05-10 08:11
+last_modified_at: 2023-05-10 10:50
 tags:
   - cloud-computing
   - command-line-tool

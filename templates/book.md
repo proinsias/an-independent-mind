@@ -22,8 +22,8 @@ rating:
 read:
 status: undefined
 # --- status: backlog, to read, reading, completed, stopped
-date: {{DATE:YYYY-MM-DD, HH:mm}}
-last_modified_at: {{DATE:YYYY-MM-DD, HH:mm}}
+date: {{DATE:YYYY-MM-DD HH:mm}}
+last_modified_at: {{DATE:YYYY-MM-DD HH:mm}}
 template-type: Book
 template-version: "1.5"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
