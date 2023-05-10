@@ -43,6 +43,8 @@ by [[Malcolm Gladwell]]
 
 > Practice isn’t the thing you do once you’re good. It’s the thing you do that makes you good. 
 
+> This wasn’t just a revolution. It was a revelation. 
+
 ## Notes
 
 * The [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect?wprov=sfti1)of accumulated advantage, Matthew principle, or Matthew effect is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, wealth, etc.
