@@ -1,13 +1,14 @@
 ---
-title: 'mysql'
+title: "mysql"
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-06 00:34
+last_modified_at: 2023-05-10 08:11
 tags:
-    - command-line-tool
-    - database
-    - mysql
-    - sql
+  - command-line-tool
+  - database
+  - mysql
+  - sql
 ---
+
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
 [Databases MOC](Databases%20MOC.md)
 [sql](sql.md)

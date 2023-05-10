@@ -1,11 +1,12 @@
 ---
 title: "Linters"
 date: 2023-05-05 15:04
-last_modified_at: 2023-05-06 00:43
+last_modified_at: 2023-05-10 08:11
 tags:
   - command-line-tool
   - linter
 ---
+
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
 
 # Linters

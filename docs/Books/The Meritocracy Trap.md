@@ -1,11 +1,11 @@
 ---
 tags:
-    - book
-    - inequality
-    - non-fiction
-    - politics
-    - todo
-title: 'The Meritocracy Trap'
+  - book
+  - inequality
+  - non-fiction
+  - politics
+  - todo
+title: "The Meritocracy Trap"
 subtitle: "How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite"
 author: Daniel Markovits
 link: https://www.amazon.com/Meritocracy-Trap-Foundational-Inequality-Dismantles-ebook/dp/B07MGDKDQN/
@@ -13,6 +13,8 @@ rating:
 date:
 read:
 status: undefined
+date: 2023-05-10 08:10
+last_modified_at: 2023-05-10 08:10
 ---
 
 ### [Books MOC](Books%20MOC.md)

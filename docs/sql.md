@@ -1,12 +1,14 @@
 ---
-title: 'sql'
+title: "sql"
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-06 00:44
+last_modified_at: 2023-05-10 08:11
 tags:
-    - database
-    - sql
+  - database
+  - sql
 ---
+
 [Databases MOC](Databases%20MOC.md)
+
 # sql
 
 ```dataview

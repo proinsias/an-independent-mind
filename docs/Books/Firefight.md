@@ -1,7 +1,7 @@
 ---
 tags:
-    - book
-title: 'Firefight'
+  - book
+title: "Firefight"
 subtitle:
 author: Brandon Sanderson
 authors: Brandon Sanderson
@@ -24,7 +24,7 @@ status: reading
 # --- status: backlog, to read, reading, completed, stopped
 last_modified_at: 2023-05-07, 18:37
 template-type: Book
-template-version: '1.5'
+template-version: "1.5"
 ---
 
 ### [[Books MOC]]

@@ -1,11 +1,12 @@
 ---
-title: 'ssh'
+title: "ssh"
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-06 00:25
+last_modified_at: 2023-05-10 08:11
 tags:
-    - command-line-tool
-    - ssh
+  - command-line-tool
+  - ssh
 ---
+
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
 
 # ssh

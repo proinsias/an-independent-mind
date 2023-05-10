@@ -1,18 +1,20 @@
 ---
 tags:
-    - book
-    - data-science
-    - math
-    - non-fiction
-    - racism
-    - todo
-title: 'Weapons of Math Destruction'
+  - book
+  - data-science
+  - math
+  - non-fiction
+  - racism
+  - todo
+title: "Weapons of Math Destruction"
 author: Cathy O'Neil
 link: https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality-ebook/dp/B019B6VCLO/
 rating:
 date:
 read:
 status: undefined
+date: 2023-05-10 08:10
+last_modified_at: 2023-05-10 08:10
 ---
 
 ### [Books MOC](Books%20MOC.md)

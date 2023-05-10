@@ -1,10 +1,10 @@
 ---
-title: 'macOS'
+title: "macOS"
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-09 15:21:23
+last_modified_at: 2023-05-10 08:11
 tags:
-    - command-line-tool
-    - operating-system
+  - command-line-tool
+  - operating-system
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -125,5 +125,5 @@ dsenableroot -d
 
 ## Links
 
--   [sudo-touchid](https://github.com/artginzburg/sudo-touchid): Permanent TouchID support for `sudo`.
--   [You can just right-click on a 2-factor authentication code to set it up with iCloud Keychain](https://twitter.com/rafahari/status/1456013646144933893).
+- [sudo-touchid](https://github.com/artginzburg/sudo-touchid): Permanent TouchID support for `sudo`.
+- [You can just right-click on a 2-factor authentication code to set it up with iCloud Keychain](https://twitter.com/rafahari/status/1456013646144933893).
