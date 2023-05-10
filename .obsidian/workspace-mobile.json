@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/table.md",
+                "file": "docs/Books/Outliers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/table.md",
+            "file": "docs/Books/Outliers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templates/table.md",
+            "file": "docs/Books/Outliers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templates/table.md"
+            "file": "docs/Books/Outliers.md"
           }
         }
       }
@@ -135,6 +135,8 @@
   },
   "active": "06c96d2db809ab5b",
   "lastOpenFiles": [
+    "docs/cspell.md",
+    "templates/table.md",
     "templates/note.md",
     "templates/moc.md",
     "templates/long blog.md",
@@ -158,13 +160,11 @@
     "docs/sql.md",
     "docs/pandas.md",
     "docs/sphinx.md",
-    "templates/table.md",
     "LICENSE",
     "docs/mysql.md",
     "docs/tr.md",
     "templates",
     "docs/Books/Oath of Office.md",
-    "docs/Books/The Meritocracy Trap.md",
     "docs/Books",
     "docs"
   ]
