@@ -82,32 +82,14 @@ isnull
 psql
 ttyrec
 vertica
+noprofile
+norc
+ttygif
+ttyrecord
+ttyrec
+Maier
+Markovits
 
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:10 - Unknown word ()
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:33 - Unknown word (noprofile)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:8:45 - Unknown word (norc)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:10:15 - Unknown word ()
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:14:10 - Unknown word (ttygif)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:14:17 - Unknown word (ttyrecord)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:16:15 - Unknown word (ttyrec)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:29 - Unknown word (movflags)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:38 - Unknown word (faststart)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:76 - Unknown word (trunc)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:90 - Unknown word (trunc)
-# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:22:15 - Unknown word (ttyrec)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:50:63 - Unknown word (satisified)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:113:68 - Unknown word (endur)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:117:66 - Unknown word (Maiers)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:125:49 - Unknown word (Maier)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:128:44 - Unknown word (assocation) fix: (association)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:161:16 - Unknown word (leverish)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/Grit The Power of Passion and Perseverance.md:162:39 - Unknown word (devore)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:22:13 - Unknown word (Markovits)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:64:371 - Unknown word (ofprior)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:68:531 - Unknown word (midcentury)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:70:482 - Unknown word (disempowered)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:80:585 - Unknown word (midcentury)
-# /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:87:6 - Unknown word (middleclass)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:102:44 - Unknown word (richwho)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:134:32 - Unknown word (midcentury)
 # /Users/ftod/GitHub/an-independent-mind/docs/Books/The Meritocracy Trap.md:137:20 - Unknown word (perience)
@@ -119,3 +101,7 @@ vertica
 # /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:25:3 - Unknown word (Quickstart)
 # /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:28:8 - Unknown word (quickstart)
 # /Users/ftod/GitHub/an-independent-mind/docs/sphinx.md:38:11 - Unknown word (viewcode)
+# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:29 - Unknown word (movflags)
+# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:38 - Unknown word (faststart)
+# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:76 - Unknown word (trunc)
+# /Users/ftod/GitHub/an-independent-mind/docs/Terminal recording.md:20:90 - Unknown word (trunc)
