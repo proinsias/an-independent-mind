@@ -22,7 +22,7 @@ rating:
 read:
 status: completed
 date: 2023-05-10 10:49
-last_modified_at: 2023-05-10 10:52
+last_modified_at: 2023-05-10 10:58
 template-type: Book
 template-version: "1.5"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
@@ -42,3 +42,9 @@ by [[Carla Naumburg]]
 
 > Much of parenting is based on trust, which is an especially tricky issue for kids. They're wired to trust their parents and caregivres because we're the ones who are supposed to keep then safe. As a result, when we lose our shit with them, they tend to blame themselves because that's easier than questioning or doubting the person who keeps them alive and runs their lives. Over time, our kids may learn to not only tolerate and expect bad behavior in others but to also blame themselves for it.
 
+> We can't control anyone else's behavior - we can only control our own.
+
+> Telling yourself that the reason you keep exploding is because you're a bad parent or you have a bad kid is an unhelpful story because it doesn't offer any options for change and growth.
+ 
+>You're doing an incredibly hard job, and you're doing it without the right information, support, rerest, When we do something really hard every single day without you're doing it without the right information, support, resources, and those things, we lose it. It's the human way. We are literally wired to freak out when our buttons are repeatedly pushed. A There's no reason to blame yourself for your temper, but it's time to step up and make some changes. life should be easy and that we should be happy most, not all, of the time. elusion that life t. If parenting and life are feeling particularly challenging for any reason, it's not always because you're doing som_ening wrong. It's because hard is part of the deal for everyone, no mat- pad how good they make it look on Instagram. .. The painful truth that no one wants to talk about is that some kids are just harder to parent, MOST PARENTS SUCKAT TAKING CARE OF EMSERVES. Runners whn 
+ w they haven't been able to properly prepa esn't go as well as they had hoped Fatigue makes it harder to hink clearly, solve even the most basic problems, focus our attention, man
