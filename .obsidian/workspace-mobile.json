@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "99b34b0a0260ed92",
+    "type": "split",
+    "children": [
+      {
+        "id": "f348fbd67baa1a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c96d2db809ab5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Books/Outliers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b90cb7804a35f250",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "88ee9ac8cfe9b2b3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cd1f129870a8845f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f38721219815d58e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "49743e6e223422b8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b7684f574d5cacfb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7cf3f0eea3d22227",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "docs/Books/Outliers.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ae84ea930a27e1fc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "docs/Books/Outliers.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1c7b9c861bbb622e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "docs/Books/Outliers.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-book-search-plugin:Create new book note": false,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88ee9ac8cfe9b2b3",
+  "lastOpenFiles": [
+    "docs/Books/Outliers.md",
+    "docs/GitHub.md",
+    "/project-words.txt",
+    "/docs/GitHub.md",
+    "/docs/Books/Outliers.md",
+    "docs/prettier.md",
+    "docs/ssh.md",
+    "templates/moc.md",
+    "project-words.txt",
+    "docs/psql.md",
+    "docs/make.md",
+    "templates/blog.md",
+    "README.md",
+    "docs/poetry.md",
+    "templates/book.md",
+    "docs/pyenv.md",
+    "docs/regex.md",
+    "docs/windows.md",
+    "docs/sql.md",
+    "docs/pandas.md",
+    "docs/sphinx.md",
+    "templates/table.md",
+    "templates/note.md",
+    "templates/long blog.md",
+    "LICENSE",
+    "docs/mysql.md",
+    "docs/tr.md",
+    "templates",
+    "docs/Books/Oath of Office.md",
+    "docs/Books/The Meritocracy Trap.md",
+    "docs/Books",
+    "docs"
+  ]
+}

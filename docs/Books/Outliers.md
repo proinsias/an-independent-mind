@@ -40,3 +40,8 @@ by [[Malcolm Gladwell]]
 ## Quotes
 
 > It's not enough to ask **what successful people are like**, in other words, it is only by asking **where they are from** that we can begin to unravel the logic behind who succeeds and who doesn't.
+
+## Notes
+
+* The [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect?wprov=sfti1)of accumulated advantage, Matthew principle, or Matthew effect is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, wealth, etc.
+    * Example of kids sports with cutoffs. Kids with birthdates on either side of the cutoffs have a difference of a year’s maturation. The older kid gets preferential treatment and this effect is compounded. 
