@@ -18,13 +18,12 @@ description:
 link: {{link}}
 preview_link: {{preview_link}}
 rating:
-date:
 read:
 status: undefined
 # --- status: backlog, to read, reading, completed, stopped
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
+date: {{DATE:YYYY-MM-DD, HH:mm}}
+last_modified_at: {{DATE:YYYY-MM-DD, HH:mm}}
+# --- Install plugin: https://gi
 template-type: Book
 template-version: "1.5"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
