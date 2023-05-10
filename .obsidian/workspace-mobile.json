@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/book.md",
+                "file": "templates/table.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/book.md",
+            "file": "templates/table.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "templates/book.md",
+            "file": "templates/table.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "templates/book.md"
+            "file": "templates/table.md"
           }
         }
       }
@@ -135,6 +135,11 @@
   },
   "active": "06c96d2db809ab5b",
   "lastOpenFiles": [
+    "templates/note.md",
+    "templates/moc.md",
+    "templates/long blog.md",
+    "templates/blog.md",
+    "templates/book.md",
     "README.md",
     "docs/Books/Outliers.md",
     "docs/GitHub.md",
@@ -143,13 +148,10 @@
     "/docs/Books/Outliers.md",
     "docs/prettier.md",
     "docs/ssh.md",
-    "templates/moc.md",
     "project-words.txt",
     "docs/psql.md",
     "docs/make.md",
-    "templates/blog.md",
     "docs/poetry.md",
-    "templates/book.md",
     "docs/pyenv.md",
     "docs/regex.md",
     "docs/windows.md",
@@ -157,8 +159,6 @@
     "docs/pandas.md",
     "docs/sphinx.md",
     "templates/table.md",
-    "templates/note.md",
-    "templates/long blog.md",
     "LICENSE",
     "docs/mysql.md",
     "docs/tr.md",
