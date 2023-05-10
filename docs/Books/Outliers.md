@@ -45,6 +45,8 @@ by [[Malcolm Gladwell]]
 
 > This wasn't just a revolution. It was a revelation.
 
+> No one makes it alone. 
+
 ## Notes
 
 - The [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect?wprov=sfti1)of accumulated advantage, Matthew principle, or Matthew effect is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, wealth, etc.
