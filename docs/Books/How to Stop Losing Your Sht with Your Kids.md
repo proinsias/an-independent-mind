@@ -63,3 +63,11 @@ by [[Carla Naumburg]]
 > Fatigue makes it harder to think clearly, solve even the most basic problems, focus our attention, manage our emotions, make good choices, and stay healthy.
 
 > There is great comfort in the knowledge that if we're making poor parenting choices, at least we're doing it together.
+
+> All that advice creates the illusion that we can fix any parenting problem that comes our way, even though some of the most common problems just aren't fixable.
+
+> We parents have been led to believe that it's our job to ensure our children's happiness. 
+
+> But when it doesn't work, we end up thinking we've failed at parenting rather than realizing that the advice has failed us. 
+
+> Taking responsibility for shit that's not your fault what parenting is all about.
