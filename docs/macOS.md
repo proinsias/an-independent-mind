@@ -1,7 +1,7 @@
 ---
 title: 'macOS'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-11 11:03
+last_modified_at: 2023-05-11 15:06:15
 tags:
     - command-line-tool
     - operating-system
@@ -127,4 +127,4 @@ dsenableroot -d
 
 -   [sudo-touchid](https://github.com/artginzburg/sudo-touchid): Permanent TouchID support for `sudo`.
 -   [You can just right-click on a 2-factor authentication code to set it up with iCloud Keychain](https://twitter.com/rafahari/status/1456013646144933893).
--   [tart](https://github.com/cirruslabs/tart): A virtualization toolset to build, run and manage macOS and Linux virtual machines on Apple Silicon.
+-   [tart](https://github.com/cirruslabs/tart): A virtualization tool set to build, run and manage macOS and Linux virtual machines on Apple Silicon.

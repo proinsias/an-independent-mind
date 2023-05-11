@@ -100,12 +100,7 @@ cygstart
 Naumburg
 Protip
 diegohaz
-
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:17:3 - Unknown word (Protip)
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:19:7 - Unknown word (diegohaz)
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:25:9 - Unknown word (githubapp)
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:31:13 - Unknown word (upterm)
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:31:107 - Unknown word (upterm)
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:36:6 - Unknown word (tldrlegal)
-# /Users/ftod/GitHub/an-independent-mind/docs/GitHub.md:37:6 - Unknown word (choosealicense)
-# /Users/ftod/GitHub/an-independent-mind/docs/macOS.md:130:66 - Unknown word (toolset)
+githubapp
+upterm
+tldrlegal
+choosealicense
