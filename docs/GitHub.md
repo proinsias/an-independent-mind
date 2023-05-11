@@ -1,7 +1,7 @@
 ---
 title: "GitHub"
 date: 2023-05-09 17:10
-last_modified_at: 2023-05-11 10:02
+last_modified_at: 2023-05-11 10:09
 tags:
   - command-line-tools
   - git
@@ -24,6 +24,12 @@ Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 - [go-githubapp](https://github.com/palantir/go-githubapp): A simple Go framework for building GitHub Apps.
 - [policy-bot](https://github.com/palantir/policy-bot): GitHub App that enforces approval policies on pull requests.
 
+## GitHub Actions
+
+* [act](https://github.com/nektos/act): Run your GitHub Actions locally.
+* [action-upterm](https://github.com/lhotari/action-upterm): Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
+* [action-tmate](https://github.com/mxschmitt/action-tmate): Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+
 ## Command line tools
 
 ### Miscellaneous
@@ -39,3 +45,5 @@ Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 
 - [Shields.io](https://shields.io/): Concise, consistent, and legible badges in SVG and raster format.
 - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki).
+- [tldrlegal.com](https://www.tldrlegal.com/): Look up popular software licenses summarized at-a-glance.
+- [choosealicense.com](https://choosealicense.com/): 
