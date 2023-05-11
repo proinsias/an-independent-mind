@@ -1,10 +1,10 @@
 ---
-title: "sql"
+title: 'sql'
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:04
 tags:
-  - database
-  - sql
+    - database
+    - sql
 ---
 
 [Databases MOC](Databases%20MOC.md)
@@ -97,7 +97,7 @@ limit 100000
 ;
 ```
 
-Via [statsblogs.com](http://www.statsblogs.com/2014/02/26/taking-a-random-sample-on-amazon-redshift/).
+Via [statsblogs.com](https://web.archive.org/web/20171215121627/http://www.statsblogs.com/2014/02/26/taking-a-random-sample-on-amazon-redshift).
 
 ## Primary Key
 

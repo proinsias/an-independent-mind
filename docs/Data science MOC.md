@@ -1,9 +1,9 @@
 ---
-title: "Data science MOC"
+title: 'Data science MOC'
 date: 2023-05-06 00:27
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - data-science
+    - data-science
 ---
 
 # Data science MOC
@@ -28,8 +28,8 @@ Via [olddata](https://www.reddit.com/r/datascience/comments/8ljwo8/comment/dzghl
 
 > Building a data pipeline in 2020 is like building a bridge in the 14th century:
 >
-> - You do a lot of work that gets thrown away
-> - Half the job is getting rid of the stuff you don't want
-> - The folks who started it are dead by the time it's done
+> -   You do a lot of work that gets thrown away
+> -   Half the job is getting rid of the stuff you don't want
+> -   The folks who started it are dead by the time it's done
 
 Via [teej_m](https://twitter.com/teej_m/status/1316452684350713856).

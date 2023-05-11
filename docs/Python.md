@@ -1,9 +1,9 @@
 ---
-title: "Python"
+title: 'Python'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - programming
+    - programming
 ---
 
 [Programming MOC](Programming%20MOC.md)

@@ -1,10 +1,10 @@
 ---
-title: "git"
+title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - command-line-tool
-  - git
+    - command-line-tool
+    - git
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -190,22 +190,22 @@ git commit -m "Empty commit" --allow-empty
 
 Some use-cases for this (that make sense), include:
 
-- The first commit of a repository.
-- Annotating the start of a new bulk of work or a new feature.
-- Documenting when you make changes to the project that aren't code related.
-- Communicating with people using your repository.
+-   The first commit of a repository.
+-   Annotating the start of a new bulk of work or a new feature.
+-   Documenting when you make changes to the project that aren't code related.
+-   Communicating with people using your repository.
 
 ### Commit messages
 
 The seven rules of a [great git commit message](http://chris.beams.io/posts/git-commit/):
 
-- Separate subject from body with a blank line
-- Limit the subject line to 50 characters
-- Capitalize the subject line
-- Do not end the subject line with a period
-- Use the imperative mood in the subject line ("Merge branch")
-- Wrap the body at 72 characters
-- Use the body to explain what and why vs. how
+-   Separate subject from body with a blank line
+-   Limit the subject line to 50 characters
+-   Capitalize the subject line
+-   Do not end the subject line with a period
+-   Use the imperative mood in the subject line ("Merge branch")
+-   Wrap the body at 72 characters
+-   Use the body to explain what and why vs. how
 
 ## config
 

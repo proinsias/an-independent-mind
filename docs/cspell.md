@@ -1,11 +1,11 @@
 ---
-title: "cspell"
+title: 'cspell'
 date: 2023-05-04 09:02
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - command-line-tool
-  - cspell
-  - spelling
+    - command-line-tool
+    - cspell
+    - spelling
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)

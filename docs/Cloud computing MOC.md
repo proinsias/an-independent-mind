@@ -1,9 +1,9 @@
 ---
-title: "Cloud computing MOC"
+title: 'Cloud computing MOC'
 date: 2023-05-06 00:27
-last_modified_at: 2023-05-06 00:41
+last_modified_at: 2023-05-11 11:03
 tags:
-  - cloud-computing
+    - cloud-computing
 ---
 
 # Cloud computing MOC

@@ -92,10 +92,10 @@ by [[Angela Duckworth]]
 
 > Each of the basic requirements of deliberate practice is unremarkable:
 >
-> - A clearly defined stretch goal
-> - Full concentration and effort
-> - Immediate and informative feedback
-> - Repetition with reflection and refinement
+> -   A clearly defined stretch goal
+> -   Full concentration and effort
+> -   Immediate and informative feedback
+> -   Repetition with reflection and refinement
 
 > The idea of purpose is the idea that what we do matters to people other than ourselves.
 
@@ -152,10 +152,10 @@ by [[Angela Duckworth]]
 > And here is how Jamie translates the poetry of Roosevelt into the prose of a JPMorgan Chase manual,
 > titled How We Do Business:
 >
-> - "Have a fierce resolve in everything you do."
-> - "Demonstrate determination, resiliency, and tenacity."
-> - "Do not let temporary setbacks become permanent excuses."
-> - And, finally, "Use mistakes and problems as opportunities to get better - not reasons to quit.
+> -   "Have a fierce resolve in everything you do."
+> -   "Demonstrate determination, resiliency, and tenacity."
+> -   "Do not let temporary setbacks become permanent excuses."
+> -   And, finally, "Use mistakes and problems as opportunities to get better - not reasons to quit.
 
 > The first core value - We don't whine - and its corresponding quote,
 > courtesy of playwright George Bernard Shaw:
@@ -168,10 +168,10 @@ by [[Angela Duckworth]]
 
 > On your own, you can grow your grit "from the inside out":
 >
-> - You can cultivate your interests.
-> - You can develop a habit of daily challenge-exceeding-skill practice.
-> - You can connect your work to a purpose beyond yourself.
-> - And you can learn to hope when all seems lost.
+> -   You can cultivate your interests.
+> -   You can develop a habit of daily challenge-exceeding-skill practice.
+> -   You can connect your work to a purpose beyond yourself.
+> -   And you can learn to hope when all seems lost.
 
 > You can also grow your grit "from the outside in."
 > Parents, coaches, teachers, bosses, mentors, friends -

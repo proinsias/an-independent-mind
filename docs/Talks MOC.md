@@ -1,9 +1,9 @@
 ---
-title: "Talks MOC"
+title: 'Talks MOC'
 date: 2023-05-06 00:30
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - talk
+    - talk
 ---
 
 # Talks MOC

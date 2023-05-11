@@ -1,9 +1,9 @@
 ---
 tags:
-  - command-line-tool
-  - operating-system
+    - command-line-tool
+    - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)

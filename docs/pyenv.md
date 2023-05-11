@@ -1,11 +1,11 @@
 ---
-title: "pyenv"
+title: 'pyenv'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - command-line-tool
-  - pyenv
-  - python
+    - command-line-tool
+    - pyenv
+    - python
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)

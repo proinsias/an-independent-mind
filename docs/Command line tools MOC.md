@@ -1,9 +1,9 @@
 ---
-title: "Command line tools"
+title: 'Command line tools'
 date: 2023-05-04 09:13
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - command-line-tool
+    - command-line-tool
 ---
 
 # Command line tools MOC
@@ -18,5 +18,5 @@ where file.name != "README"
 
 ## Links
 
-- [shot-scraper](https://shot-scraper.datasette.io/en/stable/index.html): A command-line utility for taking automated screenshots of websites.
-- [wifi-password](https://github.com/rauchg/wifi-password): Get the password of the wifi you're on.
+-   [shot-scraper](https://shot-scraper.datasette.io/en/stable/index.html): A command-line utility for taking automated screenshots of websites.
+-   [wifi-password](https://github.com/rauchg/wifi-password): Get the password of the wifi you're on.

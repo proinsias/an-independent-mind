@@ -1,10 +1,10 @@
 ---
-title: "Linters"
+title: 'Linters'
 date: 2023-05-05 15:04
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - command-line-tool
-  - linter
+    - command-line-tool
+    - linter
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -19,5 +19,5 @@ list from [[]] and !outgoing([[]])
 
 ## Links
 
-- [awesome-linters](https://github.com/caramelomartins/awesome-linters)
+-   [awesome-linters](https://github.com/caramelomartins/awesome-linters)
 -

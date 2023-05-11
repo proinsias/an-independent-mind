@@ -1,7 +1,7 @@
 ---
 tags:
-  - book
-title: "Destructive Reasoning"
+    - book
+title: 'Destructive Reasoning'
 subtitle:
 author: Scott Meyer
 authors: Scott Meyer
@@ -23,7 +23,7 @@ status: completed
 date: 2023-05-07, 18:42
 last_modified_at: 2023-05-08 12:42:54
 template-type: Book
-template-version: "1.5"
+template-version: '1.5'
 ---
 
 ### [[Books MOC]]

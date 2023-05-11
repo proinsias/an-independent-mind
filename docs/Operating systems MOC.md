@@ -1,9 +1,9 @@
 ---
-title: "Operating systems MOC"
+title: 'Operating systems MOC'
 date: 2023-05-06 00:29
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - operating-system
+    - operating-system
 ---
 
 # Operating systems MOC

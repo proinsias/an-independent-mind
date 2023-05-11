@@ -1,8 +1,8 @@
 ---
 tags:
-  - book
-  - psychology
-title: "Outliers"
+    - book
+    - psychology
+title: 'Outliers'
 subtitle: The Story of Success
 author: Malcolm Gladwell
 authors: Malcolm Gladwell
@@ -24,7 +24,7 @@ status: read
 date: 2023-05-09, 21:31
 last_modified_at: 2023-05-10 02:01:07
 template-type: Book
-template-version: "1.5"
+template-version: '1.5'
 ---
 
 ### [[Books MOC]]
@@ -45,13 +45,14 @@ by [[Malcolm Gladwell]]
 
 > This wasn't just a revolution. It was a revelation.
 
-> No one makes it alone. 
+> No one makes it alone.
 
 ## Notes
 
-- The [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect?wprov=sfti1)of accumulated advantage, Matthew principle, or Matthew effect is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, wealth, etc.
-  - Example of kids sports with cutoffs. Kids with birth dates on either side of the cutoff have a difference of a year's maturation. The older kid gets preferential treatment and this effect is compounded. Solution could be to have multiple leagues divided by birth month.
-- The 10,000 hour rule.
-  - It's hard to get these hours in if you're working a part time job. Really you need to get into a special program.
-  - 10,000 hours alone isn’t enough. You need to have done this work in obscurity before your moment to shine comes. 
-* There seems to be a threshold with IQs. You need to be **smart enough** to win a Noble Prize, but being **smarter** than smart enough doesn't increase your chances.
+-   The [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect?wprov=sfti1)of accumulated advantage, Matthew principle, or Matthew effect is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, wealth, etc.
+    -   Example of kids sports with cutoffs. Kids with birth dates on either side of the cutoff have a difference of a year's maturation. The older kid gets preferential treatment and this effect is compounded. Solution could be to have multiple leagues divided by birth month.
+-   The 10,000 hour rule.
+    -   It's hard to get these hours in if you're working a part time job. Really you need to get into a special program.
+    -   10,000 hours alone isn't enough. You need to have done this work in obscurity before your moment to shine comes.
+
+*   There seems to be a threshold with IQs. You need to be **smart enough** to win a Noble Prize, but being **smarter** than smart enough doesn't increase your chances.

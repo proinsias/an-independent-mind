@@ -1,10 +1,10 @@
 ---
-title: "sphinx"
+title: 'sphinx'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 11:03
 tags:
-  - python
-  - sphinx
+    - python
+    - sphinx
 link: https://www.sphinx-doc.org/
 ---
 
@@ -16,13 +16,13 @@ link: https://www.sphinx-doc.org/
 
 From [docs](https://www.sphinx-doc.org/en/master/usage/installation.html):
 
-- Installing on mac:
+-   Installing on mac:
 
 ```text
 brew install sphinx-doc
 ```
 
-- Quickstart:
+-   Quickstart:
 
 ```bash
 sphinx-quickstart doc \
@@ -42,4 +42,4 @@ cd doc
 make html
 ```
 
-- Also installing `sphinx_autodoc_typehints`.
+-   Also installing `sphinx_autodoc_typehints`.
