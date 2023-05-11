@@ -10,6 +10,8 @@ tags:
 
 ## Miscellaneous
 
+* "Protip if you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs. This is much faster than uploading/downloading artifacts." Via [](https://twitter.com/diegohaz/status/1511433132930707457).
+
 ## Links
 
 - [Shields.io](https://shields.io/) - Concise, consistent, and legible badges in SVG and raster format.
