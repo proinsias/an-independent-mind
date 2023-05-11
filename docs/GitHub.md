@@ -1,7 +1,7 @@
 ---
 title: "GitHub"
 date: 2023-05-09 17:10
-last_modified_at: 2023-05-10 21:43
+last_modified_at: 2023-05-11 10:02
 tags:
   - command-line-tools
   - git
@@ -22,6 +22,7 @@ Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 
 * [GitHub Apps Cheat Sheet](https://github.com/github-developer/github-apps-cheat-sheet).
 - [go-githubapp](https://github.com/palantir/go-githubapp): A simple Go framework for building GitHub Apps.
+- [policy-bot](https://github.com/palantir/policy-bot): GitHub App that enforces approval policies on pull requests.
 
 ## Command line tools
 
