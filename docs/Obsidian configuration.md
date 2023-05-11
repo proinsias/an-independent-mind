@@ -14,3 +14,4 @@ tags:
 - [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
 - [Emoji Shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes)
 - [Tag Wrangler](https://github.com/pjeby/tag-wrangler)
+- [update-time-on-edit-obsidian](https://github.com/beaussan/update-time-on-edit-obsidian): Update on save the metadata of the file with the time it was updated.
