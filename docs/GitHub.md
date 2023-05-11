@@ -1,7 +1,7 @@
 ---
 title: "GitHub"
 date: 2023-05-09 17:10
-last_modified_at: 2023-05-10 21:12
+last_modified_at: 2023-05-10 21:43
 tags:
   - command-line-tools
   - git
@@ -18,14 +18,23 @@ tags:
 
 Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 
+## GitHub Apps
+
+* [GitHub Apps Cheat Sheet](https://github.com/github-developer/github-apps-cheat-sheet).
+- [go-githubapp](https://github.com/palantir/go-githubapp): A simple Go framework for building GitHub Apps.
+
 ## Command line tools
+
+### Miscellaneous
 
 * [actionlint](https://github.com/rhysd/actionlint): Static checker for GitHub Actions workflow files.
 * [license-up](https://github.com/nikitavoloboev/license-up): Create a license quickly.
 
+### GitHub CLI
+
+* [Awesome Github CLI Extensions](https://github.com/kodepandai/awesome-gh-cli-extensions).
+
 ## Links
 
-- [Shields.io](https://shields.io/) - Concise, consistent, and legible badges in SVG and raster format.
+- [Shields.io](https://shields.io/): Concise, consistent, and legible badges in SVG and raster format.
 - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki).
-- [GitHub Apps Cheat Sheet](https://github.com/github-developer/github-apps-cheat-sheet).
-- [Awesome Github CLI Extensions](https://github.com/kodepandai/awesome-gh-cli-extensions).
