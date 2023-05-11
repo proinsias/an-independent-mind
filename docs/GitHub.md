@@ -1,7 +1,7 @@
 ---
 title: "GitHub"
 date: 2023-05-09 17:10
-last_modified_at: 2023-05-11 10:11
+last_modified_at: 2023-05-11 10:14
 tags:
   - command-line-tools
   - git
@@ -30,6 +30,12 @@ Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 * [action-upterm](https://github.com/lhotari/action-upterm): Debug your GitHub Actions via SSH by using upterm/tmux to get access to the runner system itself.
 * [action-tmate](https://github.com/mxschmitt/action-tmate): Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 
+## Licenses
+
+- [tldrlegal.com](https://www.tldrlegal.com/): Look up popular software licenses summarized at-a-glance.
+- [choosealicense.com](https://choosealicense.com/): Helps you choose an open source license.
+- [unlicense.org](https://unlicense.org/): A template for dedicating your software to the public domain.
+
 ## Command line tools
 
 ### Miscellaneous
@@ -45,5 +51,3 @@ Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 
 - [Shields.io](https://shields.io/): Concise, consistent, and legible badges in SVG and raster format.
 - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki).
-- [tldrlegal.com](https://www.tldrlegal.com/): Look up popular software licenses summarized at-a-glance.
-- [choosealicense.com](https://choosealicense.com/): 
