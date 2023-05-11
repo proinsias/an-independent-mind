@@ -1,7 +1,7 @@
 ---
 title: "Obsidian configuration"
 date: 2023-05-05 14:49
-last_modified_at: 2023-05-10 10:50
+last_modified_at: 2023-05-11 10:11
 tags:
   - obsidian
 ---

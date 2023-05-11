@@ -1,7 +1,7 @@
 ---
 title: "Linters"
 date: 2023-05-05 15:04
-last_modified_at: 2023-05-10 10:50
+last_modified_at: 2023-05-11 10:11
 tags:
   - command-line-tool
   - linter
