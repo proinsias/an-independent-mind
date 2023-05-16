@@ -7,11 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2019-03-27'
   bookImageUrl: 'https://m.media-amazon.com/images/I/917nJWgAiBL._SY160.jpg'
   highlightsCount: 1
-date: 2023-05-16 19:17
-last_modified_at: 2023-05-16 19:17
----  
+date: 2023-05-16 19:31
+last_modified_at: 2023-05-16 19:31
+---
 ### [Books MOC](Books%20MOC.md)
+
 # The Gods Themselves
+
 ## Metadata
 * Author: [Isaac Asimov](https://www.amazon.comundefined)
 * ASIN: B004JHYRP4

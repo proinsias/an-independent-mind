@@ -7,12 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2019-12-08'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81wYvmxrnWL._SY160.jpg'
   highlightsCount: 1
-date: 2023-05-16 19:10
-last_modified_at: 2023-05-16 19:10
+date: 2023-05-16 19:30
+last_modified_at: 2023-05-16 19:30
 ---
 ### [Books MOC](Books%20MOC.md)
 
 # Odds On
+
 ## Metadata
 * Author: [Michael Crichton and John Lange](https://www.amazon.comundefined)
 * ASIN: B00DEU9GY4

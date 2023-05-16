@@ -7,12 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2022-08-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81NY-Q4lH2L._SY160.jpg'
   highlightsCount: 28
-date: 2023-05-16 19:10
-last_modified_at: 2023-05-16 19:10
+date: 2023-05-16 19:28
+last_modified_at: 2023-05-16 19:28
 ---
 ### [Books MOC](Books%20MOC.md)
 
 # Seeing Gender
+
 ## Metadata
 * Author: [Iris Gottlieb and Meredith Talusan](https://www.amazon.comundefined)
 * ASIN: B07WXNW2ZX

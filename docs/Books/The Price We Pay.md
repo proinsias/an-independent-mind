@@ -7,11 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71RiMWB3TRS._SY160.jpg'
   highlightsCount: 73
-date: 2023-05-16 19:17
-last_modified_at: 2023-05-16 19:17
----  
+date: 2023-05-16 19:31
+last_modified_at: 2023-05-16 19:31
+---
 ### [Books MOC](Books%20MOC.md)
+
 # The Price We Pay
+
 ## Metadata
 * Author: [Marty  Makary  MD](https://www.amazon.comundefined)
 * ASIN: B07MXPJ33B

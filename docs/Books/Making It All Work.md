@@ -7,12 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2023-03-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81iYq8dBCwL._SY160.jpg'
   highlightsCount: 23
-date: 2023-05-16 19:10
-last_modified_at: 2023-05-16 19:10
+date: 2023-05-16 19:28
+last_modified_at: 2023-05-16 19:28
 ---
 ### [Books MOC](Books%20MOC.md)
 
 # Making It All Work
+
 ## Metadata
 * Author: [David Allen](https://www.amazon.comundefined)
 * ASIN: B001AO0GRC

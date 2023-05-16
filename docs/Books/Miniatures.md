@@ -7,12 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2019-03-27'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81T-UTKgoUL._SY160.jpg'
   highlightsCount: 2
-date: 2023-05-16 19:10
-last_modified_at: 2023-05-16 19:10
+date: 2023-05-16 19:30
+last_modified_at: 2023-05-16 19:30
 ---
 ### [Books MOC](Books%20MOC.md)
 
 # Miniatures
+
 ## Metadata
 * Author: [John Scalzi](https://www.amazon.comundefined)
 * ASIN: B01NCF8YH6

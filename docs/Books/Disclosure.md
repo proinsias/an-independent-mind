@@ -7,11 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2019-03-27'
   bookImageUrl: 'https://m.media-amazon.com/images/I/41-enThMTRL._SY160.jpg'
   highlightsCount: 7
-date: 2023-05-16 19:08
-last_modified_at: 2023-05-16 19:08
+date: 2023-05-16 19:29
+last_modified_at: 2023-05-16 19:29
 ---
 ### [Books MOC](Books%20MOC.md)
+
 # Disclosure
+
 ## Metadata
 * Author: [Michael Crichton](https://www.amazon.comundefined)
 * ASIN: B000FC1HPK
