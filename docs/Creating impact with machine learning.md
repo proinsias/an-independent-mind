@@ -1,7 +1,7 @@
 ---
 title: "Creating impact with machine learning"
 date: 2023-05-16 17:42
-last_modified_at: 2023-05-16 17:42
+last_modified_at: 2023-05-16 17:48
 tags:
   - data-science
   - machine-learning
@@ -13,7 +13,7 @@ tags:
 
 ### Why You’re Not Getting Value from Your Data Science
 
-[Harvard Business Review](https://getliner.com/share/highlighted/eFvmQ)
+[Harvard Business Review](https://hbr.org/2016/12/why-youre-not-getting-value-from-your-data-science)
 
 > In its rawest form, even clean data is too overwhelming and complex to be understood at first glance, even by experts. It has too many tables and fields and is often collected at a very high granularity. ... Machine learning experts are used to working with data that’s already been aggregated into useful variables.
 
@@ -25,7 +25,6 @@ tags:
 > 
 > * **Explore more problems:** Data scientists need the ability to rapidly define and explore multiple prediction problems, quickly and easily. Instead of exploring one business problem with an incredibly sophisticated machine learning model, companies should be exploring dozens, building a simple predictive model for each one and assessing their value proposition.
 >
-****Learn from a sample of data—not all the data:** Instead of focusing on how to apply distributed computing to allow any individual processing module to handle big data, invest in techniques that will enable the derivations of similar conclusions from a data subsample. By circumventing the use of massive computing resources, they will enable the exploration of more hypotheses.
+> * **Learn from a sample of data—not all the data:** Instead of focusing on how to apply distributed computing to allow any individual processing module to handle big data, invest in techniques that will enable the derivations of similar conclusions from a data subsample. By circumventing the use of massive computing resources, they will enable the exploration of more hypotheses.
 > 
-**Focus on automation:** To achieve both _reduced time to first model_ and _increased rate of exploration_, companies must automate processes that are normally done manually. Over and over across different data problems, we found ourselves applying similar data processing techniques, whether it was to transform the data into useful aggregates, or to prepare data for predictive modeling—it’s time to streamline these, and to develop algorithms and build software systems that do them automatically.
-
+> * **Focus on automation:** To achieve both _reduced time to first model_ and _increased rate of exploration_, companies must automate processes that are normally done manually. Over and over across different data problems, we found ourselves applying similar data processing techniques, whether it was to transform the data into useful aggregates, or to prepare data for predictive modeling—it’s time to streamline these, and to develop algorithms and build software systems that do them automatically.
