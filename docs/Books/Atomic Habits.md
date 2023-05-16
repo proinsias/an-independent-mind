@@ -1,13 +1,16 @@
 ---
 kindle-sync:
   bookId: '38075'
-  title: 'Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones'
+  title: 'Atomic Habits
   author: James Clear
   asin: B07D23CFGR
   lastAnnotatedDate: '2023-05-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81FbjLL8MRL._SY160.jpg'
   highlightsCount: 124
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
+### [Books MOC](Books%20MOC.md)
 # Atomic Habits
 ## Metadata
 * Author: [James Clear](https://www.amazon.comundefined)

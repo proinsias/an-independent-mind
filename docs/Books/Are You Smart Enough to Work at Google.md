@@ -10,7 +10,10 @@ kindle-sync:
   lastAnnotatedDate: '2023-03-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/714xWFiHC8L._SY160.jpg'
   highlightsCount: 2
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
+### [Books MOC](Books%20MOC.md)
 # Are You Smart Enough to Work at Google?
 ## Metadata
 * Author: [William Poundstone](https://www.amazon.comundefined)

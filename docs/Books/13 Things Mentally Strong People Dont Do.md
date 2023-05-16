@@ -10,6 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71JcLvUI+tL._SY160.jpg'
   highlightsCount: 104
 ---
+### [Books MOC](Books%20MOC.md)
 # 13 Things Mentally Strong People Dont Do
 ## Metadata
 * Author: [Amy Morin](https://www.amazon.comundefined)

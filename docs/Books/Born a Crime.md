@@ -8,6 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91mePFAgywL._SY160.jpg'
   highlightsCount: 29
 ---
+### [Books MOC](Books%20MOC.md)
 # Born a Crime
 ## Metadata
 * Author: [Trevor Noah](https://www.amazon.comundefined)

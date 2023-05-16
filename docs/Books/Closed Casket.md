@@ -10,6 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91aVaOHw+QL._SY160.jpg'
   highlightsCount: 3
 ---
+### [Books MOC](Books%20MOC.md)
 # Closed Casket
 ## Metadata
 * Author: [Sophie Hannah and Agatha Christie](https://www.amazon.comundefined)

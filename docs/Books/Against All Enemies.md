@@ -7,7 +7,10 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71DhXRJtzUL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
+### [Books MOC](Books%20MOC.md)
 # Against All Enemies
 ## Metadata
 * Author: [Tom Clancy and Peter Telep](https://www.amazon.comundefined)

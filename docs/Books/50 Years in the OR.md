@@ -9,7 +9,10 @@ kindle-sync:
   lastAnnotatedDate: '2022-05-20'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61vuRrvZyqL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
+### [Books MOC](Books%20MOC.md)
 # 50 Years in the OR
 ## Metadata
 * Author: [Ronald Whitchurch](https://www.amazon.comundefined)

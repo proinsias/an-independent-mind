@@ -9,7 +9,10 @@ kindle-sync:
   lastAnnotatedDate: '2021-01-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/813DWmQGk7L._SY160.jpg'
   highlightsCount: 4
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
+### [Books MOC](Books%20MOC.md)
 # Appointment With Death
 ## Metadata
 * Author: [Agatha Christie](https://www.amazon.comundefined)

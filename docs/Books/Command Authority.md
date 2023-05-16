@@ -8,6 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81TZV7lCtKL._SY160.jpg'
   highlightsCount: 1
 ---
+### [Books MOC](Books%20MOC.md)
 # Command Authority
 ## Metadata
 * Author: [Tom Clancy and Mark Greaney](https://www.amazon.comundefined)

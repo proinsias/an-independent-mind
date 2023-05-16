@@ -9,7 +9,10 @@ kindle-sync:
   lastAnnotatedDate: '2021-05-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81hdC0QSZjL._SY160.jpg'
   highlightsCount: 2
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
+### [Books MOC](Books%20MOC.md)
 # By the Pricking of My Thumbs
 ## Metadata
 * Author: [Agatha Christie](https://www.amazon.comundefined)
