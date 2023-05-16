@@ -27,7 +27,7 @@ template-type: Book
 template-version: '1.5'
 ---
 
-### [[Books MOC]]
+### [Books MOC](Books%20MOC.md)
 
 # Firefight
 

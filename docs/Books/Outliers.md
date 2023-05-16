@@ -22,12 +22,12 @@ rating:
 read:
 status: read
 date: 2023-05-09, 21:31
-last_modified_at: 2023-05-10 02:01:07
+last_modified_at: 2023-05-16 13:25:44
 template-type: Book
 template-version: '1.5'
 ---
 
-### [[Books MOC]]
+### [Books MOC](Books%20MOC.md)
 
 # Outliers
 

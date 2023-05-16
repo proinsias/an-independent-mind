@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-05-11 11:03
+last_modified_at: 2023-05-16 13:25:44
 ---
 
 # An Independent Mind
@@ -20,17 +20,17 @@ My public digital garden / knowledge base, created using [Obsidian](https://obsi
 
 ## Main topics
 
--   [Books MOC](Books%20MOC.md)
--   [Cloud computing MOC](Cloud%20computing%20MOC.md)
--   [Command line tools MOC](Command%20line%20tools%20MOC.md)
--   [Data science MOC](Data%20science%20MOC.md)
--   [Databases MOC](Databases%20MOC.md)
--   [Management MOC](Management%20MOC.md)
--   [Newsletters MOC](Newsletters%20MOC.md)
--   [Operating systems MOC](Operating%20systems%20MOC.md)
--   [Podcasts MOC](Podcasts%20MOC.md)
--   [Programming MOC](Programming%20MOC.md)
--   [Talks MOC](Talks%20MOC.md)
+-   [Books MOC](docs/Books/Books%20MOC.md)
+-   [Cloud computing MOC](docs/Cloud%20computing%20MOC.md)
+-   [Command line tools MOC](docs/Command%20line%20tools%20MOC.md)
+-   [Data science MOC](docs/Data%20science%20MOC.md)
+-   [Databases MOC](docs/Databases%20MOC.md)
+-   [Management MOC](docs/Management%20MOC.md)
+-   [Newsletters MOC](docs/Newsletters%20MOC.md)
+-   [Operating systems MOC](docs/Operating%20systems%20MOC.md)
+-   [Podcasts MOC](docs/Podcasts%20MOC.md)
+-   [Programming MOC](docs/Programming%20MOC.md)
+-   [Talks MOC](docs/Talks%20MOC.md)
 
 ## What's 'An Independent Mind' all about?
 

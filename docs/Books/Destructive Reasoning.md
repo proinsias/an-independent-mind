@@ -21,12 +21,12 @@ rating:
 read:
 status: completed
 date: 2023-05-07, 18:42
-last_modified_at: 2023-05-08 12:42:54
+last_modified_at: 2023-05-16 13:25:44
 template-type: Book
 template-version: '1.5'
 ---
 
-### [[Books MOC]]
+### [Books MOC](Books%20MOC.md)
 
 # Destructive Reasoning
 

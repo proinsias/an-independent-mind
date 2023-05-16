@@ -1,10 +1,10 @@
 ---
-title: "Docker"
+title: 'Docker'
 date: 2023-05-15 18:01
-last_modified_at: 2023-05-15 18:05
+last_modified_at: 2023-05-16 13:25:44
 tags:
-  - ccommand-line-tool
-  - docker
+    - command-line-tool
+    - docker
 ---
 
 ### [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -13,10 +13,11 @@ tags:
 
 ## diff
 
-Inspects changes to files or directories on a container’s filesystem since the container was created. Three different types of change are tracked:
-* A file or directory was added (A).
-* A file or directory was deleted (D).
-* A file or directory was changed (C).
+Inspects changes to files or directories on a container's filesystem since the container was created. Three different types of change are tracked:
+
+-   A file or directory was added (A).
+-   A file or directory was deleted (D).
+-   A file or directory was changed (C).
 
 ```shell
 docker diff <container>
