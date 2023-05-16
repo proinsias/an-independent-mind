@@ -1,7 +1,7 @@
 ---
 title: "Creating impact with machine learning"
 date: 2023-05-16 17:42
-last_modified_at: 2023-05-16 18:05
+last_modified_at: 2023-05-16 18:09
 tags:
   - data-science
   - machine-learning
@@ -63,4 +63,11 @@ tags:
 > -   Identify metrics that measure this variability.
 > -   Identify a clear path to creating quantifiable value.
 
-> Factors to assess whether the problem identified in the problem statement can actually be solved:
+> \[Some\] factors to assess whether the problem identified in the problem statement can actually be solved:
+> 
+> * Do we have enough data \[consistently\] available, and is it accurate \[and understood by us\] enough?
+> * Do we have the technical capabilities to produce the model?
+> -   Do we have business support that can be involved in our approach to solving the problem?
+> -   Are there any potential issues that may be critical failure points in deploying a model?
+
+> In many failed projects, communication between subject matter experts and data scientists stops once the problem statement is approved. ... Sharing insights early and often helps the business understand the actions they need to take to leverage the model output. ... \[Work\] with business analysts and solution architects to understand their business processes and any technology implications that changing them would generate.
