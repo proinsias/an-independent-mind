@@ -1,18 +1,17 @@
 ---
 kindle-sync:
   bookId: '44030'
-  title: 'Ready Player Two
+  title: 'Ready Player Two: A Novel (Ready Player One Book 2)'
   author: Ernest Cline
   asin: B08BYWH6CS
   lastAnnotatedDate: '2023-04-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91pxjSLgBkL._SY160.jpg'
   highlightsCount: 4
-date: 2023-05-16 19:10
-last_modified_at: 2023-05-16 19:10
 ---
 ### [Books MOC](Books%20MOC.md)
 
 # Ready Player Two
+
 ## Metadata
 * Author: [Ernest Cline](https://www.amazon.comundefined)
 * ASIN: B08BYWH6CS

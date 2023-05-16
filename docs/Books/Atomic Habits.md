@@ -7,11 +7,13 @@ kindle-sync:
   lastAnnotatedDate: '2023-05-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81FbjLL8MRL._SY160.jpg'
   highlightsCount: 124
-date: 2023-05-16 19:06
-last_modified_at: 2023-05-16 19:06
+date: 2023-05-16 19:27
+last_modified_at: 2023-05-16 19:27
 ---
 ### [Books MOC](Books%20MOC.md)
+
 # Atomic Habits
+
 ## Metadata
 * Author: [James Clear](https://www.amazon.comundefined)
 * ASIN: B07D23CFGR

@@ -8,7 +8,10 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81T27xQARKL._SY160.jpg'
   highlightsCount: 24
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Stealing Your Life
+
 ## Metadata
 * Author: [Frank W. Abagnale](https://www.amazon.comundefined)
 * ASIN: B000PDZF4S
@@ -16,7 +19,6 @@ kindle-sync:
 * Reference: https://www.amazon.com/dp/B000PDZF4S
 * [Kindle link](kindle://book?action=open&asin=B000PDZF4S)
 
-### [Books MOC](Books%20MOC.md)
 ## Highlights
 At the end of the year they take a 50 percent tax write-off, so the U.S. taxpayer picks up roughly half of their losses. — location: [226](kindle://book?action=open&asin=B000PDZF4S&location=226) ^ref-17777
 

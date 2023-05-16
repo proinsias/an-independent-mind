@@ -8,14 +8,16 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81iYq8dBCwL._SY160.jpg'
   highlightsCount: 23
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Making It All Work
+
 ## Metadata
 * Author: [David Allen](https://www.amazon.comundefined)
 * ASIN: B001AO0GRC
 * Reference: https://www.amazon.com/dp/B001AO0GRC
 * [Kindle link](kindle://book?action=open&asin=B001AO0GRC)
 
-### [Books MOC](Books%20MOC.md)
 ## Highlights
 The art of progress is to preserve order amid change and to preserve change amid order. — location: [63](kindle://book?action=open&asin=B001AO0GRC&location=63) ^ref-32742
 

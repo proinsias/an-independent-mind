@@ -8,7 +8,10 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81-dTgsNAML._SY160.jpg'
   highlightsCount: 73
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Something Deeply Hidden
+
 ## Metadata
 * Author: [Sean Carroll](https://www.amazon.comundefined)
 * ASIN: B07NTYJJDX
@@ -16,7 +19,6 @@ kindle-sync:
 * Reference: https://www.amazon.com/dp/B07NTYJJDX
 * [Kindle link](kindle://book?action=open&asin=B07NTYJJDX)
 
-### [Books MOC](Books%20MOC.md)
 ## Highlights
 To tag this distinction with philosophical buzzwords, in statistical mechanics the probability distribution is an epistemic notion—describing the state of our knowledge—rather than an ontological one—describing some objective feature of reality. Epistemology is the study of knowledge; ontology is the study of what is real. — location: [492](kindle://book?action=open&asin=B07NTYJJDX&location=492) ^ref-484
 
