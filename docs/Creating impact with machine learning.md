@@ -1,7 +1,7 @@
 ---
 title: "Creating impact with machine learning"
 date: 2023-05-16 17:42
-last_modified_at: 2023-05-16 17:48
+last_modified_at: 2023-05-16 17:59
 tags:
   - data-science
   - machine-learning
@@ -13,7 +13,7 @@ tags:
 
 ### Why You’re Not Getting Value from Your Data Science
 
-[Harvard Business Review](https://hbr.org/2016/12/why-youre-not-getting-value-from-your-data-science)
+[Kalyan Veeramachaneni](http://www.kalyanv.org/) in the [Harvard Business Review](https://hbr.org/2016/12/why-youre-not-getting-value-from-your-data-science).
 
 > In its rawest form, even clean data is too overwhelming and complex to be understood at first glance, even by experts. It has too many tables and fields and is often collected at a very high granularity. ... Machine learning experts are used to working with data that’s already been aggregated into useful variables.
 
@@ -28,3 +28,16 @@ tags:
 > * **Learn from a sample of data—not all the data:** Instead of focusing on how to apply distributed computing to allow any individual processing module to handle big data, invest in techniques that will enable the derivations of similar conclusions from a data subsample. By circumventing the use of massive computing resources, they will enable the exploration of more hypotheses.
 > 
 > * **Focus on automation:** To achieve both _reduced time to first model_ and _increased rate of exploration_, companies must automate processes that are normally done manually. Over and over across different data problems, we found ourselves applying similar data processing techniques, whether it was to transform the data into useful aggregates, or to prepare data for predictive modeling—it’s time to streamline these, and to develop algorithms and build software systems that do them automatically.
+
+### Why models fail to deliver value and what you can do about it
+
+[David Bloch](https://www.dominodatalab.com/blog/author/david-bloch) in the [Domino blog](https://www.dominodatalab.com/blog/why-models-fail-to-deliver-value-and-what-you-can-do-about-it).
+
+> VentureBeat AI concluded that just 13% of data science projects make it into production. ... Gartner predicts that only 20% of analytics projects will deliver business outcomes that improve performance.
+
+> Many data science projects fail to deliver value because, at the highest level, Data Science and the business simply aren’t connected. This devolves into a variety of challenges:
+>
+> * Data science projects start without business support or a key stakeholder to act as the domain expert during model development. 
+> * Organizations struggle to translate business challenges into solvable data science problems. Often, data science teams emphasize finding novel insights rather than pinpointing how a business process can be improved. This means many projects get stuck in endless research and experimentation.  
+> * The question being asked cannot be sufficiently answered with the available data or the costs associated with data extraction from systems are too high due to a lack of connectivity across applications.  
+> * There is a lack of clarity between Data Science and IT teams on how to deploy models into production. Without a feasible, repeatable method for deploying model code, models can languish on the shelf while business opportunity passes.
