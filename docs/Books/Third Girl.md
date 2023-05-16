@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2022-06-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51QRfEd9YuL._SY160.jpg'
   highlightsCount: 3
----
+---  
+### [Books MOC](Books%20MOC.md)
 # Third Girl
 ## Metadata
 * Author: [Agatha Christie](https://www.amazon.comundefined)

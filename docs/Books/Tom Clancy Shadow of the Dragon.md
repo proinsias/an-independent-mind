@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2020-12-25'
   bookImageUrl: 'https://m.media-amazon.com/images/I/818rgJsitGL._SY160.jpg'
   highlightsCount: 4
+date: 2023-05-16 19:14
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Tom Clancy Shadow of the Dragon
 ## Metadata
 * Author: [Marc Cameron](https://www.amazon.comundefined)

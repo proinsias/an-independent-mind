@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/916Wb28ZtZL._SY160.jpg'
   highlightsCount: 1
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Robots of Dawn
 ## Metadata
 * Author: [Isaac Asimov](https://www.amazon.comundefined)

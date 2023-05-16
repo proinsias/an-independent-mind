@@ -9,7 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2019-02-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91EfyoJLFtL._SY160.jpg'
   highlightsCount: 3
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Mystery of Three Quarters
 ## Metadata
 * Author: [Sophie Hannah](https://www.amazon.comundefined)

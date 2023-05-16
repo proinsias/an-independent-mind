@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/910JiWeC-8L._SY160.jpg'
   highlightsCount: 2
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Naked Sun
 ## Metadata
 * Author: [Isaac Asimov](https://www.amazon.comundefined)

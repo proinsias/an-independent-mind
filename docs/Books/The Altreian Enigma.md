@@ -7,7 +7,10 @@ kindle-sync:
   lastAnnotatedDate: '2021-12-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91lGj5eUyIL._SY160.jpg'
   highlightsCount: 2
----
+date: 2023-05-16 19:16
+last_modified_at: 2023-05-16 19:17
+---  
+### [Books MOC](Books%20MOC.md)
 # The Altreian Enigma
 ## Metadata
 * Author: [Richard Phillips](https://www.amazon.comundefined)

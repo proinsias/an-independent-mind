@@ -9,7 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2022-09-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71I+rh9vFbL._SY160.jpg'
   highlightsCount: 60
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Theory That Would Not Die
 ## Metadata
 * Author: [Sharon Bertsch McGrayne](https://www.amazon.comundefined)

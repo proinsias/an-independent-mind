@@ -9,7 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2020-08-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71QKQ9mwV7L._SY160.jpg'
   highlightsCount: 101
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Subtle Art of Not Giving a F*ck
 ## Metadata
 * Author: [Mark Manson](https://www.amazon.comundefined)

@@ -9,7 +9,10 @@ kindle-sync:
   lastAnnotatedDate: '2021-02-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81X8GaLT9sL._SY160.jpg'
   highlightsCount: 81
----
+date: 2023-05-16 19:17
+last_modified_at: 2023-05-16 19:17
+---  
+### [Books MOC](Books%20MOC.md)
 # The Hard Thing About Hard Things
 ## Metadata
 * Author: [Ben Horowitz](https://www.amazon.comundefined)

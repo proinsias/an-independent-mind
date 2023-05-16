@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2017-02-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91juP+d8CLL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:14
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Tom Clancy True Faith and Allegiance
 ## Metadata
 * Author: [Mark Greaney](https://www.amazon.comundefined)

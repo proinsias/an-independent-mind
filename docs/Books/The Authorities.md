@@ -7,7 +7,10 @@ kindle-sync:
   lastAnnotatedDate: '2023-05-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91hcuffeO8L._SY160.jpg'
   highlightsCount: 14
----
+date: 2023-05-16 19:16
+last_modified_at: 2023-05-16 19:17
+---  
+### [Books MOC](Books%20MOC.md)
 # The Authorities
 ## Metadata
 * Author: [Scott Meyer](https://www.amazon.comundefined)

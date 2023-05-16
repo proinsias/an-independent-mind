@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-12-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91gLc7P1IQL._SY160.jpg'
   highlightsCount: 1
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Meridian Ascent
 ## Metadata
 * Author: [Richard Phillips](https://www.amazon.comundefined)

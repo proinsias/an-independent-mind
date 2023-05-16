@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2022-07-04'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81PoORP+BaL._SY160.jpg'
   highlightsCount: 61
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The System
 ## Metadata
 * Author: [Robert B. Reich](https://www.amazon.comundefined)

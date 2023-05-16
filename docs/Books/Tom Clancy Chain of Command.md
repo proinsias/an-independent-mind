@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2023-04-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91ZxLGYc8xL._SY160.jpg'
   highlightsCount: 2
----
+---  
+### [Books MOC](Books%20MOC.md)
 # Tom Clancy Chain of Command
 ## Metadata
 * Author: [Marc Cameron](https://www.amazon.comundefined)

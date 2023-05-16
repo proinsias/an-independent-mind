@@ -7,7 +7,10 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/810cyZNg42L._SY160.jpg'
   highlightsCount: 1
----
+date: 2023-05-16 19:16
+last_modified_at: 2023-05-16 19:16
+---  
+### [Books MOC](Books%20MOC.md)
 # The Caves of Steel
 ## Metadata
 * Author: [Isaac Asimov](https://www.amazon.comundefined)

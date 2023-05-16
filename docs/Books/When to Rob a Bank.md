@@ -9,7 +9,11 @@ kindle-sync:
   lastAnnotatedDate: '2020-02-07'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81kCJyTTfWL._SY160.jpg'
   highlightsCount: 4
+date: 2023-05-16 19:13
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # When to Rob a Bank
 ## Metadata
 * Author: [Steven D. Levitt and Stephen J. Dubner](https://www.amazon.comundefined)

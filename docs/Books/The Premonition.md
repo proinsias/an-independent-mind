@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-09-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61mdmv2WbAL._SY160.jpg'
   highlightsCount: 48
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Premonition
 ## Metadata
 * Author: [Michael Lewis](https://www.amazon.comundefined)

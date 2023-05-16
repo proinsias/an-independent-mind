@@ -1,13 +1,16 @@
 ---
 kindle-sync:
   bookId: '5466'
-  title: 'The Body: A Guide for Occupants'
+  title: 'The Body
   author: Bill Bryson
   asin: B07M82PNSX
   lastAnnotatedDate: '2022-03-20'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71F5rOhJ+OL._SY160.jpg'
   highlightsCount: 211
----
+date: 2023-05-16 19:16
+last_modified_at: 2023-05-16 19:16
+---  
+### [Books MOC](Books%20MOC.md)
 # The Body
 ## Metadata
 * Author: [Bill Bryson](https://www.amazon.comundefined)

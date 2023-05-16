@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2020-04-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91WXrUEGWiL._SY160.jpg'
   highlightsCount: 1
----
+---  
+### [Books MOC](Books%20MOC.md)
 # Tom Clancy Enemy Contact
 ## Metadata
 * Author: [Mike Maden](https://www.amazon.comundefined)

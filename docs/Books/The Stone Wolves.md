@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-09-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/910MXNeOaLL._SY160.jpg'
   highlightsCount: 3
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Stone Wolves
 ## Metadata
 * Author: [Scott Sigler and J.C. Hutchins](https://www.amazon.comundefined)

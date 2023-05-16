@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2020-08-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91FuzelIPtL._SY160.jpg'
   highlightsCount: 23
+date: 2023-05-16 19:13
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # You Have the Right to Remain Innocent
 ## Metadata
 * Author: [James Duane](https://www.amazon.comundefined)

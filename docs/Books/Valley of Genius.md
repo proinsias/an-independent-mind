@@ -9,7 +9,11 @@ kindle-sync:
   lastAnnotatedDate: '2019-01-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91G1VZDi0lL._SY160.jpg'
   highlightsCount: 9
+date: 2023-05-16 19:13
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Valley of Genius
 ## Metadata
 * Author: [Adam Fisher](https://www.amazon.comundefined)

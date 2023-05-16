@@ -9,7 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71AkfJkl08L._SY160.jpg'
   highlightsCount: 4
----
+---  
+### [Books MOC](Books%20MOC.md)
 # The Year of Living Biblically
 ## Metadata
 * Author: [A. J. Jacobs](https://www.amazon.comundefined)

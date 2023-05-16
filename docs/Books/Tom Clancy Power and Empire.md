@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91V9QBJR25L._SY160.jpg'
   highlightsCount: 2
+date: 2023-05-16 19:14
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Tom Clancy Power and Empire
 ## Metadata
 * Author: [Marc Cameron](https://www.amazon.comundefined)

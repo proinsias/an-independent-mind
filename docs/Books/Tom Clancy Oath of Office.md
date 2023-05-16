@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2020-04-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81fPnf83WfL._SY160.jpg'
   highlightsCount: 8
+date: 2023-05-16 19:14
+last_modified_at: 2023-05-16 19:14
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Tom Clancy Oath of Office
 ## Metadata
 * Author: [Marc Cameron](https://www.amazon.comundefined)

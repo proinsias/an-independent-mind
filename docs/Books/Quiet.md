@@ -1,12 +1,14 @@
 ---
 kindle-sync:
   bookId: '63755'
-  title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
+  title: 'Quiet
   author: Susan Cain
   asin: B004J4WNL2
   lastAnnotatedDate: '2023-04-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71FvX52xEBL._SY160.jpg'
   highlightsCount: 126
+date: 2023-05-16 19:12
+last_modified_at: 2023-05-16 19:12
 ---
 ### [Books MOC](Books%20MOC.md)
 

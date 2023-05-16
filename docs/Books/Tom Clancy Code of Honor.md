@@ -7,7 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2020-04-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91fwQurxglL._SY160.jpg'
   highlightsCount: 4
----
+---  
+### [Books MOC](Books%20MOC.md)
 # Tom Clancy Code of Honor
 ## Metadata
 * Author: [Marc Cameron](https://www.amazon.comundefined)
