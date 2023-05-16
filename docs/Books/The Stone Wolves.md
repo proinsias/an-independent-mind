@@ -7,6 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-09-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/910MXNeOaLL._SY160.jpg'
   highlightsCount: 3
+date: 2023-05-16 19:17
+last_modified_at: 2023-05-16 19:18
 ---  
 ### [Books MOC](Books%20MOC.md)
 # The Stone Wolves

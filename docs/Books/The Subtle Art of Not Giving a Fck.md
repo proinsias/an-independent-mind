@@ -9,6 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2020-08-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71QKQ9mwV7L._SY160.jpg'
   highlightsCount: 101
+date: 2023-05-16 19:17
+last_modified_at: 2023-05-16 19:18
 ---  
 ### [Books MOC](Books%20MOC.md)
 # The Subtle Art of Not Giving a F*ck

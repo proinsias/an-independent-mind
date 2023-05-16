@@ -1,16 +1,13 @@
 ---
 kindle-sync:
   bookId: '34974'
-  title: 'The Premonition
+  title: 'The Premonition: A Pandemic Story'
   author: Michael Lewis
   asin: B08V91YY8R
   lastAnnotatedDate: '2021-09-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61mdmv2WbAL._SY160.jpg'
   highlightsCount: 48
-date: 2023-05-16 19:17
-last_modified_at: 2023-05-16 19:17
----  
-### [Books MOC](Books%20MOC.md)
+---
 # The Premonition
 ## Metadata
 * Author: [Michael Lewis](https://www.amazon.comundefined)
@@ -18,6 +15,7 @@ last_modified_at: 2023-05-16 19:17
 * Reference: https://www.amazon.com/dp/B08V91YY8R
 * [Kindle link](kindle://book?action=open&asin=B08V91YY8R)
 
+### [Books MOC](Books%20MOC.md)
 ## Highlights
 “All science is modeling. In all science you are abstracting from nature. The question is: is it a useful abstraction.” Useful, to Bob Glass, meant: Does it help solve a problem? — location: [94](kindle://book?action=open&asin=B08V91YY8R&location=94) ^ref-54665
 

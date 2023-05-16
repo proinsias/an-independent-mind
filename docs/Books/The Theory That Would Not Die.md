@@ -9,6 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2022-09-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71I+rh9vFbL._SY160.jpg'
   highlightsCount: 60
+date: 2023-05-16 19:17
+last_modified_at: 2023-05-16 19:18
 ---  
 ### [Books MOC](Books%20MOC.md)
 # The Theory That Would Not Die

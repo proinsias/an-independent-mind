@@ -7,6 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2020-04-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91WXrUEGWiL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:18
+last_modified_at: 2023-05-16 19:18
 ---  
 ### [Books MOC](Books%20MOC.md)
 # Tom Clancy Enemy Contact
