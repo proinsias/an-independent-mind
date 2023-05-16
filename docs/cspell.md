@@ -1,7 +1,7 @@
 ---
 title: 'cspell'
 date: 2023-05-04 09:02
-last_modified_at: 2023-05-16 12:13
+last_modified_at: 2023-05-16 14:53
 tags:
     - command-line-tool
     - cspell

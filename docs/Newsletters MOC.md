@@ -1,7 +1,7 @@
 ---
 title: 'Newsletters MOC'
 date: 2023-05-06 00:28
-last_modified_at: 2023-05-16 12:13
+last_modified_at: 2023-05-16 14:53
 tags:
     - newsletter
 ---
