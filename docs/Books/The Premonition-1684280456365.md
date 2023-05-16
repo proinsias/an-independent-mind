@@ -1,14 +1,12 @@
 ---
 kindle-sync:
   bookId: '34974'
-  title: 'The Premonition
+  title: 'The Premonition: A Pandemic Story'
   author: Michael Lewis
   asin: B08V91YY8R
   lastAnnotatedDate: '2021-09-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61mdmv2WbAL._SY160.jpg'
   highlightsCount: 48
-date: 2023-05-16 19:31
-last_modified_at: 2023-05-16 19:31
 ---
 ### [Books MOC](Books%20MOC.md)
 
