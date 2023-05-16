@@ -4,9 +4,11 @@ kindle-sync:
   title: Destructive Reasoning (The Authorities Book 2)
   author: Scott Meyer
   asin: B0BLZQV6XS
-  lastAnnotatedDate: '2023-05-13'
+  lastAnnotatedDate: '2023-05-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81fxbbPAJDL._SY160.jpg'
-  highlightsCount: 13
+  highlightsCount: 14
+date: 2023-05-16 18:56
+last_modified_at: 2023-05-16 18:56
 ---
 # Destructive Reasoning
 ## Metadata
@@ -49,6 +51,9 @@ When you look at a place like this, they probably make most of their money selli
 
 ---
 focusing on his desperate effort to convince the person who was currently not helping him to continue to not help him. — location: [2436](kindle://book?action=open&asin=B0BLZQV6XS&location=2436) ^ref-47110
+
+---
+blushing so hard that his brain got starved for blood. — location: [2538](kindle://book?action=open&asin=B0BLZQV6XS&location=2538) ^ref-62425
 
 ---
 It’s all an exercise in cooperative mediocrity. Everybody participates but nobody is satisfied. — location: [2950](kindle://book?action=open&asin=B0BLZQV6XS&location=2950) ^ref-39085
