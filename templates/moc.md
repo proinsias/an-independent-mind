@@ -12,5 +12,3 @@ A note at the top as to why this MOC exists.
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
-
-#todo - remove README

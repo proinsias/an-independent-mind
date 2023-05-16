@@ -22,7 +22,7 @@ rating:
 read:
 status: completed
 date: 2023-05-10 10:49
-last_modified_at: 2023-05-16 14:53
+last_modified_at: 2023-05-16 18:27
 template-type: Book
 template-version: '1.5'
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
