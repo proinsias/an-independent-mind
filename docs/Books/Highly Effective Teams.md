@@ -10,7 +10,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-02-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71Z3pObG-fL._SY160.jpg'
   highlightsCount: 2
+date: 2023-05-16 19:09
+last_modified_at: 2023-05-16 19:09
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Highly Effective Teams
 ## Metadata
 * Author: [Michael Nir and Chen Nir](https://www.amazon.comundefined)

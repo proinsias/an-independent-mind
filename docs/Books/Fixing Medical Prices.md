@@ -1,13 +1,17 @@
 ---
 kindle-sync:
   bookId: '324'
-  title: 'Fixing Medical Prices: How Physicians Are Paid'
+  title: 'Fixing Medical Prices
   author: Miriam J. Laugesen
   asin: B01MRH9M23
   lastAnnotatedDate: '2021-07-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71ixhBTHgpL._SY160.jpg'
   highlightsCount: 3
+date: 2023-05-16 19:09
+last_modified_at: 2023-05-16 19:09
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Fixing Medical Prices
 ## Metadata
 * Author: [Miriam J. Laugesen](https://www.amazon.comundefined)

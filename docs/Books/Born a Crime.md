@@ -1,12 +1,14 @@
 ---
 kindle-sync:
   bookId: '33858'
-  title: 'Born a Crime: Stories from a South African Childhood'
+  title: 'Born a Crime
   author: Trevor Noah
   asin: B01DHWACVY
   lastAnnotatedDate: '2020-06-08'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91mePFAgywL._SY160.jpg'
   highlightsCount: 29
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:06
 ---
 ### [Books MOC](Books%20MOC.md)
 # Born a Crime

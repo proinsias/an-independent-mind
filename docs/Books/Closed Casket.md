@@ -9,6 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2019-12-03'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91aVaOHw+QL._SY160.jpg'
   highlightsCount: 3
+date: 2023-05-16 19:07
+last_modified_at: 2023-05-16 19:07
 ---
 ### [Books MOC](Books%20MOC.md)
 # Closed Casket

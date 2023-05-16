@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2023-01-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/917NFHLaPgL._SY160.jpg'
   highlightsCount: 5
+date: 2023-05-16 19:12
+last_modified_at: 2023-05-16 19:12
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Tom Clancy Zero Hour
 ## Metadata
 * Author: [Don Bentley](https://www.amazon.comundefined)

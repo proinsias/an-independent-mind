@@ -1,13 +1,17 @@
 ---
 kindle-sync:
   bookId: '27526'
-  title: 'Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime'
+  title: 'Something Deeply Hidden
   author: Sean Carroll
   asin: B07NTYJJDX
   lastAnnotatedDate: '2022-05-07'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81-dTgsNAML._SY160.jpg'
   highlightsCount: 73
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:10
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Something Deeply Hidden
 ## Metadata
 * Author: [Sean Carroll](https://www.amazon.comundefined)

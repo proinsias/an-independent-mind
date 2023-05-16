@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-09-10'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81L9XXBVNcL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:11
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Six Wakes
 ## Metadata
 * Author: [Mur Lafferty](https://www.amazon.comundefined)

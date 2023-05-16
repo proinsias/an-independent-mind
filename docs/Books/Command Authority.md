@@ -7,6 +7,8 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81TZV7lCtKL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:07
+last_modified_at: 2023-05-16 19:07
 ---
 ### [Books MOC](Books%20MOC.md)
 # Command Authority

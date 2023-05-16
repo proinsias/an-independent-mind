@@ -8,6 +8,8 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71sRKGhsNtS._SY160.jpg'
   highlightsCount: 44
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Talking to Strangers
 ## Metadata
 * Author: [Malcolm Gladwell](https://www.amazon.comundefined)

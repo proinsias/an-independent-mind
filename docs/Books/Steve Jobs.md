@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2017-12-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81FiZi-CWHL._SY160.jpg'
   highlightsCount: 5
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:11
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Steve Jobs
 ## Metadata
 * Author: [Walter Isaacson](https://www.amazon.comundefined)

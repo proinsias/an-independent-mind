@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2020-08-15'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71dFV20yLCL._SY160.jpg'
   highlightsCount: 6
+date: 2023-05-16 19:09
+last_modified_at: 2023-05-16 19:10
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Executive Orders
 ## Metadata
 * Author: [Tom Clancy](https://www.amazon.comundefined)

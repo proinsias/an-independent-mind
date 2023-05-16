@@ -9,7 +9,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-12-04'
   bookImageUrl: 'https://m.media-amazon.com/images/I/814vpUnjsxL._SY160.jpg'
   highlightsCount: 63
+date: 2023-05-16 19:09
+last_modified_at: 2023-05-16 19:09
 ---
+### [Books MOC](Books%20MOC.md)
+
 # "Guns Dont Kill People, People Kill People"
 ## Metadata
 * Author: [Dennis A. Henigan](https://www.amazon.comundefined)

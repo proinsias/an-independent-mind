@@ -9,7 +9,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-01-20'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81NvlrhDQmL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:09
+last_modified_at: 2023-05-16 19:09
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Hercule Poirots Christmas
 ## Metadata
 * Author: [Agatha Christie](https://www.amazon.comundefined)

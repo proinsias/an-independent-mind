@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/415bkn236-L._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:11
+last_modified_at: 2023-05-16 19:12
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Pebble in the Sky
 ## Metadata
 * Author: [Isaac Asimov](https://www.amazon.comundefined)

@@ -7,7 +7,11 @@ kindle-sync:
   lastAnnotatedDate: '2021-06-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710qykQP+AL._SY160.jpg'
   highlightsCount: 1
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:10
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Locked On
 ## Metadata
 * Author: [Tom Clancy and Mark Greaney](https://www.amazon.comundefined)

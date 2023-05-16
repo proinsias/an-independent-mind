@@ -9,6 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2023-03-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71JcLvUI+tL._SY160.jpg'
   highlightsCount: 104
+date: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:07
 ---
 ### [Books MOC](Books%20MOC.md)
 # 13 Things Mentally Strong People Dont Do

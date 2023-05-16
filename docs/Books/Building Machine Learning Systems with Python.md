@@ -8,7 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/51kMAMAiMPL._SY160.jpg'
   highlightsCount: 45
 date: 2023-05-16 19:06
-last_modified_at: 2023-05-16 19:06
+last_modified_at: 2023-05-16 19:07
 ---
 ### [Books MOC](Books%20MOC.md)
 # Building Machine Learning Systems with Python

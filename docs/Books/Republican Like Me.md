@@ -9,7 +9,11 @@ kindle-sync:
   lastAnnotatedDate: '2019-04-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81bCrd4tWmL._SY160.jpg'
   highlightsCount: 83
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:11
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Republican Like Me
 ## Metadata
 * Author: [Ken Stern](https://www.amazon.comundefined)

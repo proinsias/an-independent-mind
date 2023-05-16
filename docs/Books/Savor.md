@@ -1,13 +1,17 @@
 ---
 kindle-sync:
   bookId: '276'
-  title: 'Savor: Mindful Eating, Mindful Life'
+  title: 'Savor
   author: Thich Nhat Hanh and Lilian Cheung
   asin: B00395ZYS6
   lastAnnotatedDate: '2019-12-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71gfIxDYyaL._SY160.jpg'
   highlightsCount: 29
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:10
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Savor
 ## Metadata
 * Author: [Thich Nhat Hanh and Lilian Cheung](https://www.amazon.comundefined)

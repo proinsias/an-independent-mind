@@ -8,6 +8,8 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71FvX52xEBL._SY160.jpg'
   highlightsCount: 126
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Quiet
 ## Metadata
 * Author: [Susan Cain](https://www.amazon.comundefined)

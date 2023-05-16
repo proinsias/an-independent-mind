@@ -1,13 +1,17 @@
 ---
 kindle-sync:
   bookId: '49146'
-  title: 'Making It All Work: Winning at the Game of Work and the Business of Life'
+  title: 'Making It All Work
   author: David Allen
   asin: B001AO0GRC
   lastAnnotatedDate: '2023-03-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81iYq8dBCwL._SY160.jpg'
   highlightsCount: 23
+date: 2023-05-16 19:10
+last_modified_at: 2023-05-16 19:10
 ---
+### [Books MOC](Books%20MOC.md)
+
 # Making It All Work
 ## Metadata
 * Author: [David Allen](https://www.amazon.comundefined)

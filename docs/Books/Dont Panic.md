@@ -1,13 +1,16 @@
 ---
 kindle-sync:
   bookId: '30793'
-  title: 'Don''t Panic: Douglas Adams & The Hitchhiker''s Guide to the Galaxy'
+  title: 'Don''t Panic
   author: 'Neil Gaiman, David K. Dickson, M.J. Simpson, and Guy Adams'
   asin: B07HY7YH7R
   lastAnnotatedDate: '2019-12-22'
   bookImageUrl: 'https://m.media-amazon.com/images/I/910BeEhwc-L._SY160.jpg'
   highlightsCount: 6
+date: 2023-05-16 19:08
+last_modified_at: 2023-05-16 19:08
 ---
+### [Books MOC](Books%20MOC.md)
 # Dont Panic
 ## Metadata
 * Author: [Neil Gaiman, David K. Dickson, M.J. Simpson, and Guy Adams](https://www.amazon.comundefined)

@@ -8,8 +8,9 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81fxbbPAJDL._SY160.jpg'
   highlightsCount: 14
 date: 2023-05-16 18:56
-last_modified_at: 2023-05-16 18:56
+last_modified_at: 2023-05-16 19:08
 ---
+### [Books MOC](Books%20MOC.md)
 # Destructive Reasoning
 ## Metadata
 * Author: [Scott Meyer](https://www.amazon.comundefined)
