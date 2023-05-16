@@ -1,9 +1,9 @@
 {
   "amazonRegion": "global",
-  "highlightsFolder": "/",
+  "highlightsFolder": "docs/Books/Highlights",
   "lastSyncMode": "amazon",
-  "isLoggedIn": false,
-  "syncOnBoot": false,
+  "isLoggedIn": true,
+  "syncOnBoot": true,
   "downloadBookMetadata": true,
   "fileNameTemplate": "{{title}}"
 }
