@@ -1,14 +1,12 @@
 ---
 kindle-sync:
   bookId: '5038'
-  title: 'Evil Under the Sun
+  title: 'Evil Under the Sun: A Hercule Poirot Mystery (Hercule Poirot series Book 23)'
   author: Agatha Christie
   asin: B000FC1PFW
   lastAnnotatedDate: '2019-03-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/912AMPZbZYL._SY160.jpg'
   highlightsCount: 1
-date: 2023-05-16 19:30
-last_modified_at: 2023-05-16 19:30
 ---
 ### [Books MOC](Books%20MOC.md)
 
