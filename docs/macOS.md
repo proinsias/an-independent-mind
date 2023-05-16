@@ -1,7 +1,7 @@
 ---
 title: 'macOS'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-11 15:06:15
+last_modified_at: 2023-05-16 12:13
 tags:
     - command-line-tool
     - operating-system

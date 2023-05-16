@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-05-16 10:47
+last_modified_at: 2023-05-16 12:13
 ---
 
 # An Independent Mind
