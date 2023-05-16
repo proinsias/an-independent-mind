@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-05-16 10:22
+last_modified_at: 2023-05-16 10:47
 ---
 
 # An Independent Mind
@@ -30,7 +30,7 @@ My public digital garden / knowledge base, created using [Obsidian](https://obsi
 -   [Operating systems MOC](docs/Operating%20systems%20MOC.md)
 -   [Podcasts MOC](docs/Podcasts%20MOC.md)
 -   [Programming MOC](docs/Programming%20MOC.md)
--   [Talks MOC](docs/Talks%20MOC.md) compl
+-   [Talks MOC](docs/Talks%20MOC.md)
 
 ## What's 'An Independent Mind' all about?
 
