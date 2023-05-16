@@ -1,7 +1,7 @@
 ---
 title: "Creating impact with machine learning"
 date: 2023-05-16 17:42
-last_modified_at: 2023-05-16 17:59
+last_modified_at: 2023-05-16 18:05
 tags:
   - data-science
   - machine-learning
@@ -33,6 +33,8 @@ tags:
 
 [David Bloch](https://www.dominodatalab.com/blog/author/david-bloch) in the [Domino blog](https://www.dominodatalab.com/blog/why-models-fail-to-deliver-value-and-what-you-can-do-about-it).
 
+> Data Science creates value by providing an evidence-based approach to decision making. Decisions made based on model results should ultimately reduce cost or increase revenue.
+
 > VentureBeat AI concluded that just 13% of data science projects make it into production. ... Gartner predicts that only 20% of analytics projects will deliver business outcomes that improve performance.
 
 > Many data science projects fail to deliver value because, at the highest level, Data Science and the business simply aren’t connected. This devolves into a variety of challenges:
@@ -41,3 +43,24 @@ tags:
 > * Organizations struggle to translate business challenges into solvable data science problems. Often, data science teams emphasize finding novel insights rather than pinpointing how a business process can be improved. This means many projects get stuck in endless research and experimentation.  
 > * The question being asked cannot be sufficiently answered with the available data or the costs associated with data extraction from systems are too high due to a lack of connectivity across applications.  
 > * There is a lack of clarity between Data Science and IT teams on how to deploy models into production. Without a feasible, repeatable method for deploying model code, models can languish on the shelf while business opportunity passes.
+
+> Data scientists should start each new project by answering three critical questions:
+> 
+> 1. Do we have a \[clearly and concisely defined\] business problem with a clear path to value?
+> 2. Is the problem feasible for us to solve?  
+> 3. Can the business make the necessary changes resulting from data science insights?
+
+> It's important to note that answering these questions often requires an exploration phase during which data scientists work with business stakeholders to assess the problem, profile the data available, and build a rough idea of their approach to solve the problem.
+> A good rule of thumb is:
+> 
+> If you’re unable to answer these questions with business stakeholders within two to four weeks -- or at least be able to identify what is required to be able to answer them -- the odds of a successful outcome diminish.
+
+> Problem statements should ultimately:
+> 
+> -   Include a problem definition.
+> -   Identify a driver of cost or revenue within the business.
+> -   Identify a source of variability in that driver.
+> -   Identify metrics that measure this variability.
+> -   Identify a clear path to creating quantifiable value.
+
+> Factors to assess whether the problem identified in the problem statement can actually be solved:
