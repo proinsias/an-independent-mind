@@ -45,3 +45,4 @@ can we talk about enhanced intelligence or computer-augmented intelligence, wher
 Economics is based on a certain number of people dying every once in a while, right? Well, that’s not going to happen, which is going to mess up everything. Fusion power is going to mess up a number of things. — location: [8136](kindle://book?action=open&asin=B0769XXGXX&location=8136) ^ref-13604
 
 ---
+### [Books MOC](Books%20MOC.md)

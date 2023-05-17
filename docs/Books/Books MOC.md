@@ -14,6 +14,8 @@ table
 
 from "docs/Books"
 
+where file.name != "Books MOC"
+
 SORT title ascending
 
 ```

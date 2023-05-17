@@ -86,3 +86,4 @@ he had not made a clear and unequivocal request for a lawyer. — location: [125
 You need to say, with no adverbs, in only four words, “I want a lawyer.” And then you need to say it again, and again, until the police finally give up and realize they are dealing with someone who knows how our legal system really works. — location: [1291](kindle://book?action=open&asin=B01DAD218W&location=1291) ^ref-32538
 
 ---
+### [Books MOC](Books%20MOC.md)
