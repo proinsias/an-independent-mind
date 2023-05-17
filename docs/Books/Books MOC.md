@@ -1,3 +1,7 @@
+---
+date: 2023-05-16 20:14
+last_modified_at: 2023-05-16 20:15
+---
 # Books MOC
 
 ```dataview
@@ -10,6 +14,6 @@ table
 
 from "docs/Books"
 
-SORT grade DESCENDING
+SORT title ascending
 
 ```
