@@ -331,3 +331,4 @@ there aren’t any guarantees people will like you just because you try to pleas
 dying people often said they wished they had lived a more authentic life. Instead of dressing, acting, and speaking in a manner that was pleasing to others, they’d wished they’d been true to themselves. — location: [1648](kindle://book?action=open&asin=B00JOGB1OU&location=1648) ^ref-55334
 
 ---
+### [Books MOC](Books%20MOC.md)
