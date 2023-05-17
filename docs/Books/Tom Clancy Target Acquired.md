@@ -22,4 +22,3 @@ Much like a chameleon, Darien didn’t aspire to invisibility. He just wanted to
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview
