@@ -22,4 +22,3 @@ bloviat-ing — location: [362](kindle://book?action=open&asin=B005P4YED0&locati
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview
