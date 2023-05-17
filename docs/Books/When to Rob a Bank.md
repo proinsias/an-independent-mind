@@ -6,9 +6,9 @@ kindle-sync:
     Rants
   author: Steven D. Levitt and Stephen J. Dubner
   asin: B00FJ331Q8
-  lastAnnotatedDate: '2020-02-07'
+  lastAnnotatedDate: '2023-05-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81kCJyTTfWL._SY160.jpg'
-  highlightsCount: 4
+  highlightsCount: 3
 ---
 # When to Rob a Bank
 ## Metadata
@@ -23,6 +23,9 @@ Dead Split Between Patriots and — location: [1536](kindle://book?action=open&a
 
 ---
 relentlessly unique; — location: [2982](kindle://book?action=open&asin=B00FJ331Q8&location=2982) ^ref-35360
+
+---
+He was relentlessly unique; — location: [2981](kindle://book?action=open&asin=B00FJ331Q8&location=2981) ^ref-32378
 
 ---
 if people often sometimes appear inconsistent, as shown in many “puzzles,” it is often because it is the exam itself that is wrong. — location: [4465](kindle://book?action=open&asin=B00FJ331Q8&location=4465) ^ref-28821

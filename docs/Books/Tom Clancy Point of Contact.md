@@ -4,9 +4,9 @@ kindle-sync:
   title: Tom Clancy Point of Contact (A Jack Ryan Jr. Novel Book 4)
   author: Mike Maden
   asin: B06XVWZX9C
-  lastAnnotatedDate: '2021-06-09'
+  lastAnnotatedDate: '2023-05-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61L1+NBltZL._SY160.jpg'
-  highlightsCount: 3
+  highlightsCount: 2
 ---
 # Tom Clancy Point of Contact
 ## Metadata
@@ -21,6 +21,9 @@ Around his neck he wore a small silver pendant engraved with the Japanese ideogr
 
 ---
 kaizen—continuous improvement. — location: [536](kindle://book?action=open&asin=B06XVWZX9C&location=536) ^ref-53216
+
+---
+Around his neck he wore a small silver pendant engraved with the Japanese ideographs for kaizen—continuous improvement. — location: [535](kindle://book?action=open&asin=B06XVWZX9C&location=535) ^ref-31695
 
 ---
 many of America’s problems could be lessened if not solved if the concept of mutual respect was ever recovered. — location: [552](kindle://book?action=open&asin=B06XVWZX9C&location=552) ^ref-19903

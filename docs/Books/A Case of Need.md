@@ -4,7 +4,7 @@ kindle-sync:
   title: 'A Case of Need: A Novel'
   author: Michael Crichton
   asin: B00DEU9H3Y
-  lastAnnotatedDate: '2022-12-31'
+  lastAnnotatedDate: '2023-05-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81lswdFrodL._SY160.jpg'
   highlightsCount: 3
 ---
@@ -20,6 +20,11 @@ Anthracosis is accumulation of carbon particles in the lung. Once you gulp carbo
 
 ---
 “She’s like ninety percent of the women I see. — location: [2243](kindle://book?action=open&asin=B00DEU9H3Y&location=2243) ^ref-3836
+
+---
+“Karen’s problems were purely psychosomatic,” he said. “She’s like ninety percent of the women I see. — location: [2242](kindle://book?action=open&asin=B00DEU9H3Y&location=2242) ^ref-13944
+
+Wow! Typical dismissive attitude of supposedly hysterical women.
 
 ---
 a courtroom is nothing more than a very civilized war.” — location: [2995](kindle://book?action=open&asin=B00DEU9H3Y&location=2995) ^ref-15891

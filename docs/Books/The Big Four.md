@@ -4,7 +4,7 @@ kindle-sync:
   title: 'The Big Four: A Hercule Poirot Mystery (Hercule Poirot series Book 5)'
   author: Agatha Christie
   asin: B000FC10T8
-  lastAnnotatedDate: '2023-04-06'
+  lastAnnotatedDate: '2023-05-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71S1kFQLK8S._SY160.jpg'
   highlightsCount: 1
 ---
@@ -22,3 +22,7 @@ Ruy Lopez—one — location: [1475](kindle://book?action=open&asin=B000FC10T8&l
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+
+Wilson opened Ruy Lopez—one of the soundest openings there is, and one frequently adopted in tournaments and matches.” — location: [1474](kindle://book?action=open&asin=B000FC10T8&location=1474) ^ref-8631
+
+---
