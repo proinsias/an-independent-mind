@@ -104,5 +104,6 @@ Because by making the choice to leave, you’re insulting the place that raised 
 When you make the effort to speak someone else’s language, even if it’s just basic phrases here and there, you are saying to them, “I understand that you have a culture and identity that exists beyond me. I see you as a human being.” — location: [3136](kindle://book?action=open&asin=B01DHWACVY&location=3136) ^ref-25288
 
 ---
-
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

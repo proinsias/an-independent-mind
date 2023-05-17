@@ -38,4 +38,6 @@ an uncalculated, rather desperate human response to a situation which you entire
 A harassment claim is a weapon, Bob, and there are no good defenses against it. — location: [5961](kindle://book?action=open&asin=B000FC1HPK&location=5961) ^ref-14611
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

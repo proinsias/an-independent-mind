@@ -153,4 +153,6 @@ We can generalize it to a k-nearest neighbor classifier by considering not just 
 we can reduce the multiclass problem to a series of binary decisions. — location: [983](kindle://book?action=open&asin=B00E7NC9D2&location=983) ^ref-14218
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview
