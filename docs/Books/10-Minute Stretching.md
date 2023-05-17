@@ -65,6 +65,3 @@ For better alignment, once you reach your arm straight out, soften and relax you
 You can use a strap to make this stretch more comfortable. Place the strap in the hand you are reaching overhead with and bend your elbow. Reach the opposite hand behind your back to give the strap a pull downward to assist you deeper into the stretch. — location: [676](kindle://book?action=open&asin=B08SB7986X&location=676) ^ref-33816
 
 ---
-
-# Delete this title
-#todo delete this edit
