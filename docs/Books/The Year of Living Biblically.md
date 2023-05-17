@@ -33,4 +33,3 @@ There is something transcendent, beyond the everyday. It’s possible that human
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview
