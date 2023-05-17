@@ -322,3 +322,4 @@ The gravity of entitlement sucks all attention inward, toward ourselves, causing
 The pampering of the modern mind has resulted in a population that feels deserving of something without earning that something, a population that feels they have a right to something without sacrificing for it. — location: [2706](kindle://book?action=open&asin=B019MMUA8S&location=2706) ^ref-52619
 
 ---
+### [Books MOC](Books%20MOC.md)

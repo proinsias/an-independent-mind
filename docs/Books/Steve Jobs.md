@@ -32,3 +32,4 @@ the importance of people who could stand at the intersection of humanities and s
 “He was an enlightened being who was cruel.” — location: [1651](kindle://book?action=open&asin=B004W2UBYW&location=1651) ^ref-8261
 
 ---
+### [Books MOC](Books%20MOC.md)

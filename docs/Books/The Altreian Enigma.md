@@ -22,3 +22,4 @@ All matter is composed of a harmonic chord of frequencies that combine together 
 Some of these wave packets are not completely harmonic and try to dispel the destabilizing frequencies, giving them off as radiation as the packet attempts to achieve a harmonious chord. — location: [263](kindle://book?action=open&asin=B0184ZLSMG&location=263) ^ref-25658
 
 ---
+### [Books MOC](Books%20MOC.md)

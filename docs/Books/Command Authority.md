@@ -20,3 +20,4 @@ kindle-sync:
 You can always find an expert to confirm your belief, no matter how ridiculous.” — location: [2871](kindle://book?action=open&asin=B00EOARZ4G&location=2871) ^ref-12098
 
 ---
+### [Books MOC](Books%20MOC.md)

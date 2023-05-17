@@ -35,3 +35,4 @@ Apocryphal stories have grown up about Douglas Adams’s almost superhuman abili
 the computer industry didn’t even foresee that the century was going to end. — location: [3140](kindle://book?action=open&asin=B07HY7YH7R&location=3140) ^ref-24856
 
 ---
+### [Books MOC](Books%20MOC.md)

@@ -26,3 +26,4 @@ In some private corner of our minds, from the moment we first become conscious o
 Just because the government lies about some things, it doesn’t mean they lie about everything. — location: [6523](kindle://book?action=open&asin=B00EBRU05I&location=6523) ^ref-8645
 
 ---
+### [Books MOC](Books%20MOC.md)

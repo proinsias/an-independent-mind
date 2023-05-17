@@ -29,3 +29,4 @@ A leader could not be ambitious and still serve others. — location: [4377](kin
 The unwritten law of the sea also dictated that a captain remain with his ship until passengers and crew had been safely evacuated. — location: [4865](kindle://book?action=open&asin=B001QL5M96&location=4865) ^ref-12093
 
 ---
+### [Books MOC](Books%20MOC.md)

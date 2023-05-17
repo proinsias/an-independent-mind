@@ -198,3 +198,4 @@ our prior beliefs about the world with the error-fraught evidence from our sense
 if we are certain about the evidence relayed by our senses, we rely on them. But when faced with unreliable sensory data, we fall back on our prior accumulation of beliefs about the world. — location: [4607](kindle://book?action=open&asin=B0050QB3EQ&location=4607) ^ref-56682
 
 ---
+### [Books MOC](Books%20MOC.md)

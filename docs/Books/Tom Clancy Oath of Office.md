@@ -41,3 +41,4 @@ Halfhearted push-ups were better than no push-ups at all. — location: [3640](k
 We must study, read, make informed decisions by weighing things for ourselves before we rush to judgment. — location: [6086](kindle://book?action=open&asin=B07BJM9FW4&location=6086) ^ref-33045
 
 ---
+### [Books MOC](Books%20MOC.md)

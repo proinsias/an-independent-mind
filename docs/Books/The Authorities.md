@@ -59,3 +59,4 @@ It’s like politicians who get out of going to war when they’re young, then s
 It was a testament to what one man could accomplish if he had the will and ambition to pay a bunch of people to accomplish things. — location: [5142](kindle://book?action=open&asin=B015Q9EKA0&location=5142) ^ref-63740
 
 ---
+### [Books MOC](Books%20MOC.md)

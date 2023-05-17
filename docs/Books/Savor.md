@@ -103,3 +103,4 @@ What we believe can significantly affect what we can achieve. — location: [443
 Though you are not solely responsible for your current state, you are the only one who is able to change it. — location: [489](kindle://book?action=open&asin=B00395ZYS6&location=489) ^ref-53676
 
 ---
+### [Books MOC](Books%20MOC.md)

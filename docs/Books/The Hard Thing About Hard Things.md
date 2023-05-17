@@ -266,3 +266,4 @@ it’s important to point out to the executive that when the company doubles in 
 If the company achieves product-market fit in a very large market and has an excellent chance to be number one, then the company will likely remain independent. If not, it will likely be sold. — location: [3848](kindle://book?action=open&asin=B00DQ845EA&location=3848) ^ref-20398
 
 ---
+### [Books MOC](Books%20MOC.md)

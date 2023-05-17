@@ -19,3 +19,4 @@ kindle-sync:
 Do your people really want equality, mutual tolerance? No! Most of them want only their own turn as top dog.” — location: [2725](kindle://book?action=open&asin=B00FO70Y0A&location=2725) ^ref-29352
 
 ---
+### [Books MOC](Books%20MOC.md)

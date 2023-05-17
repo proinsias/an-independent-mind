@@ -23,3 +23,4 @@ Slight defacement of the Town Hall, complete obliteration of me. — location: [
 “Less risky in all probability than one shot would have been. — location: [1183](kindle://book?action=open&asin=B000FC1PF2&location=1183) ^ref-49458
 
 ---
+### [Books MOC](Books%20MOC.md)

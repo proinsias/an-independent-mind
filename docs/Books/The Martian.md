@@ -131,3 +131,4 @@ I didn’t want to distract the people who were saving my life, so I muted my mi
 If a hiker gets lost in the mountains, people will coordinate a search. If a train crashes, people will line up to give blood. If an earthquake levels a city, people all over the world will send emergency supplies. This is so fundamentally human that it’s found in every culture without exception. Yes, there are assholes who just don’t care, but they’re massively outnumbered by the people who do. — location: [5553](kindle://book?action=open&asin=B00EMXBDMA&location=5553) ^ref-45006
 
 ---
+### [Books MOC](Books%20MOC.md)

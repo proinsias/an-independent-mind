@@ -651,3 +651,4 @@ Three separate studies have shown that cancer sufferers receiving palliative car
 It is a myth, and physiological impossibility, incidentally, that hair and nails continue to grow after death. Nothing grows after death. — location: [6314](kindle://book?action=open&asin=B07M82PNSX&location=6314) ^ref-61352
 
 ---
+### [Books MOC](Books%20MOC.md)

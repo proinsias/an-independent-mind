@@ -23,3 +23,4 @@ Human beings would believe even the most outlandish lie as long as it fell close
 Hope was hell, but it was better than the alternative. — location: [5593](kindle://book?action=open&asin=B08WJ5BG3K&location=5593) ^ref-11437
 
 ---
+### [Books MOC](Books%20MOC.md)

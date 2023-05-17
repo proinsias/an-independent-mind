@@ -31,3 +31,4 @@ He knew that no race, no country and no individual could be described as free. B
 On the whole, you know, people tell you the truth. Because it is easier! Because it is less strain on the inventive faculties! You can tell one lie—or two lies—or three lies—or even four lies—but you cannot lie all the time. And so—the truth becomes plain.’ — location: [1389](kindle://book?action=open&asin=B000FC2RS6&location=1389) ^ref-19520
 
 ---
+### [Books MOC](Books%20MOC.md)

@@ -22,3 +22,4 @@ kindle-sync:
 “Good judgment comes from bad experience and bad experience comes from bad judgment.” — location: [178](kindle://book?action=open&asin=B08PQ5M1VL&location=178) ^ref-21952
 
 ---
+### [Books MOC](Books%20MOC.md)

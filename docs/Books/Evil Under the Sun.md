@@ -20,3 +20,4 @@ kindle-sync:
 She was to him like a child who cannot get farther than a certain page in the book of life. — location: [2779](kindle://book?action=open&asin=B000FC1PFW&location=2779) ^ref-64040
 
 ---
+### [Books MOC](Books%20MOC.md)

@@ -200,3 +200,4 @@ The financial returns on political investments are among the highest in the whol
 “Liberty produces wealth, and wealth destroys liberty,” — location: [1288](kindle://book?action=open&asin=B07Y7K7LJW&location=1288) ^ref-22850
 
 ---
+### [Books MOC](Books%20MOC.md)

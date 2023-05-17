@@ -60,3 +60,4 @@ It’s all an exercise in cooperative mediocrity. Everybody participates but nob
 most of the steps we say we take to make death painless for the person dying really just make it more satisfying for the spectators.” — location: [3348](kindle://book?action=open&asin=B0BLZQV6XS&location=3348) ^ref-50111
 
 ---
+### [Books MOC](Books%20MOC.md)

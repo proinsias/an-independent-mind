@@ -35,3 +35,4 @@ To Derrick, this was prudent countersurveillance. To most New Yorkers, it was ju
 The old joke in skydiving was that if something went wrong, you had the rest of your life to fix it. — location: [5011](kindle://book?action=open&asin=B01LYNHS7E&location=5011) ^ref-25134
 
 ---
+### [Books MOC](Books%20MOC.md)

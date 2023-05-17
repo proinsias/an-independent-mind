@@ -68,3 +68,4 @@ He was raised to respect working-class people and to show it by being generous w
 trust is different than honesty, and far easier to come by. A dishonest man will be completely trustworthy so long as he fears the consequences of betrayal.” — location: [2695](kindle://book?action=open&asin=B07YRX7TMB&location=2695) ^ref-36263
 
 ---
+### [Books MOC](Books%20MOC.md)

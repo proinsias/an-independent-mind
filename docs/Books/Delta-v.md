@@ -29,3 +29,4 @@ Is this what success is—gambling with other people’s lives? — location: [4
 The air swirled around them as it vented. It was a hundred pounds less mass to decelerate and its absence would help prevent heat from radiating into the cabin. — location: [6474](kindle://book?action=open&asin=B07FLX8V84&location=6474) ^ref-7824
 
 ---
+### [Books MOC](Books%20MOC.md)

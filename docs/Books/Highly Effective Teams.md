@@ -25,3 +25,4 @@ it depends on the commitment that each individual has to the team. — location:
 This elusive word refers to the increase in ability that happens when different elements work together. — location: [191](kindle://book?action=open&asin=B00B4ZVPQI&location=191) ^ref-17130
 
 ---
+### [Books MOC](Books%20MOC.md)

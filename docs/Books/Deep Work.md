@@ -396,3 +396,4 @@ If you didn’t make a convincing case and sufficiently minimize the effort requ
 It’s safer to comment on our culture than to step into the Rooseveltian ring and attempt to wrestle it into something better. — location: [2919](kindle://book?action=open&asin=B00X47ZVXM&location=2919) ^ref-61309
 
 ---
+### [Books MOC](Books%20MOC.md)

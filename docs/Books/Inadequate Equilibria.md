@@ -65,3 +65,4 @@ because when something like this doesn’t get done, there’s usually a deeper 
 Even if nobody did think of it, that says something about a lack of incentives to be creative. — location: [520](kindle://book?action=open&asin=B076Z64CPG&location=520) ^ref-52229
 
 ---
+### [Books MOC](Books%20MOC.md)

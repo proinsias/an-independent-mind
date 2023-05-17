@@ -19,3 +19,4 @@ kindle-sync:
 History was interesting to the extent that it was catastrophic and, while that might make absorbing viewing, it made horrible living. — location: [816](kindle://book?action=open&asin=B0024NP57Y&location=816) ^ref-35474
 
 ---
+### [Books MOC](Books%20MOC.md)

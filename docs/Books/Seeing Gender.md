@@ -100,3 +100,4 @@ To yield and not break, that is incredible strength.” — location: [1604](kin
 I believe we could paint a better world if we learned how to see it from all perspectives, as many perspectives as we possibly could. Diversity is strength. Difference is a teacher. Fear difference, you learn nothing.” — location: [1625](kindle://book?action=open&asin=B07WXNW2ZX&location=1625) ^ref-18273
 
 ---
+### [Books MOC](Books%20MOC.md)

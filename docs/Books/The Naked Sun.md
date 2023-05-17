@@ -23,3 +23,4 @@ kindle-sync:
 Anything could be found in figures if the search were long enough and hard enough and if the proper pieces of information were ignored or overlooked. — location: [3638](kindle://book?action=open&asin=B004JHYRDQ&location=3638) ^ref-24056
 
 ---
+### [Books MOC](Books%20MOC.md)

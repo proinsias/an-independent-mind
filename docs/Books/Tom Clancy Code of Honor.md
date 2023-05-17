@@ -29,3 +29,4 @@ Truthfully, if Jack wanted happiness at home, it wasn’t his decision, either. 
 “Just happy. I attribute it to CrossFit.” Foley was genuinely surprised. “I didn’t know you did CrossFit.” Bailey kept reading his magazine. “I don’t,” he said without looking up. “That’s why I’m happy.” — location: [4366](kindle://book?action=open&asin=B07PKJRKV7&location=4366) ^ref-25294
 
 ---
+### [Books MOC](Books%20MOC.md)

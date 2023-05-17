@@ -20,3 +20,4 @@ kindle-sync:
 Some theologians referred to jihad as the struggle within the soul or the defending of the faith from critics, or even migrating to non-Muslim lands for the purpose of spreading Islam. You were striving in the way of Allah. — location: [1240](kindle://book?action=open&asin=B004XJIWAE&location=1240) ^ref-28700
 
 ---
+### [Books MOC](Books%20MOC.md)
