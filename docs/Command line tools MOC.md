@@ -1,7 +1,7 @@
 ---
 title: 'Command line tools'
 date: 2023-05-04 09:13
-last_modified_at: 2023-05-16 18:57
+last_modified_at: 2023-05-16 22:25
 tags:
     - command-line-tool
 ---
