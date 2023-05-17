@@ -7,8 +7,6 @@ kindle-sync:
   lastAnnotatedDate: '2018-01-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/712jZ9ZXiiL._SY160.jpg'
   highlightsCount: 1
-date: 2023-05-16 20:00
-last_modified_at: 2023-05-16 20:00
 ---
 ### [Books MOC](Books%20MOC.md)
 
