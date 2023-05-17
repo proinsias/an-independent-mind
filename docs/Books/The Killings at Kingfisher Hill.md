@@ -33,4 +33,3 @@ law against killing our fellow men and women is not there only to protect them, 
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview
