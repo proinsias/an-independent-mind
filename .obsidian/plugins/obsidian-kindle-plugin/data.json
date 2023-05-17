@@ -6,6 +6,5 @@
   "syncOnBoot": true,
   "downloadBookMetadata": true,
   "fileNameTemplate": "{{title}}",
-  "lastSyncDate": "2023-05-17T00:16:28.331Z",
-  "fileTemplate": "---\ntags:\n  - book\ntitle: \"{{title}}\"\nauthor: {{author}}\ntotal_page: {{pages}}\nisbn: {{isbn}}\ndate: {{date}}\nlast_modified_at: {{date}}\n\n---\n\n### [Books MOC](Books%20MOC.md)\n\n# {{title}}\n\n## Highlights\n{{highlights}}"
+  "lastSyncDate": "2023-05-17T00:38:15.322Z"
 }

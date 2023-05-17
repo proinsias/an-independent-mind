@@ -1,4 +1,12 @@
 ---
+tags:
+  - book
+title: Born a Crime
+author: Trevor Noah
+total_page: null
+isbn: 0399590447
+date: null
+last_modified_at: null
 kindle-sync:
   bookId: '33858'
   title: 'Born a Crime: Stories from a South African Childhood'
@@ -8,16 +16,10 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91mePFAgywL._SY160.jpg'
   highlightsCount: 29
 ---
+
 ### [Books MOC](Books%20MOC.md)
 
 # Born a Crime
-
-## Metadata
-* Author: [Trevor Noah](https://www.amazon.comundefined)
-* ASIN: B01DHWACVY
-* ISBN: 0399590447
-* Reference: https://www.amazon.com/dp/B01DHWACVY
-* [Kindle link](kindle://book?action=open&asin=B01DHWACVY)
 
 ## Highlights
 The genius of apartheid was convincing people who were the overwhelming majority to turn on each other. Apart hate, is what it was. You separate people into groups and make them hate one another so you can run them all. — location: [73](kindle://book?action=open&asin=B01DHWACVY&location=73) ^ref-56127

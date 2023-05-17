@@ -10,7 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81yBRa8Z-5L._SY160.jpg'
   highlightsCount: 14
 date: 2023-05-16 20:16
-last_modified_at: 2023-05-16 20:17
+last_modified_at: 2023-05-16 20:34
 ---
 ### [Books MOC](Books%20MOC.md)
 
