@@ -24,4 +24,3 @@ I have nothing bad to say about Earth. Good planet. Friendly. Too bad you people
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview

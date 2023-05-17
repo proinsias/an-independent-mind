@@ -22,6 +22,3 @@ You are sartorially ambitious.” — location: [2945](kindle://book?action=open
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-
-* sartorially: of or relating to a tailor or tailored clothes.
-* 
