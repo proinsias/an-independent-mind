@@ -6,6 +6,8 @@
   "headerUpdated": "last_modified_at",
   "headerCreated": "date",
   "minMinutesBetweenSaves": 1,
-  "ignoreGlobalFolder": [],
+  "ignoreGlobalFolder": [
+    "docs/Books"
+  ],
   "ignoreCreatedFolder": []
 }
