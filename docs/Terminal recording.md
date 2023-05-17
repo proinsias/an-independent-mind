@@ -2,7 +2,7 @@
 tags:
     - todo
 date: 2023-05-10 08:10
-last_modified_at: 2023-05-16 22:25
+last_modified_at: 2023-05-17 10:00
 ---
 
 Description: Terminal record with bare bash shell
