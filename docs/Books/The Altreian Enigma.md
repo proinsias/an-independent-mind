@@ -24,4 +24,3 @@ Some of these wave packets are not completely harmonic and try to dispel the des
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview

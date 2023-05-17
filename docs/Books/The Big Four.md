@@ -22,4 +22,3 @@ Ruy Lopez—one — location: [1475](kindle://book?action=open&asin=B000FC10T8&l
 ---
 ## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
-#toreview
