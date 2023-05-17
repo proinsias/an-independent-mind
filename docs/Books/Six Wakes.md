@@ -19,4 +19,6 @@ kindle-sync:
 Principles are easy to have when you have a place to live and regular meals. — location: [2890](kindle://book?action=open&asin=B01CDDAETS&location=2890) ^ref-28566
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

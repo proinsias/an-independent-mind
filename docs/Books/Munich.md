@@ -20,4 +20,6 @@ kindle-sync:
 The corruption of honest patriotism was one of the many things for which Hartmann would never forgive the Austrian corporal. — location: [2215](kindle://book?action=open&asin=B071DLM6L4&location=2215) ^ref-20195
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

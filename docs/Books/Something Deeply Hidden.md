@@ -236,4 +236,6 @@ effective field theory—one — location: [4549](kindle://book?action=open&asin
 It’s common for quotations to be reattributed to plausible speakers who are more famous than the actual source of the quote. Sociologist Robert Merton has dubbed this the Matthew Effect, after a line from the Gospel of Matthew: “For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.” — location: [5848](kindle://book?action=open&asin=B07NTYJJDX&location=5848) ^ref-16864
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

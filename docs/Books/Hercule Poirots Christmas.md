@@ -22,4 +22,6 @@ kindle-sync:
 If we seek to keep the past alive, we end, I think, by distorting it. We see it in exaggerated terms—a false perspective.” — location: [395](kindle://book?action=open&asin=B000FC124Q&location=395) ^ref-9424
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

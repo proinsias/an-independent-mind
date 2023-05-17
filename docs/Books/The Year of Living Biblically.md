@@ -31,4 +31,6 @@ I now believe that whether or not there’s a God, there is such a thing as sacr
 There is something transcendent, beyond the everyday. It’s possible that humans created this sacredness ourselves, but that doesn’t take away from its power or importance. — location: [5376](kindle://book?action=open&asin=B000SEPAYO&location=5376) ^ref-22680
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

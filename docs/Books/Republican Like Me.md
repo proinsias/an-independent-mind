@@ -268,4 +268,6 @@ We have all convinced ourselves of the inerrancy of our own political views. And
 the vast majority of Americans don’t have tidy views, and in fact participate in a strong cross-party consensus that the issue is complicated, there is truth on both sides, and the right answer is really a balancing of equities. — location: [3507](kindle://book?action=open&asin=B01NC052Y7&location=3507) ^ref-56706
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

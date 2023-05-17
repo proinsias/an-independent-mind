@@ -31,4 +31,6 @@ if people often sometimes appear inconsistent, as shown in many “puzzles,” i
 But it’s the long run you should be thinking about—the big goals, the ones that require a lot of failure along the way. — location: [4643](kindle://book?action=open&asin=B00FJ331Q8&location=4643) ^ref-54401
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

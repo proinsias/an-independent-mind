@@ -20,4 +20,6 @@ kindle-sync:
 Stalin allowed the Germans to butcher sixteen thousand Polish fighters because he didn’t want any Polish national patriots to survive the war.” — location: [2019](kindle://book?action=open&asin=B07JKHDSBN&location=2019) ^ref-24154
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

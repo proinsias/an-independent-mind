@@ -229,4 +229,6 @@ Ironically, about the only fraction binary can store neatly is ½. — location:
 My motto is “never say die.” — location: [4472](kindle://book?action=open&asin=B07R8QSXYB&location=4472) ^ref-49260
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

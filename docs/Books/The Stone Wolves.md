@@ -25,4 +25,6 @@ Aya didn’t mind that people got rich. Money didn’t automatically make someon
 Using that wealth or power to control others, to manipulate others, to force others do things against their will — that was what she hated. — location: [9616](kindle://book?action=open&asin=B09FQGFXK3&location=9616) ^ref-2259
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

@@ -20,4 +20,6 @@ kindle-sync:
 the amount of self-inflicted damage the nation incurred because of poor job performance and those who did not take threats seriously. — location: [5034](kindle://book?action=open&asin=B01CZCW4XG&location=5034) ^ref-63622
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

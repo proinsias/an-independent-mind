@@ -874,4 +874,6 @@ We are born into a pitiless universe, facing steep odds against life-enabling or
 For it requires only the convictions that life is better than death, health is better than sickness, abundance is better than want, freedom is better than coercion, happiness is better than suffering, and knowledge is better than superstition and ignorance. — location: [9204](kindle://book?action=open&asin=B073TJBYTB&location=9204) ^ref-11845
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

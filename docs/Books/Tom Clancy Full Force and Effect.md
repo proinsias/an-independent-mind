@@ -20,4 +20,6 @@ kindle-sync:
 There would be no record of the fact he’d just made one of the most important speeches of his career in his underwear. — location: [6277](kindle://book?action=open&asin=B00M8C76LO&location=6277) ^ref-56953
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

@@ -20,4 +20,6 @@ kindle-sync:
 Much like a chameleon, Darien didn’t aspire to invisibility. He just wanted to look less enticing than other potential prey. — location: [1663](kindle://book?action=open&asin=B08JKL7Z8S&location=1663) ^ref-11664
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

@@ -35,4 +35,6 @@ It ultimately proved that Islam, like any religion, could be corrupted by its ad
 where the funding for breast cancer, which attacked roughly one woman in ten, far outstripped research in prostate cancer, which afflicted roughly half of the male population. — location: [17368](kindle://book?action=open&asin=B001QEAQP8&location=17368) ^ref-30693
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

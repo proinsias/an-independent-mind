@@ -31,4 +31,6 @@ Everyone can do and say precisely what they want, as long as they’re prepared 
 law against killing our fellow men and women is not there only to protect them, but also to protect us from our worst impulses.” — location: [4403](kindle://book?action=open&asin=B07XP8199P&location=4403) ^ref-53265
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

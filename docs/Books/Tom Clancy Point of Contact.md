@@ -26,4 +26,6 @@ kaizen—continuous improvement. — location: [536](kindle://book?action=open&a
 many of America’s problems could be lessened if not solved if the concept of mutual respect was ever recovered. — location: [552](kindle://book?action=open&asin=B06XVWZX9C&location=552) ^ref-19903
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

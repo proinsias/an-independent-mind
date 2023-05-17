@@ -26,4 +26,6 @@ When you grow up, you still hate people, but you can’t take quite so much trou
 she had what is a very natural reaction with a child—the blaming of the parent who remains for the absence of the parent who has gone. — location: [1741](kindle://book?action=open&asin=B000FC2NGC&location=1741) ^ref-24619
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

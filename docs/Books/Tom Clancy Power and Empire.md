@@ -23,4 +23,6 @@ If John Clark threw him in a ditch and pointed a gun at him, Ryan was pretty sur
 euphemism was no laughing matter. They continued — location: [4030](kindle://book?action=open&asin=B06Y55SB4X&location=4030) ^ref-2644
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

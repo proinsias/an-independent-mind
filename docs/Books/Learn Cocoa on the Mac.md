@@ -223,4 +223,6 @@ Action methods always pass along a “sender” object, which is normally the ob
 We’re creating a copy of the result we get from notesView’s string method. The reason for this is that internally, an NSTextView hangs onto a string of its own for editing and display, and its string method actually returns a pointer to that internal string object. If we don’t make a copy we’re going to end up with that string being referenced directly by our villain, which can lead to confusion later on, when we are switching between different villains being displayed by these GUI objects. We’d end up assigning the same string to several villains, and editing any villain’s notes would simultaneously edit all of them! NSTextField doesn’t cause us these sorts of problems, since its stringValue method already gives us a copy instead of passing along its internal string object. — location: [1705](kindle://book?action=open&asin=B001NLL82O&location=1705) ^ref-18392
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

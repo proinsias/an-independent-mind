@@ -20,4 +20,6 @@ kindle-sync:
 He was new and it is a lonely feeling to be at a party where you find yourself watching people standing about in cliques of which you aren’t a part. — location: [735](kindle://book?action=open&asin=B004JHYRAO&location=735) ^ref-26959
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

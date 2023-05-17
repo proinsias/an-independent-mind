@@ -35,4 +35,6 @@ the tougher you are on yourself, the easier life will be on you. — location: [
 Writing down your daily experiences along with the lessons you have drawn from them will make you wiser with each passing day. — location: [185](kindle://book?action=open&asin=B0055DLZII&location=185) ^ref-20775
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview

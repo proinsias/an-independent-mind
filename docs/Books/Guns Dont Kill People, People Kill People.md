@@ -208,4 +208,6 @@ the “cold, dead hands” that should move us are those of the innocent victims
 who risk little in promoting their extreme and dangerous agenda. — location: [3485](kindle://book?action=open&asin=B01BRFKMDQ&location=3485) ^ref-30754
 
 ---
+## Non-Kindle Data
 ### [Books MOC](Books%20MOC.md)
+#toreview
