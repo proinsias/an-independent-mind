@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 17:12
+last_modified_at: 2023-05-18 17:13
 tags:
     - cloud-computing
     - data-science
@@ -34,6 +34,8 @@ Properties of an experiment, trial and trial component:
 -   A Trial component cannot be directly associated with an Experiment. It has to be associated with a Trial which is associated with an Experiment.
 -   A Trial component can be associated with multiple Trials. This is useful to track datasets, parameters and metadata that is common across all Trials in an Experiment.
 
+### Example 1
+
 ```python
 # Define variables for experiment name and rf estimators
 experiment_name = "sm-experiments-sample-sklearn"
@@ -55,6 +57,10 @@ for est in enumerate(estimators):
         )
         # Can also use run.log_parameter(), run.log_artifact(), run.log_run().
 ```
+
+### Example 2
+
+
 
 ### Links
 
