@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 17:22
+last_modified_at: 2023-05-18 18:50
 tags:
     - cloud-computing
     - data-science
@@ -78,11 +78,34 @@ sm = boto3.Session().client('sagemaker')
 exp_names = [exp.experiment_name for exp in smexperiments.experiment.Experiment.list(sagemaker_boto_client=sm)]
 
 for exp in exp_names:
-    cleanup_experiment(smexperiments.experiment.Experiment.load(exp))
+    experiment = smexperiments.experiment.Experiment.load(exp)
+	for trial_summary in experiment.list_trials():
+		try:
+			trial = smexperiments.trial.Trial.load(sagemaker_boto_client=sm, trial_name=trial_summary.trial_name)
+			for trial_component_summary in trial.list_trial_components():
+				tc = smexperiments.trial_component.TrialComponent.load(
+					sagemaker_boto_client=sm,
+					trial_component_name=trial_component_summary.trial_component_name,
+					)
+				try:
+					trial.remove_trial_component(tc)
+					print(f'Deleting trial component: {tc.trial_component_name}')
+					tc.delete()
+				except:
+					time.sleep(0.4)
+					continue
+			print(f'Deleting trial: {trial.trial_name}')
+			trial.delete()
+		except:
+			continue
+	print(f'Deleting experiment: {experiment.experiment_name}')
+	experiment.delete()    
 ```
+
+
 
 ### Links
 
 * [SageMaker Experiments: Organizing and Tracking your ML Training and Experimentation](https://aws.plainenglish.io/sagemaker-experiments-b6016ff2c609).
-* [Sagemaker Experiments examples](https://github.com/shashankprasanna/sagemaker-experiments-examples).
 * [A quick guide to managing machine learning experiments](https://towardsdatascience.com/a-quick-guide-to-managing-machine-learning-experiments-af84da6b060b).
+* [Sagemaker Experiments examples](https://github.com/shashankprasanna/sagemaker-experiments-examples).
