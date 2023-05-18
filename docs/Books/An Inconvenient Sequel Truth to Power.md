@@ -110,4 +110,5 @@ climate task force, — location: [1296](kindle://book?action=open&asin=B01MZASP
 
 ### [Books MOC](Books%20MOC.md)
 
-#toreview #incomplete 
+#toreview past location 1296.
+#incomplete 
