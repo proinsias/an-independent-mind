@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 15:16
+last_modified_at: 2023-05-18 17:12
 tags:
     - cloud-computing
     - data-science
@@ -22,6 +22,17 @@ Here’s a non-exhaustive list of things you may want to keep track of:
 -   **Metrics**: training and evaluation accuracy, loss
 -   **Debug data**: Weights, biases, gradients, losses, optimizer state
 -   **Metadata**: experiment, trial and job names, job parameters (CPU, GPU and instance type), artifact locations (e.g. S3 bucket)
+
+Properties of an experiment, trial and trial component:
+
+-   An Experiment is uniquely characterized by its objective or hypothesis.
+-  An experiment includes a list of variables (called controlled factors) that you vary across a number of trials.
+-   An Experiment usually contains more than one Trial, one Trial for each variable set.
+-   A Trial is uniquely characterized by its variable set, sampled from the variable space defined by you.
+-   A Trial component is any artifact, parameter or job that is associated with a specific Trial.
+-   A Trial component is usually part of a Trial, but it can exist independent of an experiment or trial.
+-   A Trial component cannot be directly associated with an Experiment. It has to be associated with a Trial which is associated with an Experiment.
+-   A Trial component can be associated with multiple Trials. This is useful to track datasets, parameters and metadata that is common across all Trials in an Experiment.
 
 ```python
 # Define variables for experiment name and rf estimators
