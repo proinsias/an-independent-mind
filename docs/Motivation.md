@@ -13,3 +13,9 @@ tags:
 ## Quotes
 
 > Don’t practice until you get it right. Practice until you don’t get it wrong. 
+
+> Integrity means doing the right thing even when it’s not convenient.
+
+> We need to try to do the right thing every time, to perform at our best, because we never know which moment in our lives we’ll be judged on.
+
+
