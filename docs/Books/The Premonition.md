@@ -215,5 +215,3 @@ From the point of view of American culture, the trouble with disease prevention 
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
