@@ -4,6 +4,12 @@
       "pattern": "^#"
     },
     {
+      "pattern": "^https://www.amazon.comundefined"
+    },
+    {
+      "pattern": "^kindle://"
+    },
+    {
       "pattern": "^https://www.linkedin.com"
     },
     {
