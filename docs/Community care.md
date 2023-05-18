@@ -1,16 +1,15 @@
 ---
-title: "Self care"
+title: "Community care"
 date: 2023-05-16 18:33
-last_modified_at: 2023-05-18 11:11
+last_modified_at: 2023-05-18 11:13
 tags:
   - health
-  - self-care
+  - community-care
 ---
 ###[Health MOC](Health%20MOC.md)
 
-# Self care
+# Community care
 
 ## Quotes
 
-> Don't compare your live feed with someone else's highlight reel.
-
+> The first person to benefit from compassion is the one who feels it.
