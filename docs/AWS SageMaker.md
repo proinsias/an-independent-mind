@@ -14,6 +14,15 @@ tags:
 
 ## SageMaker Experiments
 
+Here’s a non-exhaustive list of things you may want to keep track of:
+
+-   **Parameters**: hyperparameters, model architectures, training algorithms
+-   **Jobs**: pre-processing job, training job, post-processing job — these consume other infrastructure resources such as compute, networking and storage
+-   **Artifacts**: training scripts, dependencies, datasets, checkpoints, trained models
+-   **Metrics**: training and evaluation accuracy, loss
+-   **Debug data**: Weights, biases, gradients, losses, optimizer state
+-   **Metadata**: experiment, trial and job names, job parameters (CPU, GPU and instance type), artifact locations (e.g. S3 bucket)
+
 ```python
 # Define variables for experiment name and rf estimators
 experiment_name = "sm-experiments-sample-sklearn"
@@ -39,3 +48,4 @@ for est in enumerate(estimators):
 ### Links
 
 * [SageMaker Experiments: Organizing and Tracking your ML Training and Experimentation](https://aws.plainenglish.io/sagemaker-experiments-b6016ff2c609).
+* [A quick guide to managing machine learning experiments](https://towardsdatascience.com/a-quick-guide-to-managing-machine-learning-experiments-af84da6b060b).
