@@ -1,12 +1,12 @@
 ---
 tags:
-  - book
-  - non-fiction
-  - passion
-  - self-help
-  - todo
-title: "Grit"
-subtitle: "The Power of Passion and Perseverance"
+    - book
+    - non-fiction
+    - passion
+    - self-help
+    - todo
+title: 'Grit'
+subtitle: 'The Power of Passion and Perseverance'
 author: Angela Duckworth
 link: https://www.amazon.com/gp/product/1443442313/
 rating:

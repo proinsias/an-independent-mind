@@ -1,21 +1,20 @@
 ---
-title: "Motivation"
+title: 'Motivation'
 date: 2023-05-16 18:33
-last_modified_at: 2023-05-18 12:41
+last_modified_at: 2023-05-18 12:51
 tags:
-  - health
-  - motivation
+    - health
+    - motivation
 ---
+
 ###[Health MOC](Health%20MOC.md)
 
 # Motivation
 
 ## Quotes
 
-> Don’t practice until you get it right. Practice until you don’t get it wrong. 
+> Don't practice until you get it right. Practice until you don't get it wrong.
 
-> Integrity means doing the right thing even when it’s not convenient.
+> Integrity means doing the right thing even when it's not convenient.
 
-> We need to try to do the right thing every time, to perform at our best, because we never know which moment in our lives we’ll be judged on.
-
-
+> We need to try to do the right thing every time, to perform at our best, because we never know which moment in our lives we'll be judged on.
