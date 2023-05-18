@@ -4,9 +4,9 @@ kindle-sync:
   title: 'A Force for Good: The Dalai Lama''s Vision for Our World'
   author: Daniel Goleman and Dalai Lama
   asin: B00NRQRWRS
-  lastAnnotatedDate: '2023-03-05'
+  lastAnnotatedDate: '2023-05-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81XHY7k4PPL._SY160.jpg'
-  highlightsCount: 131
+  highlightsCount: 126
 ---
 # A Force for Good
 ## Metadata
@@ -20,6 +20,9 @@ kindle-sync:
 transform even the most adverse circumstances into opportunities. — location: [58](kindle://book?action=open&asin=B00NRQRWRS&location=58) ^ref-3954
 
 ---
+One instruction from our tradition that has helped sustain us is to try to transform even the most adverse circumstances into opportunities. — location: [58](kindle://book?action=open&asin=B00NRQRWRS&location=58) ^ref-39801
+
+---
 my well-being depends on others and caring for others’ well-being is a moral responsibility I take seriously. — location: [62](kindle://book?action=open&asin=B00NRQRWRS&location=62) ^ref-41266
 
 ---
@@ -30,6 +33,9 @@ Real change will take place when individuals transform themselves guided — loc
 
 ---
 by the values that lie at the core of all human ethical systems, scientific findings, and common sense. — location: [76](kindle://book?action=open&asin=B00NRQRWRS&location=76) ^ref-21895
+
+---
+Real change will take place when individuals transform themselves guided by the values that lie at the core of all human ethical systems, scientific findings, and common sense. — location: [75](kindle://book?action=open&asin=B00NRQRWRS&location=75) ^ref-46379
 
 ---
 most tragedies are the result of a single deficiency: a lack of compassionate moral responsibility. Our morals should tell us our obligations to others, he says, as opposed to what we want for ourselves. — location: [96](kindle://book?action=open&asin=B00NRQRWRS&location=96) ^ref-57157
@@ -56,6 +62,9 @@ Our course of action will be more — location: [313](kindle://book?action=open&
 compelling if guided by a positive vision, a guiding image of what things could be like one day. Considering what life could be like invites originality, new ideas, innovations. — location: [313](kindle://book?action=open&asin=B00NRQRWRS&location=313) ^ref-41687
 
 ---
+Our course of action will be more compelling if guided by a positive vision, a guiding image of what things could be like one day. Considering what life could be like invites originality, new ideas, innovations. — location: [313](kindle://book?action=open&asin=B00NRQRWRS&location=313) ^ref-17200
+
+---
 consider promising possibilities beyond the dark and dismal media messages we get daily. — location: [318](kindle://book?action=open&asin=B00NRQRWRS&location=318) ^ref-32793
 
 ---
@@ -75,6 +84,9 @@ recognizing the false hope — location: [349](kindle://book?action=open&asin=B0
 
 ---
 for fulfillment through power, money, or fame; the pointlessness of rushing ourselves into a frazzle; and the gift of a life lived with generosity, discernment, and joy. — location: [350](kindle://book?action=open&asin=B00NRQRWRS&location=350) ^ref-9578
+
+---
+recognizing the false hope for fulfillment through power, money, or fame; the pointlessness of rushing ourselves into a frazzle; and the gift of a life lived with generosity, discernment, and joy. — location: [349](kindle://book?action=open&asin=B00NRQRWRS&location=349) ^ref-22923
 
 ---
 Every one of us can be a force for good. — location: [376](kindle://book?action=open&asin=B00NRQRWRS&location=376) ^ref-19166
@@ -107,6 +119,9 @@ While we can’t control when we feel anger or fear—or how strongly—we can g
 do while in their grip. — location: [478](kindle://book?action=open&asin=B00NRQRWRS&location=478) ^ref-62023
 
 ---
+While we can’t control when we feel anger or fear—or how strongly—we can gain some control over what we do while in their grip. — location: [477](kindle://book?action=open&asin=B00NRQRWRS&location=477) ^ref-50026
+
+---
 there may be a bit of legitimacy to our grievances, are the disturbing emotions we feel way out of proportion? — location: [480](kindle://book?action=open&asin=B00NRQRWRS&location=480) ^ref-37514
 
 ---
@@ -128,6 +143,12 @@ Only with a calm mind can you open your heart and use your — location: [610](k
 all of which exaggerate the repulsive sides of someone or something. — location: [618](kindle://book?action=open&asin=B00NRQRWRS&location=618) ^ref-10103
 
 ---
+Only with a calm mind can you open your heart and use your mind well. — location: [610](kindle://book?action=open&asin=B00NRQRWRS&location=610) ^ref-60409
+
+---
+Among the many other flavors in the anger cluster are enmity, hatred, and malice, all of which exaggerate the repulsive sides of someone or something. — location: [617](kindle://book?action=open&asin=B00NRQRWRS&location=617) ^ref-63499
+
+---
 “But to kill other human beings in retribution, no matter what they have done…forecloses the possibility that they may change.” — location: [623](kindle://book?action=open&asin=B00NRQRWRS&location=623) ^ref-56441
 
 ---
@@ -146,6 +167,9 @@ embrace a genuine concern for others, then in our daily lives we would not — l
 only be kinder but would also be freed from reactivity based on cynicism. — location: [697](kindle://book?action=open&asin=B00NRQRWRS&location=697) ^ref-17651
 
 ---
+He reasons that if we were to embrace a genuine concern for others, then in our daily lives we would not only be kinder but would also be freed from reactivity based on cynicism. And our society would be more compassionate toward the powerless and voiceless. — location: [696](kindle://book?action=open&asin=B00NRQRWRS&location=696) ^ref-37391
+
+---
 a deeper awareness of how our emotional world affects the people around us leads to a more compassionate outlook. — location: [699](kindle://book?action=open&asin=B00NRQRWRS&location=699) ^ref-7222
 
 ---
@@ -153,6 +177,9 @@ Their actions show, he observes, that “deep inside” they do not take their o
 
 ---
 varying ideologies and religions—and among those who hold to no faith—by emphasizing values they share. — location: [732](kindle://book?action=open&asin=B00NRQRWRS&location=732) ^ref-1575
+
+---
+The Dalai Lama sees the possibility of finding common agreement among varying ideologies and religions—and among those who hold to no faith—by emphasizing values they share. — location: [732](kindle://book?action=open&asin=B00NRQRWRS&location=732) ^ref-39211
 
 ---
 Genuine happiness and compassion go hand in hand. — location: [736](kindle://book?action=open&asin=B00NRQRWRS&location=736) ^ref-6696
@@ -186,6 +213,9 @@ we all have a moral responsibility to face that pain and work to alleviate it. I
 
 ---
 marshal the positive aspects of anger: a strong focus, extra energy, and determination—all — location: [1258](kindle://book?action=open&asin=B00NRQRWRS&location=1258) ^ref-63047
+
+---
+marshal the positive aspects of anger: a strong focus, extra energy, and determination — location: [1258](kindle://book?action=open&asin=B00NRQRWRS&location=1258) ^ref-59413
 
 ---
 when our anger takes over; then our focus dissolves into obsession, our energy becomes agitation, and we lose all self-control. — location: [1259](kindle://book?action=open&asin=B00NRQRWRS&location=1259) ^ref-6426
@@ -227,10 +257,16 @@ While the name “socialism” may sound good, he adds, if in reality money secr
 of economics that’s the problem,” whether capitalism or socialism, but “a lack of moral principle in the people involved in that system.” — location: [1461](kindle://book?action=open&asin=B00NRQRWRS&location=1461) ^ref-63026
 
 ---
+“It’s not necessarily the system of economics that’s the problem,” whether capitalism or socialism, but “a lack of moral principle in the people involved in that system.” — location: [1461](kindle://book?action=open&asin=B00NRQRWRS&location=1461) ^ref-42500
+
+---
 The compassionate economy the Dalai Lama envisions mixes entrepreneurial spirit with a sound social-support system and taxes on wealth— — location: [1470](kindle://book?action=open&asin=B00NRQRWRS&location=1470) ^ref-34129
 
 ---
 that those with money to invest will always earn more than those who labor for their wages. Capitalism enriches the wealthy far more than it does workers. — location: [1474](kindle://book?action=open&asin=B00NRQRWRS&location=1474) ^ref-23348
+
+---
+That book analyzes data trends over centuries to show that those with money to invest will always earn more than those who labor for their wages. Capitalism enriches the wealthy far more than it does workers. — location: [1474](kindle://book?action=open&asin=B00NRQRWRS&location=1474) ^ref-18567
 
 ---
 the system’s moral core is neither profits nor efficiency. It is creating opportunity for individuals who need it the most.” — location: [1486](kindle://book?action=open&asin=B00NRQRWRS&location=1486) ^ref-44747
@@ -302,6 +338,9 @@ All these unhappy ways of acting are based on the concept — location: [2280](k
 of us-and-them. We think we should just look after ourselves; I should look after me, and not care about anyone else. The worst: We exploit others.” — location: [2280](kindle://book?action=open&asin=B00NRQRWRS&location=2280) ^ref-31303
 
 ---
+All these unhappy ways of acting are based on the concept of us-and-them. We think we should just look after ourselves; I should look after me, and not care about anyone else. The worst: We exploit others.” — location: [2280](kindle://book?action=open&asin=B00NRQRWRS&location=2280) ^ref-48227
+
+---
 If we start by getting our own destructive nature under control, the Dalai Lama insists, we can better follow a path of respecting one another. — location: [2282](kindle://book?action=open&asin=B00NRQRWRS&location=2282) ^ref-7871
 
 ---
@@ -360,6 +399,12 @@ Social and Emotional Learning — location: [2714](kindle://book?action=open&asi
 
 ---
 become as automatic as washing their hands when they get dirty—an emotional hygiene as deeply embedded as the physical one. — location: [2781](kindle://book?action=open&asin=B00NRQRWRS&location=2781) ^ref-32821
+
+---
+Then, as students master the topic, he foresees that their responses to unhealthy states would become as automatic as washing their hands when they get dirty — location: [2781](kindle://book?action=open&asin=B00NRQRWRS&location=2781) ^ref-14260
+
+---
+an emotional hygiene as deeply embedded as the physical one. — location: [2782](kindle://book?action=open&asin=B00NRQRWRS&location=2782) ^ref-13337
 
 ---
 “When they see their parents quarrel, they tell them, ‘Oh, no! This isn’t the right way—you should talk, not fight.’ — location: [2805](kindle://book?action=open&asin=B00NRQRWRS&location=2805) ^ref-4897

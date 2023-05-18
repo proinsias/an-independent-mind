@@ -4,7 +4,7 @@ kindle-sync:
   title: 'Born a Crime: Stories from a South African Childhood'
   author: Trevor Noah
   asin: B01DHWACVY
-  lastAnnotatedDate: '2020-06-08'
+  lastAnnotatedDate: '2023-05-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91mePFAgywL._SY160.jpg'
   highlightsCount: 29
 ---
@@ -26,10 +26,19 @@ It’s a command and a threat, all at once. — location: [174](kindle://book?ac
 Water was if the woman wanted to teach her man a lesson. Oil meant she wanted to end it. — location: [532](kindle://book?action=open&asin=B01DHWACVY&location=532) ^ref-19017
 
 ---
+Sun’qhela is a phrase with many shades of meaning. It says “don’t undermine me,” “don’t underestimate me,” and “just try me.” It’s a command and a threat, all at once. — location: [173](kindle://book?action=open&asin=B01DHWACVY&location=173) ^ref-11536
+
+---
+In Soweto you were always hearing about men getting doused with pots of boiling water—often a woman’s only recourse. And men were lucky if it was water. Some women used hot cooking oil. Water was if the woman wanted to teach her man a lesson. Oil meant she wanted to end it. — location: [531](kindle://book?action=open&asin=B01DHWACVY&location=531) ^ref-15609
+
+---
 In America the dream is to make it out of the ghetto. In Soweto, because there was no leaving the ghetto, the dream was to transform the ghetto. — location: [582](kindle://book?action=open&asin=B01DHWACVY&location=582) ^ref-19151
 
 ---
 made me realize that language, even more than color, defines who you are to people. — location: [799](kindle://book?action=open&asin=B01DHWACVY&location=799) ^ref-39938
+
+---
+They were ready to do me violent harm, until they felt we were part of the same tribe, and then we were cool. That, and so many other smaller incidents in my life, made me realize that language, even more than color, defines who you are to people. — location: [798](kindle://book?action=open&asin=B01DHWACVY&location=798) ^ref-8543
 
 ---
 Racism exists. People are getting hurt, and just because it’s not happening to you doesn’t mean it’s not happening. — location: [814](kindle://book?action=open&asin=B01DHWACVY&location=814) ^ref-2670
@@ -60,6 +69,9 @@ You do not own the thing that you love. — location: [1404](kindle://book?actio
 
 ---
 Clearly they had never heard of the Swiss. — location: [1450](kindle://book?action=open&asin=B01DHWACVY&location=1450) ^ref-52067
+
+---
+The restaurant closed only because a few people in the neighborhood took it upon themselves to complain. They filed petitions, and the government started looking for ways to shut my dad down. At first the inspectors came and tried to get him on cleanliness and health-code violations. Clearly they had never heard of the Swiss. That failed dismally. Then they decided to go after him by imposing additional and arbitrary restrictions. — location: [1448](kindle://book?action=open&asin=B01DHWACVY&location=1448) ^ref-63335
 
 ---
 The whole issue of Santa Claus is a rather contentious one when it comes to African Christmas, a matter of pride. When an African dad buys his kid a present, the last thing he’s going to do is give some fat white man credit for it. — location: [1470](kindle://book?action=open&asin=B01DHWACVY&location=1470) ^ref-7836
@@ -93,6 +105,9 @@ People love to say, “Give a man a fish, and he’ll eat for a day. Teach a man
 
 ---
 Holocaust victims count because Hitler counted them. — location: [2550](kindle://book?action=open&asin=B01DHWACVY&location=2550) ^ref-20219
+
+---
+I often meet people in the West who insist that the Holocaust was the worst atrocity in human history, without question. Yes, it was horrific. But I often wonder, with African atrocities like in the Congo, how horrific were they? The thing Africans don’t have that Jewish people do have is documentation. The Nazis kept meticulous records, took pictures, made films. And that’s really what it comes down to. Holocaust victims count because Hitler counted them. Six million people killed. We can all look at that number and rightly be horrified. But when you read through the history of atrocities against Africans, there are no numbers, only guesses. It’s harder to be horrified by a guess. When Portugal and Belgium were plundering Angola and the Congo, they weren’t counting the black people they slaughtered. How many black people died harvesting rubber in the Congo? In the gold and diamond mines of the Transvaal? So in Europe and America, yes, Hitler is the Greatest Madman in History. In Africa he’s just another strongman from the history books. — location: [2547](kindle://book?action=open&asin=B01DHWACVY&location=2547) ^ref-56040
 
 ---
 The hood made me realize that crime succeeds because crime does the one thing the government doesn’t do: crime cares. Crime is grassroots. Crime looks for the young kids who need support and a lifting hand. Crime offers internship programs and summer jobs and opportunities for advancement. Crime gets involved in the community. Crime doesn’t discriminate. — location: [2722](kindle://book?action=open&asin=B01DHWACVY&location=2722) ^ref-4693
