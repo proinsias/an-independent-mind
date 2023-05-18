@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 17:13
+last_modified_at: 2023-05-18 17:22
 tags:
     - cloud-computing
     - data-science
@@ -34,6 +34,16 @@ Properties of an experiment, trial and trial component:
 -   A Trial component cannot be directly associated with an Experiment. It has to be associated with a Trial which is associated with an Experiment.
 -   A Trial component can be associated with multiple Trials. This is useful to track datasets, parameters and metadata that is common across all Trials in an Experiment.
 
+### Relevant packages
+
+```shell
+pip install \
+	awscli \
+	sagemaker \
+	sagemaker-experiments \
+	smdebug
+```
+
 ### Example 1
 
 ```python
@@ -60,9 +70,19 @@ for est in enumerate(estimators):
 
 ### Example 2
 
+### Cleanup experiments
 
+```python
+sm = boto3.Session().client('sagemaker')
+
+exp_names = [exp.experiment_name for exp in smexperiments.experiment.Experiment.list(sagemaker_boto_client=sm)]
+
+for exp in exp_names:
+    cleanup_experiment(smexperiments.experiment.Experiment.load(exp))
+```
 
 ### Links
 
 * [SageMaker Experiments: Organizing and Tracking your ML Training and Experimentation](https://aws.plainenglish.io/sagemaker-experiments-b6016ff2c609).
+* [Sagemaker Experiments examples](https://github.com/shashankprasanna/sagemaker-experiments-examples).
 * [A quick guide to managing machine learning experiments](https://towardsdatascience.com/a-quick-guide-to-managing-machine-learning-experiments-af84da6b060b).
