@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:19
+last_modified_at: 2023-05-18 21:29
 tags:
     - cloud-computing
     - data-science
@@ -72,8 +72,17 @@ for est in enumerate(estimators):
 
 ```python
 sagemaker_session=sagemaker.session.Session(boto_session=boto_sess)
+bucket_name = sagemaker_session.default_bucket()
 
 datasets = sagemaker_session.upload_data(path='cifar10', key_prefix='datasets/cifar10-dataset')
+
+training_experiment = smexperiments.experiment.Experiment.create(
+    experiment_name = f"cifar10-training-experiment-{int(time.time())}",
+    description = "Hypothesis: Custom model architecture delivers higher validation accuracy for classification compared to ResNet50 and VGG on the CIFAR10 dataset",
+    sagemaker_boto_client=sm,
+)
+
+
 ```
 
 ### Cleanup experiments
