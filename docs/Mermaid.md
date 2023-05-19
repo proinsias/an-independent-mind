@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 13:35
+last_modified_at: 2023-05-19 13:39
 tags:
   - javascript
   - markdown
@@ -37,6 +37,20 @@ flowchart TD
 1[identify needs] --> shopping --> cost-benefit
 ```
 
+### Gantt
+
+```mermaid
+gantt
+  title Chart of worker tasks
+  dateFormat YYYMMDD
+  section Worker 1
+  First Worker1 task: 20221101, 10d
+  Second Worker1 task: 20d
+  section Worker 2
+  First Worker2 task: 20221111, 12d
+  Second Worker2 task: 24d
+```
+
 ### Graph
 
 ```mermaid
@@ -45,6 +59,15 @@ flowchart TD
       A-->C;
       B-->D;
       C-->D;
+```
+
+### Pie chart
+
+```mermaid
+pie title Title here
+"A": 100
+"B": 20
+"C": 50
 ```
 
 ### Sequence Diagram
@@ -67,6 +90,16 @@ sequenceDiagram
 ```mermaid
 flowchart LR
 A[identify needs] ---> B((shopping)) --> C{cost/benefits}
+```
+
+## Relationship types
+
+You can change the thickness of the links and whether there should be arrows. You can also add text to state the nature of the link.
+
+```mermaid
+flowchart LR
+A[identify needs] <---> B((shopping)) === C{cost/benefits}
+C{cost/benefits} -.blah blah.-> A[identify needs]
 ```
 
 ## Miscellaneous
