@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:40
+last_modified_at: 2023-05-18 21:47
 tags:
     - cloud-computing
     - data-science
@@ -112,9 +112,95 @@ with smexperiments.tracker.Tracker.create(
     exp_tracker.log_parameters(hyperparam_options)
     exp_tracker.log_artifact(file_path='generate_cifar10_tfrecords.py')
 
+for trial_hyp in trial_hyperparameter_set:
+    # Combine static hyperparameters and trial specific hyperparameters.
+    hyperparams = {**static_hyperparams, **trial_hyp}
+    
+    # Create unique job name with hyperparameter and time.
+    time_append = int(time.time())
+    hyp_append = "-".join([str(elm) for elm in trial_hyp.values()])
+    job_name = f'cifar10-training-{hyp_append}-{time_append}'
+    
+    # Create a Tracker to track Trial specific hyperparameters.
+    with smexperiments.tracker.Tracker.create(
+        display_name=f"trial-metadata-{time_append}",
+        artifact_bucket=bucket_name,
+        artifact_prefix=f"{training_experiment.experiment_name}/{job_name}",
+        sagemaker_boto_client=sm,
+    ) as trial_tracker:
+        trial_tracker.log_parameters(hyperparams)
 
+    # Create a new Trial and associate Tracker to it.
+    tf_trial = smexperiments.trial.Trial.create(
+        trial_name=f'trial-{hyp_append}-{time_append}', 
+        experiment_name=training_experiment.experiment_name,
+        sagemaker_boto_client=sm,
+    )
+    tf_trial.add_trial_component(exp_tracker.trial_component)
+    time.sleep(2) #To prevent ThrottlingException
+    tf_trial.add_trial_component(trial_tracker.trial_component)
+    
+    # Create an experiment config that associates training job to the Trial.
+    experiment_config = {
+        "ExperimentName": training_experiment.experiment_name,
+        "TrialName": tf_trial.trial_name,
+        "TrialComponentDisplayName": job_name,
+    }
+    
+    metric_definitions = [
+        {'Name': 'loss', 'Regex': 'loss: ([0-9\\.]+)'},
+        {'Name': 'acc', 'Regex': 'acc: ([0-9\\.]+)'},
+        {'Name': 'val_loss', 'Regex': 'val_loss: ([0-9\\.]+)'},
+        {'Name': 'val_acc', 'Regex': 'val_acc: ([0-9\\.]+)'},
+        {'Name': 'test_acc', 'Regex': 'test_acc: ([0-9\\.]+)'},
+        {'Name': 'test_loss', 'Regex': 'test_loss: ([0-9\\.]+)'},
+    ]
+    
+    # Create a TensorFlow Estimator with the Trial specific hyperparameters.
+    tf_estimator = sagemaker.tensorflow.TensorFlow(
+        entry_point='cifar10-training-sagemaker.py', 
+        source_dir='code',
+        output_path=f's3://{bucket_name}/{training_experiment.experiment_name}/',
+        code_location=f's3://{bucket_name}/{training_experiment.experiment_name}',
+        role=role,
+        train_instance_count=1, 
+        train_instance_type ='ml.p3.2xlarge',
+        framework_version='1.15', 
+        py_version='py3',
+        script_mode=True,
+        metric_definitions=metric_definitions,
+        sagemaker_session=sagemaker_session,
+        hyperparameters=hyperparams,
+        enable_sagemaker_metrics=True,
+    )
+    
+    # Launch a training job
+    tf_estimator.fit(
+        {
+            'training': datasets,
+            'validation': datasets,
+            'eval': datasets,
+        },
+        job_name=job_name,
+        wait=False,
+        experiment_config=experiment_config,
+    )
+    
+    time.sleep(3) #To prevent ThrottlingException
 
+experiment_name = training_experiment.experiment_name
 
+trial_component_analytics = sagemaker.analytics.ExperimentAnalytics(
+    sagemaker_session=sagemaker_session, 
+    experiment_name=experiment_name,
+)
+trial_comp_ds = trial_component_analytics.dataframe()
+
+idx_jobs = ~trial_comp_ds['test_acc - Last'].isna()
+trial_comp_ds_jobs = trial_comp_ds_sorted.loc[idx_jobs]
+trial_comp_ds_jobs = trial_comp_ds_jobs.sort_values('test_acc - Last', ascending=False)
+trial_comp_ds_jobs['col_names'] = trial_comp_ds_jobs['model'] + '-' + trial_comp_ds_sorted['optimizer']
+trial_comp_ds_jobs['col_names'] = trial_comp_ds_jobs[['col_names']].applymap(lambda x: x.replace('"', ''))
 
 
 ```
