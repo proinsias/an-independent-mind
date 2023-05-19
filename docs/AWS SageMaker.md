@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-19 11:05
+last_modified_at: 2023-05-19 16:16
 tags:
     - cloud-computing
     - data-science
@@ -12,7 +12,41 @@ tags:
 
 # AWS SageMaker
 
-## SageMaker Experiments
+## Endpoints
+
+### How to invoke the endpoint after deployment?
+
+```python
+sts_client = boto3.client('sts')
+role_arn = "..."
+cfa_endpoint = "..."
+
+assumed_role_object = sts_client.assume_role(
+    RoleArn=role_arn,
+    RoleSessionName='SageMakerInferenceSession'
+)
+
+credentials = assumed_role_object['Credentials']
+
+kwargs = {
+    'aws_access_key_id': credentials['AccessKeyId'],
+    'aws_secret_access_key': credentials['SecretAccessKey'],
+    'aws_session_token': credentials['SessionToken']
+}
+
+runtime = boto3.client(service_name="runtime.sagemaker", **kwargs)
+
+payload = "..."
+response = runtime.invoke_endpoint(
+    EndpointName=cfa_endpoint, ContentType="text/csv", Body=payload
+)
+result = json.loads(response["Body"].read().decode())
+test_pred = np.array([r["predicted_label"] for r in result["predictions"]])
+print(result)
+print(test_pred)
+```
+
+## Experiments
 
 Here’s a non-exhaustive list of things you may want to keep track of:
 
