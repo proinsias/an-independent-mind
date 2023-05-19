@@ -15,6 +15,8 @@ list from [[]] and !outgoing([[]])
 
 ## Miscellaneous
 
+### Writing 
+
 ### Writing math notes in Obsidian using MathJax
 
 $$\int\Psi_j(x)dx = 0$$
