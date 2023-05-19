@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 13:42
+last_modified_at: 2023-05-19 13:50
 tags:
   - javascript
   - markdown
@@ -30,6 +30,75 @@ Lastly, you can show different and multiple relationships between the nodes. You
 
 ## Chart types
 
+### Class
+
+```mermaid
+classDiagram
+
+Animal <|-- Duck
+
+Animal <|-- Fish
+
+Animal <|-- Zebra
+
+Animal : +int age
+
+Animal : +String gender
+
+Animal: +isMammal()
+
+Animal: +mate()
+
+class Duck{
+
++String beakColor
+
++swim()
+
++quack()
+
+}
+
+class Fish{
+
+-int sizeInFeet
+
+-canEat()
+
+}
+
+class Zebra{
+
++bool is_wild
+
++run()
+
+}
+```
+
+### ER
+
+```mermaid
+erDiagram
+
+CUSTOMER }|..|{ DELIVERY-ADDRESS : has
+
+CUSTOMER ||--o{ ORDER : places
+
+CUSTOMER ||--o{ INVOICE : "liable for"
+
+DELIVERY-ADDRESS ||--o{ ORDER : receives
+
+INVOICE ||--|{ ORDER : covers
+
+ORDER ||--|{ ORDER-ITEM : includes
+
+PRODUCT-CATEGORY ||--|{ PRODUCT : contains
+
+PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+```
+
+
 ### Flowchart
 
 ```mermaid
@@ -51,6 +120,32 @@ gantt
   Second Worker2 task: 24d
 ```
 
+### Git
+
+```mermaid
+gitGraph
+
+commit
+
+commit
+
+branch develop
+
+checkout develop
+
+commit
+
+commit
+
+checkout main
+
+merge develop
+
+commit
+
+commit
+```
+
 ### Graph
 
 ```mermaid
@@ -61,7 +156,67 @@ gantt
       C-->D;
 ```
 
-### Pie chart
+### Journey
+
+```mermaid
+journey
+
+title My working day
+
+section Go to work
+
+Make tea: 5: Me
+
+Go upstairs: 3: Me
+
+Do work: 1: Me, Cat
+
+section Go home
+
+Go downstairs: 5: Me
+
+Sit down: 3: Me
+```
+
+### Mindmap
+
+```mermaid
+mindmap
+
+root((mindmap))
+
+Origins
+
+Long history
+
+::icon(fa fa-book)
+
+Popularisation
+
+British popular psychology author Tony Buzan
+
+Research
+
+On effectivness<br/>and features
+
+On Automatic creation
+
+Uses
+
+Creative techniques
+
+Strategic planning
+
+Argument mapping
+
+Tools
+
+Pen and paper
+
+Mermaid
+```
+
+### Pie
 
 ```mermaid
 pie title Title here
@@ -70,7 +225,7 @@ pie title Title here
 "C": 50
 ```
 
-### Sequence Diagram
+### Sequence
 
 ```mermaid
 sequenceDiagram
@@ -83,6 +238,36 @@ sequenceDiagram
     iframe->>dotcom: iframe ready
     dotcom->>iframe: set mermaid data on iframe
     iframe->>iframe: render mermaid
+```
+
+```mermaid
+sequenceDiagram
+
+Alice->>+John: Hello John, how are you?
+
+Alice->>+John: John, can you hear me?
+
+John-->>-Alice: Hi Alice, I can hear you!
+
+John-->>-Alice: I feel great!
+```
+
+### State
+
+```mermaid
+stateDiagram-v2
+
+[*] --> Still
+
+Still --> [*]
+
+Still --> Moving
+
+Moving --> Still
+
+Moving --> Crash
+
+Crash --> [*]
 ```
 
 ## Node types
@@ -114,5 +299,6 @@ A[Christmas] -->|Get money| B(fa:fa-car Go shopping)
 
 ## Links
 
-* [Mermaid Homepage](https://mermaid.js.org/).
-* 
+* [Mermaid homepage](https://mermaid.js.org/).
+* [Mermaid live editor](https://mermaid.live/).
+* [mermaid-cli](https://github.com/mermaid-js/mermaid-cli): Takes a mermaid definition file as input and generates an svg/png/pdf file as output..
