@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 13:39
+last_modified_at: 2023-05-19 13:42
 tags:
   - javascript
   - markdown
@@ -42,7 +42,7 @@ flowchart TD
 ```mermaid
 gantt
   title Chart of worker tasks
-  dateFormat YYYMMDD
+  dateFormat YYYYMMDD
   section Worker 1
   First Worker1 task: 20221101, 10d
   Second Worker1 task: 20d
@@ -89,7 +89,7 @@ sequenceDiagram
 
 ```mermaid
 flowchart LR
-A[identify needs] ---> B((shopping)) --> C{cost/benefits}
+A[identify needs] ---> B((shopping)) --> C{cost/benefits} --> D(rest)
 ```
 
 ## Relationship types
@@ -98,8 +98,16 @@ You can change the thickness of the links and whether there should be arrows. Yo
 
 ```mermaid
 flowchart LR
-A[identify needs] <---> B((shopping)) === C{cost/benefits}
+A[identify needs] <---> |Get money| B((shopping)) === C{cost/benefits}
 C{cost/benefits} -.blah blah.-> A[identify needs]
+```
+
+## Adding icons
+
+```mermaid
+flowchart TD
+
+A[Christmas] -->|Get money| B(fa:fa-car Go shopping)
 ```
 
 ## Miscellaneous
