@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:35
+last_modified_at: 2023-05-19 14:43
 tags:
   - javascript
   - markdown
@@ -97,36 +97,16 @@ You can also include additional _classifiers_ to a field definition by adding 
 
 There are eight different types of relations defined for classes under UML which are currently supported:
 
-| Type      | Description |
-| --------- | ----------- |
-| \<\|\-\-      | Inheritance |
-| \*\-\-       | Composition |
-| o\-\-       | Aggregation |
-| \-\->       | Association |
-| \-\-       |  Link (Solid)|
-| ..>       | Dependency |
-| \*\-\-       | Realization |
-| \*\-\-       | Link (Dashed) |
-
-`-->`
-
-
-
-`--`
-
-
-
-`..>`
-
-
-
-`..|>`
-
-
-
-`..`
-
-
+| Type      | Description  |
+| --------- | ------------ |
+| \<\|\-\-      | Inheritance  |
+| \*\-\-       | Composition  |
+| o\-\-       | Aggregation  |
+| \-\->       | Association  |
+| \-\-        | Link (Solid) |
+| ..>       | Dependency   |
+| ..\|>      | Realization  |
+| ..        | Link (Dashed)|
 
 ### Entity relationship
 
