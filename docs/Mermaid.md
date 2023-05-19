@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:21
+last_modified_at: 2023-05-19 14:24
 tags:
   - javascript
   - markdown
@@ -152,9 +152,9 @@ branch develop
 
 checkout develop
 
-commit
+commit id:"1111"
 
-commit
+commit type: HIGHLIGHT
 
 checkout main
 
@@ -345,6 +345,48 @@ graph TB
    class n1,n2,n3,n4 k8s;
    class zoneA,zoneB cluster;
 ```
+```mermaid
+flowchart TB
+    c1-->a2
+    subgraph ide1 [one]
+    a1-->a2
+    end
+```
+
+```mermaid
+flowchart TB
+    c1-->a2
+    subgraph one
+    a1-->a2
+    end
+    subgraph two
+    b1-->b2
+    end
+    subgraph three
+    c1-->c2
+    end
+    one --> two
+    three --> two
+    two --> c2
+```
+
+```mermaid
+flowchart LR
+  subgraph TOP
+    direction TB
+    subgraph B1
+        direction RL
+        i1 -->f1
+    end
+    subgraph B2
+        direction BT
+        i2 -->f2
+    end
+  end
+  A --> TOP --> B
+  B1 --> B2
+```
+
 ## Node types
 
 ```mermaid
@@ -419,6 +461,17 @@ You can style one or more diagram elements using well-known CSS nomenclature. Yo
 ```
 classDef k8s fill:#326ce5,stroke:#fff,stroke-width:4px,color:#fff; // defines style for the k8s class
 class ingress,service,pod1,pod2 k8s; // k8s class is applied to elements ingress, service, pod1 and pod2.
+```
+
+## Comments
+
+Comments can be entered within a flow diagram, which will be ignored by the parser. Comments need to be on their own line, and must be prefaced with `%%` (double percent signs). Any text after the start of the comment to the next newline will be treated as a comment, including any flow syntax.
+
+```mermaid
+flowchart LR
+%% this is a comment A -- text --> B{node}
+   A -- text --> B -- text2 --> C
+
 ```
 
 ## Miscellaneous
