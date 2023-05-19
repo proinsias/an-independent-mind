@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:10
+last_modified_at: 2023-05-19 14:13
 tags:
   - javascript
   - markdown
@@ -77,7 +77,8 @@ class Zebra{
 
 }
 
-Class07 : equals() Class07 : Object[] elementData
+Class07 : equals()
+Class07 : Object[] elementData
 
 ```
 
@@ -348,7 +349,15 @@ graph TB
 
 ```mermaid
 flowchart LR
-A[identify needs] ---> B((shopping)) --> C{cost/benefits} --> D(rest)
+	A[identify needs] ---> B((shopping)) --> C{cost/benefits} --> D(rest)
+```
+```mermaid
+flowchart LR
+	id1([This is the text in the box]) --> id2[[This is the text in the box]] --> id3[(Database)]
+```
+```mermaid
+flowchart LR
+    id1>Text] --> id2{{Text}} --> id3[/Text/] --> id4[\Text\]
 ```
 
 ## Relationship types
