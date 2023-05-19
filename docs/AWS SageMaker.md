@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:47
+last_modified_at: 2023-05-18 21:50
 tags:
     - cloud-computing
     - data-science
@@ -71,6 +71,7 @@ for est in enumerate(estimators):
 ### Example 2
 
 ```python
+# Create a SageMaker Experiment.
 sagemaker_session=sagemaker.session.Session(boto_session=boto_sess)
 bucket_name = sagemaker_session.default_bucket()
 
@@ -82,12 +83,8 @@ training_experiment = smexperiments.experiment.Experiment.create(
     sagemaker_boto_client=sm,
 )
 
-static_hyperparams = {
-    'batch-size': 128,
-    'learning-rate': 0.001,
-    'weight-decay' : 1e-6,
-    'momentum'     : 0.9,
-}
+# Model architecture is our first variable or controlled factor.
+# We also want to study the effect of other hyperparameters on the response.
 
 hyperparam_options = {
     'model': ['resnet', 'custom'],
@@ -101,6 +98,18 @@ trial_hyperparameter_set = [
 	for h in itertools.product(*hypvalues)
 ]
 
+static_hyperparams = {
+    'batch-size': 128,
+    'learning-rate': 0.001,
+    'weight-decay' : 1e-6,
+    'momentum'     : 0.9,
+}
+
+# Create an 'experiment-metadata' Tracker.
+# This tracker is a Trial component that is not currently associated with an experiment.
+# Recall that a Trial Component cannot be associated with an Experiment directly. It must be associated with a Trial first.
+# In the next section, we’ll associate this common Trial Component with all the Trials in the Experiment.
+
 with smexperiments.tracker.Tracker.create(
     display_name="experiment-metadata", 
     artifact_bucket=bucket_name,
@@ -111,6 +120,8 @@ with smexperiments.tracker.Tracker.create(
     exp_tracker.log_parameters(static_hyperparams)
     exp_tracker.log_parameters(hyperparam_options)
     exp_tracker.log_artifact(file_path='generate_cifar10_tfrecords.py')
+
+# Here we loop through the variable sets and create a Trial and a training job for each set.
 
 for trial_hyp in trial_hyperparameter_set:
     # Combine static hyperparameters and trial specific hyperparameters.
@@ -202,7 +213,41 @@ trial_comp_ds_jobs = trial_comp_ds_jobs.sort_values('test_acc - Last', ascending
 trial_comp_ds_jobs['col_names'] = trial_comp_ds_jobs['model'] + '-' + trial_comp_ds_sorted['optimizer']
 trial_comp_ds_jobs['col_names'] = trial_comp_ds_jobs[['col_names']].applymap(lambda x: x.replace('"', ''))
 
+fig = plt.figure()
+fig.set_size_inches([15, 10])
+trial_comp_ds_jobs.plot.bar('col_names', 'test_acc - Last',ax=plt.gca())
+trial_comp_ds_jobs[['TrialComponentName', 'test_acc - Last', 'model', 'batch-size', 'epochs', 'learning-rate', 'optimizer']]
 
+def tensor_df(tname):
+    tval = trial.tensor(tname).values()
+    df   = pd.DataFrame.from_dict(tval,orient='index',columns=[tname])
+    df_tval = df.reset_index().rename(columns={'index':'steps'})
+    return df_tval
+
+def trial_perf_curves(job_name, tname, experiment_name):
+    debug_data = f's3://{bucket_name}/{experiment_name}/{job_name}/debug-output'
+    trial = smdebug.trials.create_trial(debug_data)
+    tval = trial.tensor(tname).values()
+    df   = pd.DataFrame.from_dict(tval,orient='index',columns=[tname])
+    return df
+
+def get_metric_dataframe(metric, trial_comp_ds, experiment_name):
+    df = pd.DataFrame()
+    for tc_name in trial_comp_ds['DisplayName']:
+        print(f'\nLoading training job: {tc_name}')
+        print(f'--------------------------------\n')
+        trial_perf = trial_perf_curves(tc_name, metric, experiment_name)
+        trial_perf.columns = [tc_name]
+        df = pd.concat([df, trial_perf],axis=1)
+    return df
+
+val_acc_df = get_metric_dataframe('val_acc', trial_comp_ds_jobs, experiment_name)
+
+fig = plt.figure()
+fig.set_size_inches([15, 10])
+
+# Replace the Trial names with the ones you want to plot, or remove indexing to plot all jobs
+val_acc_df[['cifar10-training-adam-custom-120-1594536575','cifar10-training-adam-custom-60-1594536571','cifar10-training-rmsprop-custom-30-1594536622']].plot(style='-',ax=plt.gca())
 ```
 
 ### Cleanup experiments
