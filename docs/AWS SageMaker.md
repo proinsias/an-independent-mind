@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:29
+last_modified_at: 2023-05-18 21:36
 tags:
     - cloud-computing
     - data-science
@@ -81,6 +81,31 @@ training_experiment = smexperiments.experiment.Experiment.create(
     description = "Hypothesis: Custom model architecture delivers higher validation accuracy for classification compared to ResNet50 and VGG on the CIFAR10 dataset",
     sagemaker_boto_client=sm,
 )
+
+static_hyperparams = {
+    'batch-size': 128,
+    'learning-rate': 0.001,
+    'weight-decay' : 1e-6,
+    'momentum'     : 0.9,
+}
+
+hyperparam_options = {
+    'model': ['resnet', 'custom'],
+    'optimizer': ['adam', 'sgd', 'rmsprop'],
+    'epochs': [30, 60, 120],
+}
+
+hypnames, hypvalues = zip(*hyperparam_options.items())
+trial_hyperparameter_set = [
+	dict(zip(hypnames, h))
+	for h in itertools.product(*hypvalues)
+]
+
+
+
+
+
+
 
 
 ```
