@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:50
+last_modified_at: 2023-05-18 21:56
 tags:
     - cloud-computing
     - data-science
@@ -185,7 +185,7 @@ for trial_hyp in trial_hyperparameter_set:
         enable_sagemaker_metrics=True,
     )
     
-    # Launch a training job
+    # Launch a training job.
     tf_estimator.fit(
         {
             'training': datasets,
@@ -198,6 +198,12 @@ for trial_hyp in trial_hyperparameter_set:
     )
     
     time.sleep(3) #To prevent ThrottlingException
+
+```
+
+### Analyzing Experiment results
+
+```python
 
 experiment_name = training_experiment.experiment_name
 
@@ -217,7 +223,11 @@ fig = plt.figure()
 fig.set_size_inches([15, 10])
 trial_comp_ds_jobs.plot.bar('col_names', 'test_acc - Last',ax=plt.gca())
 trial_comp_ds_jobs[['TrialComponentName', 'test_acc - Last', 'model', 'batch-size', 'epochs', 'learning-rate', 'optimizer']]
+```
 
+### Using SageMaker Debugger to visualize performance curves
+
+```python
 def tensor_df(tname):
     tval = trial.tensor(tname).values()
     df   = pd.DataFrame.from_dict(tval,orient='index',columns=[tname])
