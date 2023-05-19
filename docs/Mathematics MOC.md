@@ -1,7 +1,7 @@
 ---
 title: "Mathematics MOC"
 date: 2023-05-19 11:42
-last_modified_at: 2023-05-19 11:45
+last_modified_at: 2023-05-19 11:49
 tags:
   - math
 ---
@@ -14,8 +14,6 @@ list from [[]] and !outgoing([[]])
 ```
 
 ## Miscellaneous
-
-### Writing 
 
 ### Writing math notes in Obsidian using MathJax
 
