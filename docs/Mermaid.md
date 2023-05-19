@@ -95,6 +95,39 @@ You can also include additional _classifiers_ to a method definition by adding
 You can also include additional _classifiers_ to a field definition by adding the following notation to the end of its name:
 -   `$` Static e.g.: `String someField$`
 
+There are eight different types of relations defined for classes under UML which are currently supported:
+
+| Type      | Description |
+| --------- | ----------- |
+| \<\|\-\-      | Inheritance |
+| \*\-\-       | Composition |
+| o\-\-       | Aggregation |
+| \-\->       | Association |
+| \-\-       |  Link (Solid)|
+| ..>       | Dependency |
+| \*\-\-       | Realization |
+| \*\-\-       | Link (Dashed) |
+
+`-->`
+
+
+
+`--`
+
+
+
+`..>`
+
+
+
+`..|>`
+
+
+
+`..`
+
+
+
 ### Entity relationship
 
 ```mermaid
