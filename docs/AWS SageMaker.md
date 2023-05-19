@@ -226,6 +226,8 @@ trial_comp_ds_jobs[['TrialComponentName', 'test_acc - Last', 'model', 'batch-siz
 
 ### Using SageMaker Debugger to visualize performance curves
 
+SageMaker Debugger automatically captures some default debug information from every training job, and you can also customize what data should be emitted for later analysis.
+
 ```python
 def tensor_df(tname):
     tval = trial.tensor(tname).values()
