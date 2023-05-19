@@ -307,5 +307,3 @@ My motto is "never say die." — location: [4472](kindle://book?action=open&asin
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
