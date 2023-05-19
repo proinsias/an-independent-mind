@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:06
+last_modified_at: 2023-05-19 14:10
 tags:
   - javascript
   - markdown
@@ -35,11 +35,13 @@ Lastly, you can show different and multiple relationships between the nodes. You
 ```mermaid
 classDiagram
 
-Animal <|-- Duck
+Animal <|-- Duck : Cool
 
-Animal <|-- Fish
+Animal *-- Fish
 
-Animal <|-- Zebra
+Animal o-- Zebra
+
+Class07 .. Class08
 
 Animal : +int age
 
@@ -74,9 +76,12 @@ class Zebra{
 +run()
 
 }
+
+Class07 : equals() Class07 : Object[] elementData
+
 ```
 
-### ER
+### Entity relationship
 
 ```mermaid
 erDiagram
@@ -118,6 +123,19 @@ gantt
   section Worker 2
   First Worker2 task: 20221111, 12d
   Second Worker2 task: 24d
+```
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Adding GANTT diagram to mermaid
+excludes weekdays 2014-01-10
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2               :         des4, after des3, 5d
 ```
 
 ### Git
@@ -371,8 +389,6 @@ You can style one or more diagram elements using well-known CSS nomenclature. Yo
 classDef k8s fill:#326ce5,stroke:#fff,stroke-width:4px,color:#fff; // defines style for the k8s class
 class ingress,service,pod1,pod2 k8s; // k8s class is applied to elements ingress, service, pod1 and pod2.
 ```
-
-## How to use captions
 
 ## Miscellaneous
 
