@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 13:50
+last_modified_at: 2023-05-19 13:52
 tags:
   - javascript
   - markdown
@@ -301,4 +301,6 @@ A[Christmas] -->|Get money| B(fa:fa-car Go shopping)
 
 * [Mermaid homepage](https://mermaid.js.org/).
 * [Mermaid live editor](https://mermaid.live/).
-* [mermaid-cli](https://github.com/mermaid-js/mermaid-cli): Takes a mermaid definition file as input and generates an svg/png/pdf file as output..
+* [mermaid-cli](https://github.com/mermaid-js/mermaid-cli): Takes a mermaid definition file as input and generates an svg/png/pdf file as output.
+* [Mermaid Ink](https://mermaid.ink/): Convert mermaid live output to image via the web.
+* 
