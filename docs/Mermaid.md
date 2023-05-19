@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:13
+last_modified_at: 2023-05-19 14:21
 tags:
   - javascript
   - markdown
@@ -360,6 +360,11 @@ flowchart LR
     id1>Text] --> id2{{Text}} --> id3[/Text/] --> id4[\Text\]
 ```
 
+```mermaid
+flowchart LR
+	id5[/Text\] --> id6[\Text/] --> id7(((Text)))
+```
+
 ## Relationship types
 
 You can change the thickness of the links and whether there should be arrows. You can also add text to state the nature of the link.
@@ -378,6 +383,23 @@ graph LR;
 	D--> A & E;
 	E--> B & C & D;
 ```
+
+```mermaid
+flowchart LR
+    A ~~~ B  # Invisible link.
+```
+
+```mermaid
+flowchart LR
+   a --> b & c--> d
+```
+
+```mermaid
+flowchart TB
+    A & B--> C & D
+```
+
+Each node in the flowchart is ultimately assigned to a rank in the rendered graph, i.e. to a vertical or horizontal level (depending on the flowchart orientation), based on the nodes to which it is linked. By default, links can span any number of ranks, but you can ask for any link to be longer than the others by adding extra dashes in the link definition.
 
 ## Adding icons
 
