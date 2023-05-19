@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:00
+last_modified_at: 2023-05-19 14:06
 tags:
   - javascript
   - markdown
@@ -265,6 +265,30 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
+```mermaid
+%%{init:{"theme":"neutral"}}%%
+sequenceDiagram
+    actor me
+    participant apiSrv as control plane<br><br>api-server
+    participant etcd as control plane<br><br>etcd datastore
+    participant cntrlMgr as control plane<br><br>controller<br>manager
+    participant sched as control plane<br><br>scheduler
+    participant kubelet as node<br><br>kubelet
+    participant container as node<br><br>container<br>runtime
+    me->>apiSrv: 1. kubectl create -f pod.yaml
+    apiSrv-->>etcd: 2. save new state
+    cntrlMgr->>apiSrv: 3. check for changes
+    sched->>apiSrv: 4. watch for unassigned pods(s)
+    apiSrv->>sched: 5. notify about pod w nodename=" "
+    sched->>apiSrv: 6. assign pod to node
+    apiSrv-->>etcd: 7. save new state
+    kubelet->>apiSrv: 8. look for newly assigned pod(s)
+    apiSrv->>kubelet: 9. bind pod to node
+    kubelet->>container: 10. start container
+    kubelet->>apiSrv: 11. update pod status
+    apiSrv-->>etcd: 12. save new state
+```
+
 ### State
 
 ```mermaid
@@ -335,6 +359,20 @@ flowchart TD
 
 A[Christmas] -->|Get money| B(fa:fa-car Go shopping)
 ```
+
+## How to style diagrams
+
+You can style one or more diagram elements using well-known CSS nomenclature. You accomplish this using two types of statements in the Mermaid code:
+
+* `classDef` defines a class of style attributes.
+* `class` defines one or more elements to apply the class to.
+
+```
+classDef k8s fill:#326ce5,stroke:#fff,stroke-width:4px,color:#fff; // defines style for the k8s class
+class ingress,service,pod1,pod2 k8s; // k8s class is applied to elements ingress, service, pod1 and pod2.
+```
+
+## How to use captions
 
 ## Miscellaneous
 
