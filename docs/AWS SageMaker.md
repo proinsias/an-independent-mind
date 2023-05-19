@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:36
+last_modified_at: 2023-05-18 21:40
 tags:
     - cloud-computing
     - data-science
@@ -101,7 +101,16 @@ trial_hyperparameter_set = [
 	for h in itertools.product(*hypvalues)
 ]
 
-
+with smexperiments.tracker.Tracker.create(
+    display_name="experiment-metadata", 
+    artifact_bucket=bucket_name,
+    artifact_prefix=training_experiment.experiment_name,
+    sagemaker_boto_client=sm,
+) as exp_tracker:
+    exp_tracker.log_input(name="cifar10-dataset", media_type="s3/uri", value=datasets)
+    exp_tracker.log_parameters(static_hyperparams)
+    exp_tracker.log_parameters(hyperparam_options)
+    exp_tracker.log_artifact(file_path='generate_cifar10_tfrecords.py')
 
 
 
