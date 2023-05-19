@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:29
+last_modified_at: 2023-05-19 14:35
 tags:
   - javascript
   - markdown
@@ -34,53 +34,66 @@ Lastly, you can show different and multiple relationships between the nodes. You
 
 ```mermaid
 classDiagram
+	Animal <|-- Duck : Cool
+	
+	Animal *-- Fish
+	
+	Animal o-- Zebra
+	
+	Class07 .. Class08
+	
+	Animal : +int age
+	
+	Animal : +String gender
+	
+	Animal: +isMammal()
+	
+	Animal: +mate()
+	
+	class Duck{
+	
+	+String beakColor
+	
+	+swim()
+	
+	+quack()
+	
+	}
+	
+	class Fish{
+	
+	-int sizeInFeet
+	
+	-canEat()
+	
+	}
+	
+	class Zebra{
+	
+	+bool is_wild
+	
+	+run()
+	
+	}
 
-Animal <|-- Duck : Cool
-
-Animal *-- Fish
-
-Animal o-- Zebra
-
-Class07 .. Class08
-
-Animal : +int age
-
-Animal : +String gender
-
-Animal: +isMammal()
-
-Animal: +mate()
-
-class Duck{
-
-+String beakColor
-
-+swim()
-
-+quack()
-
-}
-
-class Fish{
-
--int sizeInFeet
-
--canEat()
-
-}
-
-class Zebra{
-
-+bool is_wild
-
-+run()
-
-}
-
-Class07 : equals()
-Class07 : Object[] elementData
+	Class07 : equals()
+	Class07 : Object[] elementData
 
 ```
+
+To describe the visibility (or encapsulation) of an attribute or method/function that is a part of a class (i.e. a class member), optional notation may be placed before that members' name:
+
+-   `+` Public
+-   `-` Private
+-   `#` Protected
+-   `~` Package/Internal
+
+You can also include additional _classifiers_ to a method definition by adding the following notation to the _end_ of the method, i.e.: after the `()`:
+-   `*` Abstract e.g.: `someAbstractMethod()*`
+-   `$` Static e.g.: `someStaticMethod()$`
+
+You can also include additional _classifiers_ to a field definition by adding the following notation to the end of its name:
+-   `$` Static e.g.: `String someField$`
 
 ### Entity relationship
 
@@ -190,6 +203,16 @@ gantt
         banana :crit, b, 2017-07-23, 1d
         cherry :active, c, after b a, 1d
 
+```
+
+```mermaid
+gantt
+dateFormat HH:mm
+axisFormat %H:%M
+Initial milestone : milestone, m1, 17:49,2min
+taska2 : 10min
+taska3 : 5min
+Final milestone : milestone, m2, 18:14, 2min
 ```
 
 ### Git
