@@ -1,7 +1,7 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 13:52
+last_modified_at: 2023-05-19 14:00
 tags:
   - javascript
   - markdown
@@ -251,6 +251,19 @@ John-->>-Alice: Hi Alice, I can hear you!
 
 John-->>-Alice: I feel great!
 ```
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail...
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
 
 ### State
 
@@ -270,6 +283,25 @@ Moving --> Crash
 Crash --> [*]
 ```
 
+### Subgraph
+
+```mermaid
+graph TB
+   subgraph "zoneB"
+       n3(Node3)
+       n4(Node4)
+   end
+   subgraph "zoneA"
+       n1(Node1)
+       n2(Node2)
+   end
+ 
+   classDef plain fill:#ddd,stroke:#fff,stroke-width:4px,color:#000;
+   classDef k8s fill:#326ce5,stroke:#fff,stroke-width:4px,color:#fff;
+   classDef cluster fill:#fff,stroke:#bbb,stroke-width:2px,color:#326ce5;
+   class n1,n2,n3,n4 k8s;
+   class zoneA,zoneB cluster;
+```
 ## Node types
 
 ```mermaid
@@ -285,6 +317,15 @@ You can change the thickness of the links and whether there should be arrows. Yo
 flowchart LR
 A[identify needs] <---> |Get money| B((shopping)) === C{cost/benefits}
 C{cost/benefits} -.blah blah.-> A[identify needs]
+```
+
+```mermaid
+graph LR;
+	A--> B & C & D;
+	B--> A & E;
+	C--> A & E;
+	D--> A & E;
+	E--> B & C & D;
 ```
 
 ## Adding icons
