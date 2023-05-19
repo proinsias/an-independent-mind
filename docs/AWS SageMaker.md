@@ -70,6 +70,12 @@ for est in enumerate(estimators):
 
 ### Example 2
 
+```python
+sagemaker_session=sagemaker.session.Session(boto_session=boto_sess)
+
+datasets = sagemaker_session.upload_data(path='cifar10', key_prefix='datasets/cifar10-dataset')
+```
+
 ### Cleanup experiments
 
 ```python
