@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 21:58
+last_modified_at: 2023-05-19 11:05
 tags:
     - cloud-computing
     - data-science
@@ -204,7 +204,6 @@ for trial_hyp in trial_hyperparameter_set:
 ### Analyzing Experiment results
 
 ```python
-
 experiment_name = training_experiment.experiment_name
 
 trial_component_analytics = sagemaker.analytics.ExperimentAnalytics(
