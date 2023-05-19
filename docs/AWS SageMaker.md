@@ -1,7 +1,7 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-18 18:50
+last_modified_at: 2023-05-18 21:19
 tags:
     - cloud-computing
     - data-science
@@ -102,7 +102,29 @@ for exp in exp_names:
 	experiment.delete()    
 ```
 
+### Cleanup unassigned trial components
 
+```python
+for tc in smexperiments.trial_component.TrialComponent.list(sagemaker_boto_client=sm):
+    try:
+        sm.delete_trial_component(TrialComponentName=tc.trial_component_name)
+        print(f'Deleted: {tc.trial_component_name}')
+        time.sleep(0.4)
+    except:
+        continue
+```
+
+### Cleanup all endpoints
+
+```python
+for en in sm.list_endpoints()['Endpoints']:
+    try:
+        print(en['EndpointName'])
+        sm.delete_endpoint(EndpointName=en['EndpointName'])
+        time.sleep(0.4)
+    except:
+        continue
+```
 
 ### Links
 
