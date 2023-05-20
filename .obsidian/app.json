@@ -8,5 +8,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments"
 }
