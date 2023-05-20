@@ -27,8 +27,6 @@ by [[Daniel Markovits]]
 
 <!-- No more than a couple paragraphs summarizing this BOOK -->
 
-{{description}}
-
 ## Table of Contents
 
 ## <!--Link to table of contents (TOC) -->

@@ -1,7 +1,7 @@
 ---
 title: 'Self care'
 date: 2023-05-16 18:33
-last_modified_at: 2023-05-19 22:36
+last_modified_at: 2023-05-19 22:39
 tags:
     - health
     - self-care
@@ -17,3 +17,4 @@ tags:
 
 > Less reflective, more reflective.
 
+From [The Marshmallow Test](The%20Marshmallow%20Test.md).

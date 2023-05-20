@@ -1,7 +1,8 @@
 ---
 tags:
   - book
-  - Psychology
+  - non-fiction
+  - psychology
 title: "The Marshmallow Test"
 subtitle: Mastering Self-Control
 author: Walter Mischel
@@ -38,8 +39,6 @@ by [[Walter Mischel]]
 
 <!--The Book in 3 Sentences. No more than a couple paragraphs summarizing this BOOK -->
 
-Renowned psychologist Walter Mischel, designer of the famous Marshmallow Test, explains what self-control is and how to master it. A child is presented with a marshmallow and given a choice: Eat this one now, or wait and enjoy two later. What will she do? And what are the implications for her behavior later in life? The world's leading expert on self-control, Walter Mischel has proven that the ability to delay gratification is critical for a successful life, predicting higher SAT scores, better social and cognitive functioning, a healthier lifestyle and a greater sense of self-worth. But is willpower prewired, or can it be taught? In The Marshmallow Test, Mischel explains how self-control can be mastered and applied to challenges in everyday life--from weight control to quitting smoking, overcoming heartbreak, making major decisions, and planning for retirement. With profound implications for the choices we make in parenting, education, public policy and self-care, The Marshmallow Test will change the way you think about who we are and what we can be.
-
 ## Table of Contents
 
 ## <!--Link to table of contents (TOC) -->
@@ -50,7 +49,7 @@ Renowned psychologist Walter Mischel, designer of the famous Marshmallow Test, e
 
 ## Quotes
 
-## <!-- Notable quotes with reference to their page or location -->
+> Less reflective, more reflective.
 
 ---
 
