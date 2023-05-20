@@ -4,7 +4,7 @@ tags:
   - inequality
   - non-fiction
   - politics
-  - todo
+  - toreview
 title: "The Meritocracy Trap"
 subtitle: "How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite"
 author: Daniel Markovits
