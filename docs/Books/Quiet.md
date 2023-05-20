@@ -532,5 +532,3 @@ one new honest-to-goodness relationship is worth ten fistfuls of business cards.
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
