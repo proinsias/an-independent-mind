@@ -176,5 +176,3 @@ If a hiker gets lost in the mountains, people will coordinate a search. If a tra
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview

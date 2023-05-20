@@ -80,5 +80,3 @@ It was a testament to what one man could accomplish if he had the will and ambit
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
