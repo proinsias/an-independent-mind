@@ -320,5 +320,3 @@ to change health care to make it more honest, more equitable, more transparent, 
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
