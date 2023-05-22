@@ -358,5 +358,3 @@ the vast majority of Americans don't have tidy views, and in fact participate in
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
