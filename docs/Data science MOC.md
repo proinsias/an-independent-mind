@@ -1,7 +1,7 @@
 ---
 title: 'Data science MOC'
 date: 2023-05-06 00:27
-last_modified_at: 2023-05-17 10:00
+last_modified_at: 2023-05-22 15:11
 tags:
     - data-science
 ---
@@ -13,6 +13,11 @@ list
 from [[]] and !outgoing([[]])
 where file.name != "README"
 ```
+
+## Command line tools
+#command-line-tool 
+
+* [dstack](https://dstack.ai/) makes it very easy for ML engineers to run dev environments, pipelines and apps cost-effectively on any cloud.
 
 ## Quotes
 
