@@ -19,3 +19,6 @@ where file.name != "README"
 > In the cultures of some companies, management depends heavily on the innate goodness and professionalism of its employees to constantly compensate for systemic deficiencies, chronic understaffing, and substandard subcontractors.
 
 From [Sully](Sully.md).
+
+> Managers should show the way, clear the way, lead the way.
+
