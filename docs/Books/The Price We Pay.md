@@ -1,12 +1,14 @@
 ---
 kindle-sync:
   bookId: '19014'
-  title: 'The Price We Pay: What Broke American Health Care--and How to Fix It'
+  title: 'The Price We Pay
   author: Marty  Makary  MD
   asin: B07MXPJ33B
   lastAnnotatedDate: '2023-05-22'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71RiMWB3TRS._SY160.jpg'
   highlightsCount: 71
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # The Price We Pay

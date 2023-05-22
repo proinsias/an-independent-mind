@@ -1,12 +1,14 @@
 ---
 kindle-sync:
   bookId: '58779'
-  title: 'Seeing Gender: An Illustrated Guide to Identity and Expression'
+  title: 'Seeing Gender
   author: Iris Gottlieb and Meredith Talusan
   asin: B07WXNW2ZX
   lastAnnotatedDate: '2023-05-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81NY-Q4lH2L._SY160.jpg'
   highlightsCount: 28
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Seeing Gender

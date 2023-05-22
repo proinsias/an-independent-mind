@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '57925'
-    title: 'The System: Who Rigged It, How We Fix It'
+    title: 'The System
     author: Robert B. Reich
     asin: B07Y7K7LJW
     lastAnnotatedDate: '2022-07-04'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81PoORP+BaL._SY160.jpg'
     highlightsCount: 61
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # The System

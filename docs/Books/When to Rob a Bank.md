@@ -9,6 +9,8 @@ kindle-sync:
     lastAnnotatedDate: '2023-05-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81kCJyTTfWL._SY160.jpg'
     highlightsCount: 3
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # When to Rob a Bank

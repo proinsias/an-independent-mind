@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '28372'
-    title: 'A Case of Need: A Novel'
+    title: 'A Case of Need
     author: Michael Crichton
     asin: B00DEU9H3Y
     lastAnnotatedDate: '2023-05-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81lswdFrodL._SY160.jpg'
     highlightsCount: 3
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # A Case of Need

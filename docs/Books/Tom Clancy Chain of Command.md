@@ -7,6 +7,8 @@ kindle-sync:
     lastAnnotatedDate: '2023-04-19'
     bookImageUrl: 'https://m.media-amazon.com/images/I/91ZxLGYc8xL._SY160.jpg'
     highlightsCount: 2
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Tom Clancy Chain of Command

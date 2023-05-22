@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '62983'
-    title: 'Inadequate Equilibria: Where and How Civilizations Get Stuck'
+    title: 'Inadequate Equilibria
     author: Eliezer Yudkowsky
     asin: B076Z64CPG
     lastAnnotatedDate: '2022-03-12'
     bookImageUrl: 'https://m.media-amazon.com/images/I/71vfrRBLY0L._SY160.jpg'
     highlightsCount: 16
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Inadequate Equilibria

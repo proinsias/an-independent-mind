@@ -9,6 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2023-05-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81X8GaLT9sL._SY160.jpg'
   highlightsCount: 75
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # The Hard Thing About Hard Things

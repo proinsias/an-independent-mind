@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '17015'
-    title: 'The Gods Themselves: A Novel'
+    title: 'The Gods Themselves
     author: Isaac Asimov
     asin: B004JHYRP4
     lastAnnotatedDate: '2019-03-27'
     bookImageUrl: 'https://m.media-amazon.com/images/I/917nJWgAiBL._SY160.jpg'
     highlightsCount: 1
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # The Gods Themselves

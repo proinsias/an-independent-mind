@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '13902'
-    title: 'Enlightenment Now: The Case for Reason, Science, Humanism, and Progress'
+    title: 'Enlightenment Now
     author: Steven Pinker
     asin: B073TJBYTB
     lastAnnotatedDate: '2021-04-07'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81R6-a9GStL._SY160.jpg'
     highlightsCount: 283
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Enlightenment Now

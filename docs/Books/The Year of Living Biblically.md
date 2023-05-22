@@ -9,6 +9,8 @@ kindle-sync:
     lastAnnotatedDate: '2021-06-11'
     bookImageUrl: 'https://m.media-amazon.com/images/I/71AkfJkl08L._SY160.jpg'
     highlightsCount: 4
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # The Year of Living Biblically

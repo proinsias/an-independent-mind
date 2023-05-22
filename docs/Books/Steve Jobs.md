@@ -7,6 +7,8 @@ kindle-sync:
     lastAnnotatedDate: '2017-12-16'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81FiZi-CWHL._SY160.jpg'
     highlightsCount: 5
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Steve Jobs

@@ -9,6 +9,8 @@ kindle-sync:
     lastAnnotatedDate: '2019-01-19'
     bookImageUrl: 'https://m.media-amazon.com/images/I/91G1VZDi0lL._SY160.jpg'
     highlightsCount: 9
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Valley of Genius

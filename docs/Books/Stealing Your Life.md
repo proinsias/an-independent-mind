@@ -1,12 +1,14 @@
 ---
 kindle-sync:
   bookId: '568'
-  title: 'Stealing Your Life: The Ultimate Identity Theft Prevention Plan'
+  title: 'Stealing Your Life
   author: Frank W. Abagnale
   asin: B000PDZF4S
   lastAnnotatedDate: '2023-05-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81T27xQARKL._SY160.jpg'
   highlightsCount: 24
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Stealing Your Life

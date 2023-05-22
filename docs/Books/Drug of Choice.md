@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '50730'
-    title: 'Drug of Choice: An Early Thriller'
+    title: 'Drug of Choice
     author: Michael Crichton and John Lange
     asin: B00DEU9GX0
     lastAnnotatedDate: '2023-03-05'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81sXrcFhrcL._SY160.jpg'
     highlightsCount: 1
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Drug of Choice

@@ -7,6 +7,8 @@ kindle-sync:
     lastAnnotatedDate: '2023-05-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/61L1+NBltZL._SY160.jpg'
     highlightsCount: 2
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Tom Clancy Point of Contact

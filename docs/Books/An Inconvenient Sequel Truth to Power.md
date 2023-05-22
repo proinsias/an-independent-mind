@@ -2,13 +2,15 @@
 kindle-sync:
   bookId: '38957'
   title: >-
-    An Inconvenient Sequel: Truth to Power: Your Action Handbook to Learn the
+    An Inconvenient Sequel: Truth to Power
     Science, Find Your Voice, and Help Solve the Climate Crisis
   author: Al Gore
   asin: B01MZASPKA
   lastAnnotatedDate: '2023-05-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/816spoSEPzL._SY160.jpg'
   highlightsCount: 20
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # An Inconvenient Sequel: Truth to Power

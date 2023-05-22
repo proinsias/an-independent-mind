@@ -9,6 +9,8 @@ kindle-sync:
   lastAnnotatedDate: '2023-05-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/814vpUnjsxL._SY160.jpg'
   highlightsCount: 61
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # "Guns Dont Kill People, People Kill People"

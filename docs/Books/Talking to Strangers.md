@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '9648'
-    title: "Talking to Strangers: What We Should Know about the People We Don't Know"
+    title: "Talking to Strangers
     author: Malcolm Gladwell
     asin: B07NDKVWZW
     lastAnnotatedDate: '2020-01-24'
     bookImageUrl: 'https://m.media-amazon.com/images/I/71sRKGhsNtS._SY160.jpg'
     highlightsCount: 44
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Talking to Strangers

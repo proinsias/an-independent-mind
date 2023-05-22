@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '49167'
-    title: "Sea of Fire: Op-Center 10 (Tom Clancy's Op-Center)"
+    title: "Sea of Fire
     author: Jeff Rovin
     asin: B001QL5M96
     lastAnnotatedDate: '2021-07-24'
     bookImageUrl: 'https://m.media-amazon.com/images/I/8193Qui+ZXL._SY160.jpg'
     highlightsCount: 4
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Sea of Fire

@@ -1,12 +1,14 @@
 ---
 kindle-sync:
     bookId: '61234'
-    title: "Tom Clancy's Op-Center: God of War: A Novel"
+    title: "Tom Clancy's Op-Center
     author: 'Jeff Rovin, Tom Clancy, and Steve Pieczenik'
     asin: B07ZXTZ8T5
     lastAnnotatedDate: '2022-08-15'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81-79aZoHwL._SY160.jpg'
     highlightsCount: 1
+date: 2023-05-22 19:10
+last_modified_at: 2023-05-22 19:10
 ---
 
 # Tom Clancys Op-Center: God of War
