@@ -139,5 +139,3 @@ Though you are not solely responsible for your current state, you are the only o
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
