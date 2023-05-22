@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '41948'
-    title: 'Humble Pi: When Math Goes Wrong in the Real World'
-    author: Matt Parker
-    asin: B07R8QSXYB
-    lastAnnotatedDate: '2023-01-18'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71G77bxW49L._SY160.jpg'
-    highlightsCount: 71
+  bookId: '41948'
+  title: 'Humble Pi: When Math Goes Wrong in the Real World'
+  author: Matt Parker
+  asin: B07R8QSXYB
+  lastAnnotatedDate: '2023-05-19'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71G77bxW49L._SY160.jpg'
+  highlightsCount: 71
 ---
 
 # Humble Pi
@@ -40,6 +40,9 @@ This will build up with each push until the child is moving too fast to easily i
 
 ---
 
+Only if you push exactly at the rate that matches when the child is directly in front of you and starting their descent will you achieve success. When the timing of your effort matches the frequency the swing is moving at, each push adds a little more energy into the system. This will build up with each push until the child is moving too fast to easily inhale and their screaming will finally cease. — location: [510](kindle://book?action=open&asin=B07R8QSXYB&location=510) ^ref-59436
+
+---
 The British Empire was all about trains, and British engineers prided themselves on their stiff upper bridges. — location: [593](kindle://book?action=open&asin=B07R8QSXYB&location=593) ^ref-39212
 
 ---
@@ -52,6 +55,9 @@ Here, the C is not a letter, despite still looking like one; it is a digit. Spec
 
 ---
 
+If you convert the base-10 number 19,527 to base-16, you get 4C47. Here, the C is not a letter, despite still looking like one; it is a digit. Specifically, it is the digit that represents a value of twelve. — location: [890](kindle://book?action=open&asin=B07R8QSXYB&location=890) ^ref-27114
+
+---
 The space shuttle taking off on the left is surprisingly accurate, ascending to the side instead of directly up. This may look incorrect, but the space shuttle needed a huge amount of sideways speed to be able to get into orbit. Space is not that far away: as I type, the International Space Station is at an altitude of only 262 miles. But for something to stay in that orbit, it needs to be moving around the Earth at about 17,000 miles per hour, that is, 4.75 miles every second. Getting to space is easy. It's staying there that's difficult. — location: [1153](kindle://book?action=open&asin=B07R8QSXYB&location=1153) ^ref-40512
 
 ---
@@ -64,6 +70,9 @@ The first Saturn V rocket launch thus became known as Apollo 4, giving us the ni
 
 ---
 
+This tragedy led to a numerical quirk of the Apollo missions. Even though the spacecraft never launched, the mission with Gus Grissom, Edward White II, and Roger Chaffee was retrospectively named Apollo 1 out of respect for them, rather than keeping its codename, AS-204. Officially, the first actual launch should have been named Apollo 1, but AS-204 was declared to be the first official Apollo flight, despite the fact that it “failed on ground test.” This had a weird follow-on effect because, now, two previous crewless launches (AS-201 and AS-202; AS-203 was a payloadless rocket test and so not an official launch) were also retrospectively part of the Apollo program, even though they were never given Apollo names. The first Saturn V rocket launch thus became known as Apollo 4, giving us the niche bit of trivia that Apollo 2 and Apollo 3 never existed. — location: [1223](kindle://book?action=open&asin=B07R8QSXYB&location=1223) ^ref-49529
+
+---
 The final report bears all this out. The performance of the rubber O-rings was definitely the primary cause of the accident and remains the headline finding that most people remember. But as well as the O-ring findings, and recommendations for how NASA should handle communication between the engineers and management, there is Finding #5: "significant out-of-round conditions existed between the two segments." NASA undone by simple geometry. — location: [1267](kindle://book?action=open&asin=B07R8QSXYB&location=1267) ^ref-51421
 
 ---
@@ -72,6 +81,9 @@ The people who run the Tube forgot to mind the gap. — location: [1406](kindle:
 
 ---
 
+It said that most escalators on the Tube are refurbished twice, which gives them “twice the life.” This is perfect fence-post-problem territory: something is alternating (escalator is used, escalator is refurbished, repeat), and it must begin and end with the same thing (escalator being used). If an escalator is refurbished twice, then it will be in use three times longer than it would be if it was never refurbished at all. The people who run the Tube forgot to mind the gap. — location: [1403](kindle://book?action=open&asin=B07R8QSXYB&location=1403) ^ref-9762
+
+---
 If you count the day of your birth as a birthday (which is hard to argue against), then when you turn thirty-nine, it is actually your fortieth birthday. — location: [1421](kindle://book?action=open&asin=B07R8QSXYB&location=1421) ^ref-56732
 
 ---
@@ -92,6 +104,9 @@ This is a game known as Penney ante — location: [2004](kindle://book?action=op
 
 ---
 
+This is a game known as Penney ante (named for its inventor, Walter Penney), and it has been used to separate humans from their cash for years. In the game of Penney ante, people get thrown because every option of three heads and tails has a different combination that is more likely to win. It is unsettling that there is no best option to pick that is more likely to win than all the others. But this exact oddity is the basis of the game rock-paper-scissors. Any option picked can be beaten by one of the other options. — location: [2004](kindle://book?action=open&asin=B07R8QSXYB&location=2004) ^ref-4077
+
+---
 The link between people who like nontransitive dice and billionaires may be only correlation and not causation. — location: [2029](kindle://book?action=open&asin=B07R8QSXYB&location=2029) ^ref-2750
 
 ---
@@ -168,6 +183,9 @@ This was a case of no grain, no pain. — location: [3165](kindle://book?action=
 
 ---
 
+A patient taking phenobarbital (an antiepileptic drug) was prescribed 0.5 gr per day (32.4 milligrams), and this was mistaken for 0.5 grams per day (500 milligrams). After three days on over fifteen times their normal dose, the patient started to have respiratory problems, but thankfully, when taken off the dose, made a full recovery. This was a case of no grain, no pain. — location: [3163](kindle://book?action=open&asin=B07R8QSXYB&location=3163) ^ref-65162
+
+---
 no one person matched all the criteria to be truly average. — location: [3174](kindle://book?action=open&asin=B07R8QSXYB&location=3174) ^ref-28577
 
 ---
@@ -307,3 +325,7 @@ My motto is "never say die." — location: [4472](kindle://book?action=open&asin
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
+
+I’m a real anti-stickler stickler and adamantly use “dice” as a singular. My motto is “never say die.” — location: [4472](kindle://book?action=open&asin=B07R8QSXYB&location=4472) ^ref-6418
+
+---

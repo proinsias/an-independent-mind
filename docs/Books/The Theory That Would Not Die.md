@@ -1,14 +1,14 @@
 ---
 kindle-sync:
-    bookId: '10047'
-    title: >-
-        The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code,
-        Hunted Down Russian Submarines, & Emerged Triumphant from Two Centuries of C
-    author: Sharon Bertsch McGrayne
-    asin: B0050QB3EQ
-    lastAnnotatedDate: '2022-09-14'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71I+rh9vFbL._SY160.jpg'
-    highlightsCount: 60
+  bookId: '10047'
+  title: >-
+    The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code,
+    Hunted Down Russian Submarines, & Emerged Triumphant from Two Centuries of C
+  author: Sharon Bertsch McGrayne
+  asin: B0050QB3EQ
+  lastAnnotatedDate: '2023-05-18'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71I+rh9vFbL._SY160.jpg'
+  highlightsCount: 58
 ---
 
 # The Theory That Would Not Die
@@ -46,6 +46,12 @@ the metric reform to standardize weights and measures. It was Laplace who named 
 
 ---
 
+For the next two centuries few read the Bayes-Price article. In the end, this is the story of two friends, Dissenting clergymen and amateur mathematicians, whose labor had almost no impact. Almost, that is, except on the one person capable of doing something about it, the great French mathematician Pierre Simon Laplace. — location: [319](kindle://book?action=open&asin=B0050QB3EQ&location=319) ^ref-34197
+
+---
+Laplace worked throughout the upheaval and served as the central figure in one of the Revolution’s most important scientific projects, the metric reform to standardize weights and measures. It was Laplace who named the meter, centimeter, and millimeter. — location: [628](kindle://book?action=open&asin=B0050QB3EQ&location=628) ^ref-60203
+
+---
 The probability of causes was still useful in particularly uncertain cases because it was more powerful than frequentism. — location: [667](kindle://book?action=open&asin=B0050QB3EQ&location=667) ^ref-5134
 
 ---
@@ -78,6 +84,9 @@ He said he qualified for the astronomy department "because Earth is a planet." �
 
 ---
 
+Jeffreys was an Earth scientist who studied earthquakes, tsunamis, and tides. He said he qualified for the astronomy department “because Earth is a planet.” — location: [1101](kindle://book?action=open&asin=B0050QB3EQ&location=1101) ^ref-58130
+
+---
 Moreover, the p-value is a statement about data, whereas Jeffreys wanted to know about his hypothesis given his data. — location: [1147](kindle://book?action=open&asin=B0050QB3EQ&location=1147) ^ref-61498
 
 ---
@@ -194,6 +203,9 @@ On the other hand, those with confidence in Bayes' rule could trace their progre
 
 ---
 
+“Bayes says that the longer you search without finding the target, the worse your prospects are, because the remaining time to detect the target gets longer, not shorter.”13 On the other hand, those with confidence in Bayes’ rule could trace their progress. “Areas that you search go down in probability,” Richardson explained, “and areas that you haven’t searched go up. — location: [3745](kindle://book?action=open&asin=B0050QB3EQ&location=3745) ^ref-17329
+
+---
 The curse of dimensionality plagued both Bayesians and frequentists. — location: [3925](kindle://book?action=open&asin=B0050QB3EQ&location=3925) ^ref-25367
 
 ---
@@ -250,6 +262,9 @@ Bayesian model averaging — location: [4495](kindle://book?action=open&asin=B00
 
 ---
 
+Volinsky had used Bayesian model averaging for sharing and averaging complementary models while working in 1997 on his Ph.D. thesis about predicting the probability that a patient will have a stroke. — location: [4495](kindle://book?action=open&asin=B0050QB3EQ&location=4495) ^ref-62809
+
+---
 Bayesian Model Averaging studies show that when two models that are not highly correlated are combined in a smart way, the combination often does better than either individual model." — location: [4499](kindle://book?action=open&asin=B0050QB3EQ&location=4499) ^ref-42182
 
 ---

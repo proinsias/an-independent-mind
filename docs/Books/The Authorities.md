@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '26392'
-    title: The Authorities
-    author: Scott Meyer
-    asin: B015Q9EKA0
-    lastAnnotatedDate: '2023-05-05'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/91hcuffeO8L._SY160.jpg'
-    highlightsCount: 14
+  bookId: '26392'
+  title: The Authorities
+  author: Scott Meyer
+  asin: B015Q9EKA0
+  lastAnnotatedDate: '2023-05-20'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/91hcuffeO8L._SY160.jpg'
+  highlightsCount: 14
 ---
 
 # The Authorities
@@ -25,6 +25,9 @@ He wondered if that was all confidence was in the first place. — location: [48
 
 ---
 
+Despite outward appearances, he hadn’t gained confidence. He’d simply become desensitized to this specific type of embarrassment. He wondered if that was all confidence was in the first place. — location: [480](kindle://book?action=open&asin=B015Q9EKA0&location=480) ^ref-47671
+
+---
 The main purpose of PowerPoint is to slow communication down so the ideas are easier to catch. — location: [810](kindle://book?action=open&asin=B015Q9EKA0&location=810) ^ref-57570
 
 ---

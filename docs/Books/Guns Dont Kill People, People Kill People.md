@@ -1,14 +1,14 @@
 ---
 kindle-sync:
-    bookId: '28905'
-    title: >-
-        "Guns Don't Kill People, People Kill People": And Other Myths About Guns and
-        Gun Control
-    author: Dennis A. Henigan
-    asin: B01BRFKMDQ
-    lastAnnotatedDate: '2021-12-04'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/814vpUnjsxL._SY160.jpg'
-    highlightsCount: 63
+  bookId: '28905'
+  title: >-
+    "Guns Don't Kill People, People Kill People": And Other Myths About Guns and
+    Gun Control
+  author: Dennis A. Henigan
+  asin: B01BRFKMDQ
+  lastAnnotatedDate: '2023-05-18'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/814vpUnjsxL._SY160.jpg'
+  highlightsCount: 61
 ---
 
 # "Guns Dont Kill People, People Kill People"
@@ -75,6 +75,9 @@ issue (whether it be guns, abortion, immigration, or others) in the starkest pos
 
 ---
 
+the tendency of the media (particularly television) to oversimplify issues and to portray most every issue (whether it be guns, abortion, immigration, or others) in the starkest possible terms as a clash between polar-opposite positions. — location: [752](kindle://book?action=open&asin=B01BRFKMDQ&location=752) ^ref-14994
+
+---
 They can be useful to prosecutors in obtaining longer sentences in plea bargains, particularly since they may be easier to prove than the more serious, violent offense. — location: [790](kindle://book?action=open&asin=B01BRFKMDQ&location=790) ^ref-58790
 
 ---
@@ -191,6 +194,9 @@ acting out the hate-filled anti-ATF rhetoric of the NRA. — location: [2252](ki
 
 ---
 
+When he committed the worst terrorist act up to that point in United States history, McVeigh was acting out the hate-filled anti-ATF rhetoric of the NRA. — location: [2251](kindle://book?action=open&asin=B01BRFKMDQ&location=2251) ^ref-397
+
+---
 Barely two years after savaging ATF for enforcing federal gun laws, the NRA launched its new campaign to savage the Clinton administration for not enforcing federal gun laws. — location: [2262](kindle://book?action=open&asin=B01BRFKMDQ&location=2262) ^ref-60585
 
 ---

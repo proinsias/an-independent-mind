@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '568'
-    title: 'Stealing Your Life: The Ultimate Identity Theft Prevention Plan'
-    author: Frank W. Abagnale
-    asin: B000PDZF4S
-    lastAnnotatedDate: '2022-11-02'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/81T27xQARKL._SY160.jpg'
-    highlightsCount: 24
+  bookId: '568'
+  title: 'Stealing Your Life: The Ultimate Identity Theft Prevention Plan'
+  author: Frank W. Abagnale
+  asin: B000PDZF4S
+  lastAnnotatedDate: '2023-05-18'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81T27xQARKL._SY160.jpg'
+  highlightsCount: 24
 ---
 
 # Stealing Your Life
@@ -55,6 +55,11 @@ Not his business! If you earned a raise, you should get a raise!
 
 ---
 
+If you ask for a raise and get turned down, you might think it’s because your boss is stingy or maybe your work performance isn’t as good as you feel it is. But maybe your boss ran a credit check and discovered overdrawn accounts that weren’t in fact yours. Assuming that you were a spendthrift, he may have decided not to give you more money to fritter away on indulgences. — location: [341](kindle://book?action=open&asin=B000PDZF4S&location=341) ^ref-45766
+
+Not his business! If you earned a raise, you should get a raise!
+
+---
 Every time you share a piece of information about yourself, without obtaining a binding guarantee that it will not be sold or shared, — location: [465](kindle://book?action=open&asin=B000PDZF4S&location=465) ^ref-38712
 
 ---

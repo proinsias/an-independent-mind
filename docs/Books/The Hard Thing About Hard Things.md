@@ -1,14 +1,14 @@
 ---
 kindle-sync:
-    bookId: '39689'
-    title: >-
-        The Hard Thing About Hard Things: Building a Business When There Are No Easy
-        Answers
-    author: Ben Horowitz
-    asin: B00DQ845EA
-    lastAnnotatedDate: '2021-02-16'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/81X8GaLT9sL._SY160.jpg'
-    highlightsCount: 81
+  bookId: '39689'
+  title: >-
+    The Hard Thing About Hard Things: Building a Business When There Are No Easy
+    Answers
+  author: Ben Horowitz
+  asin: B00DQ845EA
+  lastAnnotatedDate: '2023-05-19'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81X8GaLT9sL._SY160.jpg'
+  highlightsCount: 75
 ---
 
 # The Hard Thing About Hard Things
@@ -31,6 +31,9 @@ can be worse than knowing nothing at all. — location: [144](kindle://book?acti
 
 ---
 
+There are no shortcuts to knowledge, especially knowledge gained from personal experience. Following conventional wisdom and relying on shortcuts can be worse than knowing nothing at all. — location: [143](kindle://book?action=open&asin=B00DQ845EA&location=143) ^ref-11939
+
+---
 Looking at the world through such different prisms helped me separate facts from perception. — location: [165](kindle://book?action=open&asin=B00DQ845EA&location=165) ^ref-55745
 
 ---
@@ -51,6 +54,9 @@ lost its monopoly on operating systems. — location: [330](kindle://book?action
 
 ---
 
+Once Microsoft lost its grip on developers, it became only a matter of time before it lost its monopoly on operating systems. — location: [330](kindle://book?action=open&asin=B00DQ845EA&location=330) ^ref-54152
+
+---
 Marc: "Do you know the best thing about startups?" Ben: "What?" Marc: "You only ever experience two emotions: euphoria and terror. And I find that lack of sleep enhances them both." — location: [418](kindle://book?action=open&asin=B00DQ845EA&location=418) ^ref-15506
 
 ---
@@ -71,6 +77,12 @@ markets weren't — location: [905](kindle://book?action=open&asin=B00DQ845EA&lo
 
 ---
 
+It turns out that is exactly what product strategy is all about—figuring out the right product is the innovator’s job, not the customer’s job. — location: [869](kindle://book?action=open&asin=B00DQ845EA&location=869) ^ref-33312
+
+---
+markets weren’t “efficient” at finding the truth; they were just very efficient at converging on a conclusion—often the wrong conclusion. — location: [905](kindle://book?action=open&asin=B00DQ845EA&location=905) ^ref-36677
+
+---
 Note to self: It's a good idea to ask, "What am I not doing?" — location: [910](kindle://book?action=open&asin=B00DQ845EA&location=910) ^ref-33525
 
 ---
@@ -95,6 +107,9 @@ let him keep his job, but you absolutely can let him keep his respect." — loca
 
 ---
 
+“Ben, you cannot let him keep his job, but you absolutely can let him keep his respect.” — location: [1288](kindle://book?action=open&asin=B00DQ845EA&location=1288) ^ref-30689
+
+---
 Doing so will provide excellent continuity for the team and greatly inform your thinking on whom to hire next. — location: [1296](kindle://book?action=open&asin=B00DQ845EA&location=1296) ^ref-37447
 
 ---
@@ -223,6 +238,9 @@ of ambition is ambition for the executive's personal success regardless of the c
 
 ---
 
+the right kind of ambition is ambition for the company’s success with the executive’s own success only coming as a by-product of the company’s victory. The wrong kind of ambition is ambition for the executive’s personal success regardless of the company’s outcome. — location: [2276](kindle://book?action=open&asin=B00DQ845EA&location=2276) ^ref-51181
+
+---
 By conducting well-structured, regular performance and compensation reviews, you will ensure that pay and stock increases are as fair as possible. — location: [2288](kindle://book?action=open&asin=B00DQ845EA&location=2288) ^ref-28128
 
 ---
@@ -259,6 +277,9 @@ agenda. A good practice is to have the employee send you the agenda in advance. 
 
 ---
 
+If you like structured agendas, then the employee should set the agenda. A good practice is to have the employee send you the agenda in advance. — location: [2641](kindle://book?action=open&asin=B00DQ845EA&location=2641) ^ref-44619
+
+---
 the manager should do 10 percent of the talking and 90 percent of the listening. — location: [2644](kindle://book?action=open&asin=B00DQ845EA&location=2644) ^ref-45898
 
 ---

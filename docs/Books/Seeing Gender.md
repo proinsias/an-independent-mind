@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '58779'
-    title: 'Seeing Gender: An Illustrated Guide to Identity and Expression'
-    author: Iris Gottlieb and Meredith Talusan
-    asin: B07WXNW2ZX
-    lastAnnotatedDate: '2022-08-05'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/81NY-Q4lH2L._SY160.jpg'
-    highlightsCount: 28
+  bookId: '58779'
+  title: 'Seeing Gender: An Illustrated Guide to Identity and Expression'
+  author: Iris Gottlieb and Meredith Talusan
+  asin: B07WXNW2ZX
+  lastAnnotatedDate: '2023-05-18'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81NY-Q4lH2L._SY160.jpg'
+  highlightsCount: 28
 ---
 
 # Seeing Gender
@@ -92,6 +92,9 @@ What it boils down to is, people who face systemic and daily oppression are far 
 
 ---
 
+What it boils down to is, people who face systemic and daily oppression are far more likely to be actively working to dismantle it. — location: [925](kindle://book?action=open&asin=B07WXNW2ZX&location=925) ^ref-40241
+
+---
 "Black boys can be misperceived as older than they actually are and prematurely perceived as responsible for their actions during a developmental period where their peers receive the beneficial assumption of childlike innocence." — location: [1003](kindle://book?action=open&asin=B07WXNW2ZX&location=1003) ^ref-24939
 
 ---

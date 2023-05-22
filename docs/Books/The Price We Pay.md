@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '19014'
-    title: 'The Price We Pay: What Broke American Health Care--and How to Fix It'
-    author: Marty  Makary  MD
-    asin: B07MXPJ33B
-    lastAnnotatedDate: '2021-06-11'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71RiMWB3TRS._SY160.jpg'
-    highlightsCount: 73
+  bookId: '19014'
+  title: 'The Price We Pay: What Broke American Health Care--and How to Fix It'
+  author: Marty  Makary  MD
+  asin: B07MXPJ33B
+  lastAnnotatedDate: '2023-05-22'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71RiMWB3TRS._SY160.jpg'
+  highlightsCount: 71
 ---
 
 # The Price We Pay
@@ -281,6 +281,9 @@ most of us enter the profession fresh off a 20-to-30-year sprint of competing ag
 
 ---
 
+Noticeably absent from that 15 years of study were the behavior skills that enable doctors to perform well. Yes, some people are naturally good at teamwork, communication, and humility. But most of us enter the profession fresh off a 20-to-30-year sprint of competing against one another academically—in a culture that promotes independence. — location: [3690](kindle://book?action=open&asin=B07MXPJ33B&location=3690) ^ref-24613
+
+---
 Health care experts use the term "costs." We should talk about "prices." — location: [3759](kindle://book?action=open&asin=B07MXPJ33B&location=3759) ^ref-2077
 
 ---

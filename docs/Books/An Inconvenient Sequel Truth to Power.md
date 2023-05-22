@@ -1,14 +1,14 @@
 ---
 kindle-sync:
-    bookId: '38957'
-    title: >-
-        An Inconvenient Sequel: Truth to Power: Your Action Handbook to Learn the
-        Science, Find Your Voice, and Help Solve the Climate Crisis
-    author: Al Gore
-    asin: B01MZASPKA
-    lastAnnotatedDate: '2021-09-10'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/816spoSEPzL._SY160.jpg'
-    highlightsCount: 21
+  bookId: '38957'
+  title: >-
+    An Inconvenient Sequel: Truth to Power: Your Action Handbook to Learn the
+    Science, Find Your Voice, and Help Solve the Climate Crisis
+  author: Al Gore
+  asin: B01MZASPKA
+  lastAnnotatedDate: '2023-05-18'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/816spoSEPzL._SY160.jpg'
+  highlightsCount: 20
 ---
 
 # An Inconvenient Sequel: Truth to Power
@@ -78,6 +78,12 @@ replies and mentions on their Twitter accounts, — location: [1263](kindle://bo
 
 ---
 
+Most of the time the staffer will simply be recording the number of calls they receive on a given issue, so there is no need to speak at length and you shouldn’t feel pressured to carry on a conversation. — location: [1254](kindle://book?action=open&asin=B01MZASPKA&location=1254) ^ref-36910
+
+---
+Members of Congress and other elected officials also pay careful attention to replies and mentions on their Twitter accounts, especially when they come from people who clearly identify themselves as constituents. — location: [1262](kindle://book?action=open&asin=B01MZASPKA&location=1262) ^ref-31822
+
+---
 WRITE A LETTER TO YOUR ELECTED OFFICIALS — location: [1269](kindle://book?action=open&asin=B01MZASPKA&location=1269) ^ref-10019
 
 ---
@@ -112,3 +118,7 @@ climate task force, — location: [1296](kindle://book?action=open&asin=B01MZASP
 
 #toreview past location 1296.
 #incomplete 
+
+If your city doesn’t have a climate task force, maybe it’s time to form one! — location: [1296](kindle://book?action=open&asin=B01MZASPKA&location=1296) ^ref-1937
+
+---

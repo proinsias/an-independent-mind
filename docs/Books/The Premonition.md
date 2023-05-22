@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '34974'
-    title: 'The Premonition: A Pandemic Story'
-    author: Michael Lewis
-    asin: B08V91YY8R
-    lastAnnotatedDate: '2021-09-05'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/61mdmv2WbAL._SY160.jpg'
-    highlightsCount: 48
+  bookId: '34974'
+  title: 'The Premonition: A Pandemic Story'
+  author: Michael Lewis
+  asin: B08V91YY8R
+  lastAnnotatedDate: '2023-05-18'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/61mdmv2WbAL._SY160.jpg'
+  highlightsCount: 43
 ---
 
 # The Premonition
@@ -56,6 +56,9 @@ have a second visit — location: [999](kindle://book?action=open&asin=B08V91YY8
 
 ---
 
+“They taught me how important it was to have a second visit when they visited villages,” said Carter. “The second visit made a statement to the villagers, and it usually wasn’t until the second visit that trust emerged.” — location: [999](kindle://book?action=open&asin=B08V91YY8R&location=999) ^ref-35669
+
+---
 He made a point of asking questions in plain English, and less in the manner of a doctor than a child. — location: [1002](kindle://book?action=open&asin=B08V91YY8R&location=1002) ^ref-43859
 
 ---
@@ -64,6 +67,9 @@ never told them what I would do," — location: [1005](kindle://book?action=open
 
 ---
 
+By his third visit, the nurses were walking him through every stage of the colon-cancer detection process. “I never told them what I would do,” said Carter. “I was allowing them to open the curtain and take a look. You see so much. If people would just spend their time and observe. You don’t need any advanced degrees.” — location: [1004](kindle://book?action=open&asin=B08V91YY8R&location=1004) ^ref-19732
+
+---
 Human Error, by a British psychologist aptly named James Reason. — location: [1023](kindle://book?action=open&asin=B08V91YY8R&location=1023) ^ref-48884
 
 ---
@@ -96,6 +102,12 @@ made all sorts of assumptions about the world, just as computer models did, but 
 
 ---
 
+One box might contain the solution to a problem in another box, or the person who might find that solution, and that second box would never know about it. — location: [1162](kindle://book?action=open&asin=B08V91YY8R&location=1162) ^ref-31852
+
+---
+they were missing the point. They, too, used models. They, too, depended on abstractions to inform their judgments. Those abstractions just happened to be inside their heads. Experts took the models in their minds as the essence of reality, but the biggest difference between their models and the ones inside the computer was that their models were less explicit and harder to check. Experts made all sorts of assumptions about the world, just as computer models did, but those assumptions were invisible. — location: [1250](kindle://book?action=open&asin=B08V91YY8R&location=1250) ^ref-48274
+
+---
 Richard liked to borrow a phrase, Carter a tool. — location: [1295](kindle://book?action=open&asin=B08V91YY8R&location=1295) ^ref-29011
 
 ---
@@ -172,6 +184,12 @@ of state and local health officers, beholden to a greater or lesser degree to lo
 
 ---
 
+The people who presided in times of peace tended to have a gift for avoiding or at least disguising conflict. People made for battlefield command did not find their way into positions of authority, at least not until the general public sensed existential risk. — location: [2843](kindle://book?action=open&asin=B08V91YY8R&location=2843) ^ref-52237
+
+---
+There was no system of public health in the United States, just a patchwork of state and local health officers, beholden to a greater or lesser degree to local elected officials. — location: [2934](kindle://book?action=open&asin=B08V91YY8R&location=2934) ^ref-26654
+
+---
 The challenge is that they need to be implemented before things get bad." — location: [3014](kindle://book?action=open&asin=B08V91YY8R&location=3014) ^ref-16949
 
 ---

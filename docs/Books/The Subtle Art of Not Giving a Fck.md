@@ -1,14 +1,14 @@
 ---
 kindle-sync:
-    bookId: '20378'
-    title: >-
-        The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a
-        Good Life (Mark Manson Collection Book 1)
-    author: Mark Manson
-    asin: B019MMUA8S
-    lastAnnotatedDate: '2020-08-14'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71QKQ9mwV7L._SY160.jpg'
-    highlightsCount: 101
+  bookId: '20378'
+  title: >-
+    The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a
+    Good Life (Mark Manson Collection Book 1)
+  author: Mark Manson
+  asin: B019MMUA8S
+  lastAnnotatedDate: '2023-05-21'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71QKQ9mwV7L._SY160.jpg'
+  highlightsCount: 101
 ---
 
 # The Subtle Art of Not Giving a F\*ck
@@ -43,6 +43,12 @@ Feedback Loop from Hell. — location: [267](kindle://book?action=open&asin=B019
 
 ---
 
+The key to a good life is not giving a fuck about more; it’s giving a fuck about less, giving a fuck about only what is true and immediate and important. — location: [254](kindle://book?action=open&asin=B019MMUA8S&location=254) ^ref-8326
+
+---
+Welcome to the Feedback Loop from Hell. — location: [267](kindle://book?action=open&asin=B019MMUA8S&location=267) ^ref-24132
+
+---
 We joke online about "first-world problems," but we really have become victims of our own success. Stress-related health issues, anxiety disorders, and cases of depression have skyrocketed over the past thirty years, despite the fact that everyone has a flat-screen TV and can have their groceries delivered. — location: [293](kindle://book?action=open&asin=B019MMUA8S&location=293) ^ref-18829
 
 ---
@@ -167,6 +173,9 @@ he should have an amazing lifestyle without actually sacrificing anything. — l
 
 ---
 
+He believes he should have an amazing lifestyle without actually sacrificing anything. — location: [744](kindle://book?action=open&asin=B019MMUA8S&location=744) ^ref-29608
+
+---
 The true measurement of self-worth is not how a person feels about her positive experiences, but rather how she feels about her negative experiences. — location: [766](kindle://book?action=open&asin=B019MMUA8S&location=766) ^ref-11928
 
 ---

@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '63755'
-    title: "Quiet: The Power of Introverts in a World That Can't Stop Talking"
-    author: Susan Cain
-    asin: B004J4WNL2
-    lastAnnotatedDate: '2023-04-15'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71FvX52xEBL._SY160.jpg'
-    highlightsCount: 126
+  bookId: '63755'
+  title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
+  author: Susan Cain
+  asin: B004J4WNL2
+  lastAnnotatedDate: '2023-05-20'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71FvX52xEBL._SY160.jpg'
+  highlightsCount: 124
 ---
 
 # Quiet
@@ -49,6 +49,9 @@ define introversion not in terms of a rich inner life but as a lack of qualities
 
 ---
 
+adherents of the Big Five school of personality psychology (which argues that human personality can be boiled down to five primary traits) define introversion not in terms of a rich inner life but as a lack of qualities such as assertiveness and sociability. — location: [355](kindle://book?action=open&asin=B004J4WNL2&location=355) ^ref-32714
+
+---
 They enjoy "the thrill of the chase" for rewards like money and status. — location: [366](kindle://book?action=open&asin=B004J4WNL2&location=366) ^ref-37236
 
 ---
@@ -101,6 +104,9 @@ suburban abnormalities." — location: [602](kindle://book?action=open&asin=B004
 
 ---
 
+“Save for a few odd parents, most are grateful that the schools work so hard to offset tendencies to introversion and other suburban abnormalities.” — location: [601](kindle://book?action=open&asin=B004J4WNL2&location=601) ^ref-15238
+
+---
 The trait has been found to be less prevalent in Asia and Africa than in Europe and America, whose populations descend largely from the migrants of the world. — location: [632](kindle://book?action=open&asin=B004J4WNL2&location=632) ^ref-32739
 
 ---
@@ -197,6 +203,9 @@ Groups brainstorming electronically, when properly managed, not only do better t
 
 ---
 
+The one exception to this is online brainstorming. Groups brainstorming electronically, when properly managed, not only do better than individuals, research shows; the larger the group, the better it performs. — location: [1612](kindle://book?action=open&asin=B004J4WNL2&location=1612) ^ref-12137
+
+---
 participating in an online working group is a form of solitude all its own. — location: [1619](kindle://book?action=open&asin=B004J4WNL2&location=1619) ^ref-8637
 
 ---
@@ -263,6 +272,11 @@ Huh?
 
 ---
 
+In humans with unwarranted fears, like batophobia, or fear of heights, the same thing happens. — location: [2079](kindle://book?action=open&asin=B004J4WNL2&location=2079) ^ref-50525
+
+Huh? Heights can kill you. Not an unwarranted fear!
+
+---
 Once you understand introversion and extroversion as preferences for certain levels of stimulation, — location: [2174](kindle://book?action=open&asin=B004J4WNL2&location=2174) ^ref-51797
 
 ---
@@ -481,6 +495,9 @@ work with him on his reaction to novelty. — location: [4153](kindle://book?act
 
 ---
 
+One of the best things you can do for an introverted child is to work with him on his reaction to novelty. — location: [4152](kindle://book?action=open&asin=B004J4WNL2&location=4152) ^ref-41631
+
+---
 He's recoiling from novelty or overstimulation, not from human contact — location: [4154](kindle://book?action=open&asin=B004J4WNL2&location=4154) ^ref-21636
 
 ---
