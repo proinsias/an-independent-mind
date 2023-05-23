@@ -1,7 +1,7 @@
 ---
 title: "bash"
 date: 2023-05-23 16:34
-last_modified_at: 2023-05-23 16:34
+last_modified_at: 2023-05-23 16:39
 tags:
   - bash
   - nix
@@ -17,4 +17,5 @@ tags:
 
 ## Links
 
-- [Bash retry function with exponential backoff](https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746) ([HN](https://news.ycombinator.com/item?id=34161661)).
+- [Bash retry function with exponential backoff](https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746).
+- [Type-ish](https://github.com/Mythra/typeish) - Runtime type checker for bash functions, implemented entirely in bash.
