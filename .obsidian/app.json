@@ -1,0 +1,13 @@
+{
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "attachments"
+}

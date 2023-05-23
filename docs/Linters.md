@@ -1,0 +1,24 @@
+---
+title: 'Linters'
+date: 2023-05-05 15:04
+last_modified_at: 2023-05-23 15:31
+tags:
+    - command-line-tool
+    - linter
+---
+
+[Command line tools MOC](Command%20line%20tools%20MOC.md)
+
+# Linters
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
+* [ShellCheck](https://github.com/koalaman/shellcheck) is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
+
+## Miscellaneous
+
+## Links
+
+-   [awesome-linters](https://github.com/caramelomartins/awesome-linters)
+-
