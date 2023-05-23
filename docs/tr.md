@@ -1,7 +1,7 @@
 ---
 title: 'tr'
 date: 2023-05-07 20:35
-last_modified_at: 2023-05-22 19:10
+last_modified_at: 2023-05-22 20:05
 tags:
     - command-line-tool
     - programming
