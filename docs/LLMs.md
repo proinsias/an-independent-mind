@@ -1,7 +1,7 @@
 ---
 title: "LLMs"
 date: 2023-05-23 11:03
-last_modified_at: 2023-05-23 11:11
+last_modified_at: 2023-05-23 15:25
 tags:
   - data-science
   - llms
@@ -59,6 +59,23 @@ tags:
 	* Generation of outputs that may sound plausible but are either factually incorrect or unrelated to the given context.
 	* OpenAI receives all prompt data and reserves the right to use this data for training purposes.
 
+## The future of LLMs
+
+> The model would be reliable enough to be a novelty but not enough to be actionable. 
+
+> Consumers are far more forgiving when it comes to hallucination than businesses can afford to be. 
+
+Via [vinvashishta.substack.com](https://vinvashishta.substack.com/p/why-your-ceo-shouldnt-be-taking-ai).
+
+> The hard work is these incremental improvements. It's not as glamorous as the splashy announcements of early releases, but this is where value is created. Incremental problem-solving and innovation support productization and commercialization. This is where novel use cases, products, operating models, and business models will be discovered.
+>
+> Data is an advantage that will endure over the next 12-18 months. Horizontal scaling is only an advantage, while some companies struggle to integrate LLMs into their products and operations. Services and platform providers are rushing in to level that playing field. IBM, Microsoft, SAP, and AWS already offer products. Salesforce and many others are a month or two away from entering the arena. This space will soon be as overcrowded as today's data engineering and MLOps landscape.
+>
+> Vertical scaling will provide more opportunities for businesses to differentiate their products and streamline operations. Proprietary data enables both monetization routes. Advantages are built on what competitors cannot easily copy. Companies must move beyond what LLMs can do horizontally and develop vertical capabilities.
+>
+> Most businesses struggle to understand what data they currently have and share that view across the business. Few business units have access to the data they need when they need it. Generative AI will force firms to confront these challenges, or they will fail to see the benefits.
+
+Via [vinvashishta.substack.com](https://vinvashishta.substack.com/p/scaling-foundational-ai-models-will).
 
 ## Miscellaneous
 
