@@ -1,7 +1,7 @@
 ---
 title: 'Linters'
 date: 2023-05-05 15:04
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-05-23 15:30
 tags:
     - command-line-tool
     - linter
@@ -14,6 +14,7 @@ tags:
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
+* [ShellCheck](https://github.com/koalaman/shellcheck) is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
 
 ## Miscellaneous
 
