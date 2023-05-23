@@ -11,8 +11,12 @@
             "id": "c0000ab2a8036c0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Obsidian configuration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "docs/Obsidian configuration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "docs/Obsidian configuration.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "docs/Obsidian configuration.md"
+          }
         }
       }
     ],
@@ -124,5 +132,39 @@
     }
   },
   "active": "c0000ab2a8036c0e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/Command line tools MOC.md",
+    "README.md",
+    "attachments/1_4nvKxSrAh6_m1v1ZJpXwfA.png",
+    "attachments",
+    "templates/moc.md",
+    "templates/table.md",
+    "templates/blog.md",
+    "templates/note.md",
+    "templates/long blog.md",
+    "templates/book.md",
+    "templates",
+    "project-words.txt",
+    "docs/Books/How to Stop Losing Your Sht with Your Kids.md",
+    "docs/Books/Republican Like Me.md",
+    "docs/Books/The Marshmallow Test.md",
+    "docs/Books/Valley of Genius.md",
+    "docs/Books/Hercule Poirots Christmas.md",
+    "docs/Books/Pebble in the Sky.md",
+    "docs/Books/Outliers.md",
+    "docs/Books/The Currents of Space.md",
+    "docs/Books/The Martian.md",
+    "docs/Books/Six Wakes.md",
+    "docs/Books/Drug of Choice.md",
+    "docs/Books/The System.md",
+    "docs/Books/The Subtle Art of Not Giving a Fck.md",
+    "docs/Books/Ready Player Two.md",
+    "docs/Books/Miniatures.md",
+    "docs/Books/When to Rob a Bank.md",
+    "docs/Books/An Inconvenient Sequel Truth to Power.md",
+    "docs/Books/The Theory That Would Not Die.md",
+    "docs/Books",
+    "docs",
+    "LICENSE"
+  ]
 }
