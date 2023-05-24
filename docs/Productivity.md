@@ -1,7 +1,7 @@
 ---
 title: "Productivity"
 date: 2023-05-23 21:17
-last_modified_at: 2023-05-23 21:20
+last_modified_at: 2023-05-23 21:24
 tags:
   - productivity
 ---
@@ -11,6 +11,12 @@ tags:
 # Productivity
 
 ## Miscellaneous
+
+## Quotes
+
+> No one achieves greatness by becoming a generalist. You don’t hone a skill by diluting your attention to its development. The only way to get to the next level is focus.
+
+– John C. Maxwell
 
 ## Links
 
