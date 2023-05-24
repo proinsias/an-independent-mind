@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '35515'
-    title: "A Force for Good
-    author: Daniel Goleman and Dalai Lama
+	title: 'A Force for Good: The Dalai Lama''s Vision for Our World'
+	author: Daniel Goleman and Dalai Lama
     asin: B00NRQRWRS
     lastAnnotatedDate: '2023-05-18'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81XHY7k4PPL._SY160.jpg'
     highlightsCount: 126
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # A Force for Good

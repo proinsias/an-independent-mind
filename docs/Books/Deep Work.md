@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '45739'
-    title: 'Deep Work
+    title: 'Deep Work: Rules for Focused Success in a Distracted World'
     author: Cal Newport
     asin: B00X47ZVXM
     lastAnnotatedDate: '2021-06-09'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81q+X5N8A6L._SY160.jpg'
     highlightsCount: 125
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Deep Work
