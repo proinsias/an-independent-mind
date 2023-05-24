@@ -316,5 +316,3 @@ It's common for quotations to be reattributed to plausible speakers who are more
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-#toreview
