@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '15443'
-    title: 'The Martian
+    title: 'The Martian: A Novel'
     author: Andy Weir
     asin: B00EMXBDMA
     lastAnnotatedDate: '2023-01-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81EoVMnlfVL._SY160.jpg'
     highlightsCount: 38
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # The Martian

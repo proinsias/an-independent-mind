@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '29394'
-    title: 'Third Girl
+    title: 'Third Girl: A Hercule Poirot Mystery (Hercule Poirot series Book 35)'
     author: Agatha Christie
     asin: B000FC2NGC
     lastAnnotatedDate: '2022-06-19'
     bookImageUrl: 'https://m.media-amazon.com/images/I/51QRfEd9YuL._SY160.jpg'
     highlightsCount: 3
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Third Girl

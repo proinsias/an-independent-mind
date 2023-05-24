@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '57705'
-    title: 'Who Will Cry When You Die?
+    title: 'Who Will Cry When You Die?: Life Lessons From The Monk Who Sold His Ferrari'
     author: Robin Sharma
     asin: B0055DLZII
     lastAnnotatedDate: '2018-04-07'
     bookImageUrl: 'https://m.media-amazon.com/images/I/51cV+3CLCvL._SY160.jpg'
     highlightsCount: 6
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Who Will Cry When You Die?

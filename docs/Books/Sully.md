@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '50978'
-    title: 'Sully
+    title: 'Sully: My Search for What Really Matters'
     author: Chesley B. "Sully" Sullenberger III and Jeffrey Zaslow
     asin: B01EFM8P5U
     lastAnnotatedDate: '2017-11-23'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81LdV84A-jL._SY160.jpg'
     highlightsCount: 30
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Sully
