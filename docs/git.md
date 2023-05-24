@@ -267,6 +267,9 @@ git diff COMMIT^ COMMIT
 
 # Differences between file from two different commits.
 git diff <revision_1>:<file_1> <revision_2>:<file_2>
+
+# Show you the size of your branch's diff from main. Under 400 lines is best.
+git diff --shortstat origin/main
 ```
 
 ## log
