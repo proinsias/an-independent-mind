@@ -4,5 +4,7 @@
   "lastSyncMode": "amazon",
   "isLoggedIn": true,
   "syncOnBoot": true,
-  "downloadBookMetadata": true
+  "downloadBookMetadata": true,
+  "lastSyncDate": "2023-05-24T01:42:35.623Z",
+  "fileNameTemplate": "{{title}}"
 }
