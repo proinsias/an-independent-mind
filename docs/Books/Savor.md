@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '276'
-    title: 'Savor: Mindful Eating, Mindful Life'
-    author: Thich Nhat Hanh and Lilian Cheung
-    asin: B00395ZYS6
-    lastAnnotatedDate: '2019-12-05'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71gfIxDYyaL._SY160.jpg'
-    highlightsCount: 29
+  bookId: '276'
+  title: 'Savor: Mindful Eating, Mindful Life'
+  author: Thich Nhat Hanh and Lilian Cheung
+  asin: B00395ZYS6
+  lastAnnotatedDate: '2023-05-22'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71gfIxDYyaL._SY160.jpg'
+  highlightsCount: 29
 ---
 
 # Savor
@@ -48,6 +48,12 @@ Dealing with our overweight—or with any of our life's difficulties, for that m
 
 ---
 
+To be mindful is to be completely aware of what is happening in the present, to be fully aware of all that is going on within ourselves and all that is happening around us, from moment to moment, without judgment or preconceived notions. — location: [57](kindle://book?action=open&asin=B00395ZYS6&location=57) ^ref-53514
+
+---
+Dealing with our overweight—or with any of our life’s difficulties, for that matter—is not a battle to be fought. Instead, we must learn how to make friends with our hardships and challenges. They are there to help us; they are natural opportunities for deeper understanding and transformation, bringing us more joy and peace as we learn to work with them. With mindfulness practice, we gain insight into the roots of our difficulties. — location: [70](kindle://book?action=open&asin=B00395ZYS6&location=70) ^ref-50103
+
+---
 As you will see, mindfulness practice does not need to be another "add-on." — location: [80](kindle://book?action=open&asin=B00395ZYS6&location=80) ^ref-8052
 
 ---

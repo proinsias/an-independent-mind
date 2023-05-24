@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '9648'
-    title: 'Talking to Strangers: What We Should Know about the People We Don''t Know'
-    author: Malcolm Gladwell
-    asin: B07NDKVWZW
-    lastAnnotatedDate: '2020-01-24'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71sRKGhsNtS._SY160.jpg'
-    highlightsCount: 44
+  bookId: '9648'
+  title: 'Talking to Strangers: What We Should Know about the People We Don''t Know'
+  author: Malcolm Gladwell
+  asin: B07NDKVWZW
+  lastAnnotatedDate: '2023-05-23'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71sRKGhsNtS._SY160.jpg'
+  highlightsCount: 42
 ---
 
 # Talking to Strangers
@@ -49,6 +49,9 @@ to the point where we can no longer explain them away. — location: [827](kindl
 
 ---
 
+We start by believing. And we stop believing only when our doubts and misgivings rise to the point where we can no longer explain them away. — location: [826](kindle://book?action=open&asin=B07NDKVWZW&location=826) ^ref-11392
+
+---
 Belief is not the absence of doubt. You believe someone because you don't have enough doubts about them. — location: [877](kindle://book?action=open&asin=B07NDKVWZW&location=877) ^ref-64212
 
 ---
@@ -109,6 +112,12 @@ she — location: [2249](kindle://book?action=open&asin=B07NDKVWZW&location=2249
 
 ---
 
+As one California prosecutor explained, “the intoxicated victim must be so ‘out of it’ that she does not understand what she is doing or what is going on around her. — location: [2248](kindle://book?action=open&asin=B07NDKVWZW&location=2248) ^ref-37761
+
+Victim = woman?
+Nope.
+
+---
 Many of those who study alcohol no longer consider it an agent of disinhibition. They think of it as an agent of myopia. — location: [2332](kindle://book?action=open&asin=B07NDKVWZW&location=2332) ^ref-64437
 
 ---
@@ -201,3 +210,7 @@ Encinia caused the infraction. — location: [3853](kindle://book?action=open&as
 
 ### [Books MOC](Books%20MOC.md)
 
+
+the same police officer who forced her to change lanes is giving her a ticket for improperly changing lanes. Encinia caused the infraction. — location: [3852](kindle://book?action=open&asin=B07NDKVWZW&location=3852) ^ref-3094
+
+---
