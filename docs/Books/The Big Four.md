@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '4390'
-    title: 'The Big Four
+    title: 'The Big Four: A Hercule Poirot Mystery (Hercule Poirot series Book 5)'
     author: Agatha Christie
     asin: B000FC10T8
     lastAnnotatedDate: '2023-05-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/71S1kFQLK8S._SY160.jpg'
     highlightsCount: 1
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # The Big Four

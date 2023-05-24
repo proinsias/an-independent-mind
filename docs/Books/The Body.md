@@ -1,14 +1,12 @@
 ---
 kindle-sync:
-    bookId: '5466'
-    title: 'The Body
-    author: Bill Bryson
-    asin: B07M82PNSX
-    lastAnnotatedDate: '2022-03-20'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/71F5rOhJ+OL._SY160.jpg'
-    highlightsCount: 211
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
+  bookId: '5466'
+  title: 'The Body: A Guide for Occupants'
+  author: Bill Bryson
+  asin: B07M82PNSX
+  lastAnnotatedDate: '2023-05-22'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71F5rOhJ+OL._SY160.jpg'
+  highlightsCount: 191
 ---
 
 # The Body
@@ -174,6 +172,9 @@ globally every year, so hardly inconsequential. — location: [710](kindle://boo
 
 ---
 
+Altogether fungi are thought to be responsible for about a million deaths globally every year, so hardly inconsequential. — location: [710](kindle://book?action=open&asin=B07M82PNSX&location=710) ^ref-14996
+
+---
 A protist is anything that isn't obviously plant, animal, or fungus; it is a category reserved for all those life-forms that don't fit anywhere else. — location: [711](kindle://book?action=open&asin=B07M82PNSX&location=711) ^ref-56878
 
 ---
@@ -194,6 +195,13 @@ Each neuron connects with thousands of other neurons, giving trillions and trill
 
 ---
 
+Your nightmares may simply be the amygdalae unburdening themselves. — location: [988](kindle://book?action=open&asin=B07M82PNSX&location=988) ^ref-26299
+
+From footnote:
+
+You have two of both, so they really should be referred to in the plural, but rarely are.
+
+---
 To help us deal better with this fractional lag, the brain does a truly extraordinary thing: it continuously forecasts what the world will be like a fifth of a second from now, and that is what it gives us as the present. That means that we never see the world as it is at this very instant, but rather as it will be a fraction of a moment in the future. We spend our whole lives, in other words, living in a world that doesn't quite exist yet. — location: [1009](kindle://book?action=open&asin=B07M82PNSX&location=1009) ^ref-52258
 
 ---
@@ -210,6 +218,9 @@ That is because color isn't a fixed reality but a perception. — location: [102
 
 ---
 
+Consider a bar of soap. Has it ever struck you that soap lather is always white no matter what color the soap is? That isn’t because the soap somehow changes color when it is moistened and rubbed. Molecularly, it’s exactly as it was before. It’s just that the foam reflects light in a different way. You get the same effect with crashing waves on a beach—greeny-blue water, white foam—and lots of other phenomena. That is because color isn’t a fixed reality but a perception. — location: [1021](kindle://book?action=open&asin=B07M82PNSX&location=1021) ^ref-49647
+
+---
 Now, however, it is thought that the stimulation was mostly providing the sensation of memory and that what the patients were experiencing was more like a hallucination than a recalled event. — location: [1087](kindle://book?action=open&asin=B07M82PNSX&location=1087) ^ref-9310
 
 ---
@@ -246,6 +257,9 @@ You have two of each, one in each hemisphere, so really they ought to be referre
 
 ---
 
+“The history of epilepsy can be summarised as 4,000 years of ignorance, superstition and stigma followed by 100 years of knowledge, superstition and stigma.” — location: [1225](kindle://book?action=open&asin=B07M82PNSX&location=1225) ^ref-45883
+
+---
 a genuine, spontaneous smile involves the contraction of the orbicularis oculi muscle in each eye, and we have no independent control over those muscles. You can make your mouth smile, but you can't make your eyes sparkle with feigned joy. — location: [1367](kindle://book?action=open&asin=B07M82PNSX&location=1367) ^ref-43802
 
 ---
@@ -274,6 +288,9 @@ eye, which cast a shadow on the retina. — location: [1415](kindle://book?actio
 
 ---
 
+They are clumps of microscopic fibers in the jellylike vitreous humor of your eye, which cast a shadow on the retina. — location: [1414](kindle://book?action=open&asin=B07M82PNSX&location=1414) ^ref-50988
+
+---
 The lens, which gets all the credit in the popular mind, does only about a third of the focusing. — location: [1426](kindle://book?action=open&asin=B07M82PNSX&location=1426) ^ref-34769
 
 ---
@@ -426,6 +443,15 @@ It is disproportionately large in infants, which is why their bellies are so del
 
 ---
 
+When heart muscle downstream of a blockage is deprived of oxygen, it begins to die, usually within about sixty minutes. Any heart muscle we lose in this way is gone forever, which is a bit galling when you consider that other creatures much simpler than we are—zebra fish, for instance—can regrow damaged heart tissue. Why evolution deprived us of this useful facility is yet another of the body’s many imponderables. — location: [1998](kindle://book?action=open&asin=B07M82PNSX&location=1998) ^ref-59150
+
+---
+You discard about a hundred billion red blood cells every day. They are a big component of what makes your stools brown. (Bilirubin, a by-product of the same process, is responsible for the golden glow of urine as well as the yellow blush of fading bruises.) — location: [2165](kindle://book?action=open&asin=B07M82PNSX&location=2165) ^ref-1205
+
+---
+The liver is a gland and it is, compared with the rest of our glands, gigantic. When fully grown, it weighs about 3.3 pounds, roughly the same as the brain, and fills much of the central abdomen just below the diaphragm. It is disproportionately large in infants, which is why their bellies are so delightfully rounded. — location: [2559](kindle://book?action=open&asin=B07M82PNSX&location=2559) ^ref-32368
+
+---
 about a quarter of all your blood is in your liver. — location: [2568](kindle://book?action=open&asin=B07M82PNSX&location=2568) ^ref-49553
 
 ---
@@ -518,6 +544,9 @@ about, and it was this that kept them from accumulating fat. — location: [3094
 
 ---
 
+Levine found that lean people tend to spend two and a half hours more a day on their feet than fat people, not consciously exercising, but just moving about, and it was this that kept them from accumulating fat. — location: [3093](kindle://book?action=open&asin=B07M82PNSX&location=3093) ^ref-59898
+
+---
 That means that little creatures have to produce heat more rapidly than large creatures. — location: [3114](kindle://book?action=open&asin=B07M82PNSX&location=3114) ^ref-27400
 
 ---
@@ -610,6 +639,9 @@ who are not transfixed by a screen. Specifically, children who are reading take 
 
 ---
 
+Children who sit watching television not only are not exercising their lungs as they would if they were at play but even breathe differently from children who are not transfixed by a screen. Specifically, children who are reading take deeper breaths and sigh more often than children watching TV, and that slight difference in respiratory activity may be enough to increase TV watchers’ susceptibility to asthma, according to this theory. — location: [3689](kindle://book?action=open&asin=B07M82PNSX&location=3689) ^ref-32695
+
+---
 Most manufacturers charged a premium price for filtered cigarettes, even though the cost of filters was less than the tobacco they displaced. — location: [3731](kindle://book?action=open&asin=B07M82PNSX&location=3731) ^ref-27556
 
 ---
@@ -758,6 +790,9 @@ get symptoms and for about a week after they recover, which turns every victim i
 
 ---
 
+A successful virus is one that doesn’t kill too well and can circulate widely. That’s what makes flu such a perennial threat. A typical flu renders its victims infectious for about a day before they get symptoms and for about a week after they recover, which turns every victim into a vector. — location: [5338](kindle://book?action=open&asin=B07M82PNSX&location=5338) ^ref-29894
+
+---
 the number of viruses in birds and mammals that have the potential to leap the species barrier and infect us may be as high as 800,000. That is a lot of potential danger.\*2 — location: [5349](kindle://book?action=open&asin=B07M82PNSX&location=5349) ^ref-53050
 
 ---

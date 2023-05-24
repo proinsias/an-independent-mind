@@ -5,6 +5,6 @@
   "isLoggedIn": true,
   "syncOnBoot": true,
   "downloadBookMetadata": true,
-  "fileNameTemplate": "{{title}}",
-  "lastSyncDate": "2023-05-22T16:28:06.305Z"
+  "lastSyncDate": "2023-05-24T02:11:17.026Z",
+  "fileNameTemplate": "{{title}}"
 }

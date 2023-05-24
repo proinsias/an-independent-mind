@@ -1,16 +1,16 @@
 ---
 kindle-sync:
-    bookId: '38306'
-    title: >-
-        Republican Like Me: How I Left the Liberal Bubble and Learned to Love the
-        Right
-    author: Ken Stern
-    asin: B01NC052Y7
-    lastAnnotatedDate: '2019-04-09'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/81bCrd4tWmL._SY160.jpg'
-    highlightsCount: 83
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
+  bookId: '38306'
+  title: >-
+    Republican Like Me: How I Left the Liberal Bubble and Learned to Love the
+    Right
+  author: Ken Stern
+  asin: B01NC052Y7
+  lastAnnotatedDate: '2023-05-22'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81bCrd4tWmL._SY160.jpg'
+  highlightsCount: 76
+date: '2023-05-22 19:10'
+last_modified_at: '2023-05-22 19:10'
 ---
 
 # Republican Like Me
@@ -49,6 +49,9 @@ self-selecting into cities and even neighborhoods that are politically and socia
 
 ---
 
+how Americans are increasingly self-selecting into cities and even neighborhoods that are politically and socially congenial to them. — location: [218](kindle://book?action=open&asin=B01NC052Y7&location=218) ^ref-45888
+
+---
 We are becoming angrier and more polarized not because of increasing issue disagreement but because we are increasingly participating in groupthink. — location: [250](kindle://book?action=open&asin=B01NC052Y7&location=250) ^ref-50151
 
 ---
@@ -65,6 +68,9 @@ on outcomes. — location: [392](kindle://book?action=open&asin=B01NC052Y7&locat
 
 ---
 
+there are just too many lawful and unlawful ways to obtain a gun to believe that new restrictions will make a material impact on outcomes. — location: [392](kindle://book?action=open&asin=B01NC052Y7&location=392) ^ref-21548
+
+---
 But I have learned that it is not, and that if we really want to reduce gun violence, we should be focusing not first upon the weapons but on a lot of things around it: poverty, drugs, race, addressing mental illness, opportunity, and gangs, to name just a few. — location: [424](kindle://book?action=open&asin=B01NC052Y7&location=424) ^ref-51470
 
 ---
@@ -85,6 +91,9 @@ going to err on the side of love and grace." — location: [1095](kindle://book?
 
 ---
 
+The congregation at Wilshire Baptist Church in Dallas voted 577 to 367 to welcome gays as full participants in the church after its pastor declared his “judgment . . . that God is doing something beautiful here. I’m going to err on the side of love and grace.”12 — location: [1093](kindle://book?action=open&asin=B01NC052Y7&location=1093) ^ref-11251
+
+---
 the "common bond of shared kinship" of any stable monogamous relationship, regardless of gender orientation. — location: [1114](kindle://book?action=open&asin=B01NC052Y7&location=1114) ^ref-27651
 
 ---
@@ -113,6 +122,9 @@ committed against a person. — location: [1144](kindle://book?action=open&asin=
 
 ---
 
+Every verse in the Bible that is used to condemn a “homosexual” act is written in the context of rape, prostitution, idolatry, pederasty, military dominance, an affair, or adultery. It was always a destructive act. It was always a sin committed against a person. — location: [1143](kindle://book?action=open&asin=B01NC052Y7&location=1143) ^ref-8260
+
+---
 there is a significant correlation between single-parent households and poverty. In the United States, with relatively limited investments in child care and afterschool programs, the problem is particularly acute. — location: [1175](kindle://book?action=open&asin=B01NC052Y7&location=1175) ^ref-13435
 
 ---
@@ -173,6 +185,18 @@ century, the men and women of the white working class are not postponing sex and
 
 ---
 
+There has been no other public health crisis in the United States in the last half century of similar scale, with the possible exception of the AIDS crisis. It is made further remarkable by the fact that this epidemic—there really is no other word to describe it—has been so badly underreported, and by the fact that these are roughly categorized as “despair deaths.” This is the first major outbreak in modern epidemiological history that has no potential answer from medical science. — location: [1489](kindle://book?action=open&asin=B01NC052Y7&location=1489) ^ref-10863
+
+---
+America is awash in drugs, illegal and legal, and like guns, they are widely available to those who want to use and abuse them. — location: [1498](kindle://book?action=open&asin=B01NC052Y7&location=1498) ^ref-22900
+
+---
+Because dependable blue-collar work is increasingly rare, young adults are in turn increasingly postponing marriage altogether, or seeing marriages disintegrate in the face of economic upheaval. Marriage has declined generally in this country, and remains lowest for blacks, but it has declined the most by far in the white working class. If — location: [1506](kindle://book?action=open&asin=B01NC052Y7&location=1506) ^ref-65397
+
+---
+But, because cultural norms have shifted so much over the last half century, the men and women of the white working class are not postponing sex and children, and are instead creating substitute family life around short-term relationships. — location: [1511](kindle://book?action=open&asin=B01NC052Y7&location=1511) ^ref-47591
+
+---
 members of the white working class have—and are entitled to have—a fairly bleak view of the future. — location: [1523](kindle://book?action=open&asin=B01NC052Y7&location=1523) ^ref-58812
 
 ---
@@ -185,6 +209,9 @@ are unraveling. — location: [1536](kindle://book?action=open&asin=B01NC052Y7&l
 
 ---
 
+By virtually every measure—income, employment, wealth, access to education, marriage rates, and home ownership—working-class whites are still far better off than their equivalent black or Hispanic peers. But that is not the barometer for this group. They measure themselves against previous generations, against their own expectations, against the promise of the American dream, and they find it all wanting. It is the relative decline, the sense of failure, the loss of the opportunities they once had, that fuels the sense that things are unraveling. — location: [1533](kindle://book?action=open&asin=B01NC052Y7&location=1533) ^ref-16096
+
+---
 The siren call of Trump would not work if members of the white working class felt represented in the political process. — location: [1581](kindle://book?action=open&asin=B01NC052Y7&location=1581) ^ref-1616
 
 ---
@@ -297,6 +324,9 @@ support many families with incomes well above the poverty line. — location: [2
 
 ---
 
+Local control, it was argued, would create greater programmatic flexibility and allow for more innovation in helping poor, single mothers find stable jobs. It has not worked out that way: only 8 percent of TANF funding is now spent on work-related supports, and more than a third goes to a grab bag of other services, including after-school programs and college financial aid, that support many families with incomes well above the poverty line. — location: [2871](kindle://book?action=open&asin=B01NC052Y7&location=2871) ^ref-8164
+
+---
 There is a desperate need in our government for clear-eyed, evidence-based analyses that expose nice-sounding but ineffective programs, — location: [2892](kindle://book?action=open&asin=B01NC052Y7&location=2892) ^ref-19057
 
 ---

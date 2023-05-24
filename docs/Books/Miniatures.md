@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '47514'
-    title: 'Miniatures
+    title: 'Miniatures: The Very Short Fiction of John Scalzi'
     author: John Scalzi
     asin: B01NCF8YH6
     lastAnnotatedDate: '2019-03-27'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81T-UTKgoUL._SY160.jpg'
     highlightsCount: 2
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Miniatures

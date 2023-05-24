@@ -1,7 +1,7 @@
 ---
 kindle-sync:
     bookId: '21030'
-    title: 'An Officer and a Spy
+    title: 'An Officer and a Spy: A novel'
     author: Robert Harris
     asin: B00EBRU05I
     lastAnnotatedDate: '2022-12-31'

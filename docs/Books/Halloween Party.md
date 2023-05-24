@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '24611'
-    title: "Hallowe'en Party
+    title: 'Hallowe''en Party: A Hercule Poirot Mystery (Hercule Poirot series Book 36)'
     author: Agatha Christie
     asin: B000FC122I
     lastAnnotatedDate: '2019-03-01'
     bookImageUrl: 'https://m.media-amazon.com/images/I/81Ld+B2QRuL._SY160.jpg'
     highlightsCount: 1
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Halloween Party

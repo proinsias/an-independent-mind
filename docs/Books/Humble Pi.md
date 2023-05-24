@@ -1,14 +1,12 @@
 ---
 kindle-sync:
   bookId: '41948'
-  title: 'Humble Pi
+  title: 'Humble Pi: When Math Goes Wrong in the Real World'
   author: Matt Parker
   asin: B07R8QSXYB
   lastAnnotatedDate: '2023-05-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71G77bxW49L._SY160.jpg'
   highlightsCount: 71
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Humble Pi

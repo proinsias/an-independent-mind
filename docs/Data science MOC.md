@@ -1,7 +1,7 @@
 ---
 title: 'Data science MOC'
 date: 2023-05-06 00:27
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-05-23 21:27
 tags:
     - data-science
 ---
@@ -38,3 +38,8 @@ Via [olddata](https://www.reddit.com/r/datascience/comments/8ljwo8/comment/dzghl
 > -   The folks who started it are dead by the time it's done
 
 Via [teej_m](https://twitter.com/teej_m/status/1316452684350713856).
+
+## Links
+
+* [We read the paper that forced Timnit Gebru out of Google](https://web.archive.org/web/20230000000000*/https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/) (MIT Technology Review).
+* [Unpopular Opinion: Data Scientists Should be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/).

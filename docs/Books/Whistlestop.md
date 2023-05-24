@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '54099'
-    title: 'Whistlestop
+    title: 'Whistlestop: My Favorite Stories from Presidential Campaign History'
     author: John Dickerson
     asin: B01FD96JQ6
     lastAnnotatedDate: '2023-05-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/818+ZmDOGUL._SY160.jpg'
     highlightsCount: 6
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Whistlestop
