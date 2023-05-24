@@ -1,7 +1,7 @@
 ---
 title: "Code review"
 date: 2023-05-23 20:55
-last_modified_at: 2023-05-23 21:00
+last_modified_at: 2023-05-23 21:05
 tags:
   - git
 ---
@@ -19,11 +19,14 @@ tags:
 
 ## Effective pull requests
 
+* Don't delay on sending feedback! The goal should be to merge quickly.
 * Discuss the overall technical approach before coding, not after. 
-* Don’t couple dev tasks 1-to-1 with pull requests. It’s OK to split development of a feature across multiple pull requests. It’s also OK to create pull requests that aren’t associated with a specific task.
-* Use a naming convention to explicitly categorize your code review feedback. The PR submitter should know which code review comments are calling out must-fix issues, and which are simply stylistic feedback, without ambiguity.
+* Don’t couple dev tasks 1-to-1 with pull requests. It’s OK to split development of a feature across multiple pull requests. It’s also OK to create pull requests that aren’t associated with a specific task. Code reviews of large change sets are less effective.
+* Use a naming convention to explicitly categorize your code review feedback. The PR submitter should know which code review comments are calling out must-fix issues, and which are simply stylistic feedback, without ambiguity. For example: BLOCKER, FAST-FOLLOW, NIT.
 * Use tooling and conventions to reduce tedious arguments. 
-* Don't just focus on line-by-line, relatively minor issues. Make sure to spend time on the big pictu much more serious design or architectural problems in the PR.
+* Don't just focus on line-by-line, relatively minor issues. Make sure to spend time on the big picture to find if there are more serious design or architectural problems.
+* Consider fixing just the critical, merge-blocking issues within the same PR, and fixing other, non-critical issues in a fast-follow PR. This allows a PR submitter to merge their changes with less delay, while still addressing all issues raise in code review.
+* Follow the campsite rule and leave it cleaner than you found it. These sort of changes should be made in a separate PR.
 
 ## Miscellaneous
 
