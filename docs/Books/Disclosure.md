@@ -1,14 +1,12 @@
 ---
 kindle-sync:
     bookId: '26435'
-    title: 'Disclosure
+    title: 'Disclosure: A Novel'
     author: Michael Crichton
     asin: B000FC1HPK
     lastAnnotatedDate: '2019-03-27'
     bookImageUrl: 'https://m.media-amazon.com/images/I/41-enThMTRL._SY160.jpg'
     highlightsCount: 7
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Disclosure

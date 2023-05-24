@@ -1,7 +1,7 @@
 ---
 kindle-sync:
     bookId: '15801'
-    title: 'At Home
+    title: 'At Home: A Short History of Private Life'
     author: Bill Bryson
     asin: B003F3FJGY
     lastAnnotatedDate: '2015-06-26'

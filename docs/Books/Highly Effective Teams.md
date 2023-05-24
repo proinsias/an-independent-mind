@@ -1,17 +1,12 @@
 ---
 kindle-sync:
     bookId: '5879'
-    title: >-
-        Highly Effective Teams: How to Transform Teams into Exceptionally Cohesive
-        Professional Networks - a practical guide (Leadership Influence Project and
-        Team Book 1)
+	title: 'Highly Effective Teams: Unleash the Power of Exceptionally Cohesive Teams'
     author: Michael Nir and Chen Nir
     asin: B00B4ZVPQI
     lastAnnotatedDate: '2023-05-17'
     bookImageUrl: 'https://m.media-amazon.com/images/I/71Z3pObG-fL._SY160.jpg'
     highlightsCount: 1
-date: 2023-05-22 19:10
-last_modified_at: 2023-05-22 19:10
 ---
 
 # Highly Effective Teams
