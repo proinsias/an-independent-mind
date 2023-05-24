@@ -12,7 +12,8 @@ tags:
 
 ## The point of code review
 
-* To catch bugs
+* To catch bugs (fresh eyes on code)
+* To increase codebase familiarity
 * To enforce norms
 * To evolve norms
 
@@ -33,3 +34,4 @@ tags:
 ## Links
 
 * [6 Practices for Effective Pull Requests](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/).
+* [Code Review Guidelines for Data Science Teams](https://tdhopper.com/blog/code-review-guidelines).
