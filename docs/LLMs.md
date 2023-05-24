@@ -1,7 +1,7 @@
 ---
 title: "LLMs"
 date: 2023-05-23 11:03
-last_modified_at: 2023-05-24 13:37
+last_modified_at: 2023-05-24 13:51
 tags:
   - data-science
   - llms
@@ -23,7 +23,7 @@ tags:
 		- Trained on vast amount of data (GPT-3.5 ~45 terabytes of data)
 		- Huge number of parameters in the model (GPT-3.5 175 billion)
 	-   Generate human-like text and understand context
-* All current high performing NLP (like BERT) are based on the idea of denoising auto-encoders. (From Machine Learning to Autonomous Intelligence, Yann LeCun, Meta Chief DS)
+* All current high performing NLP (like BERT) are based on the idea of denoising auto-encoders. (From Machine Learning to Autonomous Intelligence webinar, Yann LeCun, Meta Chief DS)
 
 ## ChatGPT
 
