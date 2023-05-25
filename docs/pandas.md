@@ -11,7 +11,16 @@ tags:
 
 # pandas
 
-## Miscellaneous
+## Groups
+
+```python
+# List the 
+
+# Get the DataFrame where the 'A' column is equal to 'foo'.
+df.groupby('A').get_group('foo')
+```
+
+## Nulls
 
 ```python
 # Check for columns in a pandas DataFrame that contain nulls.
