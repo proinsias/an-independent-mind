@@ -1,7 +1,7 @@
 ---
 title: 'pandas'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-05-25 16:08
 tags:
     - pandas
     - python
@@ -11,10 +11,35 @@ tags:
 
 # pandas
 
+## Categories
+
+Missing values should **not** be included in the Categorical’s `categories`, only in the `values`. Instead, it is understood that `np.nan` is different, and is always a possibility. When working with the Categorical’s `codes`, missing values will always have a code of `-1`.
+
+```python
+# List the possible categorical values for a series with "category" dtype.
+s.cat.categories
+
+# Set list of categories.
+s = s.cat.set_categories(new_categories)
+
+# Rename list of categories.
+s = s.cat.rename_categories(new_categories)
+
+# Add new category values.
+s = s.cat.add_categories([4])
+
+# Remove category values - values which are removed are replaced by `np.nan`.
+s = s.cat.remove_categories([4])
+
+# Remove unused category values.
+s = s.cat.remove_unused_categories()
+```
+
 ## Groups
 
 ```python
-# List the 
+# List the possible group names.
+list(g.groups.keys()
 
 # Get the DataFrame where the 'A' column is equal to 'foo'.
 df.groupby('A').get_group('foo')
