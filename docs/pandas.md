@@ -1,7 +1,7 @@
 ---
 title: 'pandas'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-25 16:08
+last_modified_at: 2023-05-25 16:12
 tags:
     - pandas
     - python
@@ -14,6 +14,20 @@ tags:
 ## Categories
 
 Missing values should **not** be included in the Categorical’s `categories`, only in the `values`. Instead, it is understood that `np.nan` is different, and is always a possibility. When working with the Categorical’s `codes`, missing values will always have a code of `-1`.
+
+The memory usage of a `Categorical` is proportional to the number of categories plus the length of the data. In contrast, an `object` dtype is a constant times the length of the data.
+
+```python
+In [1]: s = pd.Series(["foo", "bar"] * 1000)
+
+# object dtype
+In [2]: s.nbytes
+Out[2]: 16000
+
+# category dtype
+In [3]: s.astype("category").nbytes
+Out[3]: 2016
+```
 
 ```python
 # List the possible categorical values for a series with "category" dtype.
@@ -53,4 +67,11 @@ df.columns[pd.isnull(df).sum() > 0]
 
 # Check for null data in pandas DataFrame.
 df.isnull().any().any()
+```
+
+## Series
+
+```python
+# Return the number of bytes in the series.
+s.nbytes
 ```
