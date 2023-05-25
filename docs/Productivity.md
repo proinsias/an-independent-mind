@@ -1,7 +1,7 @@
 ---
 title: "Productivity"
 date: 2023-05-23 21:17
-last_modified_at: 2023-05-23 21:24
+last_modified_at: 2023-05-24 16:34
 tags:
   - productivity
 ---
@@ -17,6 +17,9 @@ tags:
 > No one achieves greatness by becoming a generalist. You don’t hone a skill by diluting your attention to its development. The only way to get to the next level is focus.
 
 – John C. Maxwell
+
+> [Every high performer is fundamentally relaxed, and practices minimal use of effort to get a given result. Don't try harder: eliminate tensions.](https://twitter.com/sanityinc/status/1309974689268129792)
+
 
 ## Links
 
