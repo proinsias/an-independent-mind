@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Obsidian configuration.md",
+                "file": "docs/Code review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Obsidian configuration.md",
+            "file": "docs/Code review.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Obsidian configuration.md",
+            "file": "docs/Code review.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/Obsidian configuration.md"
+            "file": "docs/Code review.md"
           }
         }
       }
@@ -132,8 +132,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0000ab2a8036c0e",
+  "active": "eb8f571a488a8a99",
   "lastOpenFiles": [
+    "docs/Obsidian configuration.md",
     "docs/Command line tools MOC.md",
     "README.md",
     "attachments/1_4nvKxSrAh6_m1v1ZJpXwfA.png",
@@ -163,7 +164,6 @@
     "docs/Books/Miniatures.md",
     "docs/Books/When to Rob a Bank.md",
     "docs/Books/An Inconvenient Sequel Truth to Power.md",
-    "docs/Books/The Theory That Would Not Die.md",
     "docs/Books",
     "docs",
     "LICENSE"
