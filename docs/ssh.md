@@ -1,7 +1,7 @@
 ---
 title: 'ssh'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-26 09:14
+last_modified_at: 2023-05-26 09:21
 tags:
     - command-line-tool
     - ssh
@@ -21,13 +21,17 @@ ed25519 is a cryptography solution implementing Edwards-curve Digital Signature
 -  Its keys are smaller – this, for instance, means that it’s easier to transfer and to copy/paste them.
 
 ```shell
-# 
 ssh-keygen \
 	`# Adds a comment to the generated key.` \
 	-C "gleb@reys.net" \
 	`# Generates a ed25519 key. ` \
 	-t ed25519
+
+# Remove all keys belonging to the specifed hostname from a `known_hosts` file.
+ssh-keygen -R hostname
 ```
+
+## Timeouts
 
 ## Miscellaneous
 
@@ -37,3 +41,7 @@ ssh -C -L 9000:127.0.0.1:8888 -L 5901:127.0.0.1:5901 -l user 1.2.3.4
 ```
 
 #jupyter #vnc
+
+## Links
+
+* [](https://www.bjornjohansen.com/ssh-timeout).
