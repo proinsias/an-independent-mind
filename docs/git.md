@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 13:14
+last_modified_at: 2023-05-26 14:07
 tags:
     - command-line-tool
     - git
@@ -402,6 +402,8 @@ git shortlog --email --numbered --summary
 ## show
 
 ```shell
+git show --name-only
+
 git show --oneline
 ```
 

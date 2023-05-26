@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 13:09
+last_modified_at: 2023-05-26 14:11
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -12,12 +12,33 @@ last_modified_at: 2023-05-26 13:09
 
 ## Command line
 
-```shell
-# Get the full path to file.txt.
-realpath file.txt
+### cowsay
 
-# Get current process PID.
-echo $$
+```shell
+# Use ASCII art to show you a cow saying a fortune
+fortune | cowsay
+```
+
+### shuf
+
+```shell
+# Randomly shuffle lines from file.
+shuf file.txt
+# Randomly shuffle arguments.
+shuf --echo arg1 arg2 arg3
+# Randomly shuffle numbers in range.
+shuf --input-range=1-10
+```
+
+### sponge
+
+Soak up standard input and write to a file.
+
+### say
+
+```shell
+# Speak a fortune out loud.
+say $(fortune)
 ```
 
 ### Split a file into multiple files
@@ -50,17 +71,12 @@ print -rl - ${(k)builtins} ${(k)functions} ${(k)commands}
 find . -type f | awk -F "." '{ print $(NF) }' | sort -u
 ```
 
-### shuf
+### Miscellaneous
 
 ```shell
-# Randomly shuffle lines from file.
-shuf file.txt
-# Randomly shuffle arguments.
-shuf --echo arg1 arg2 arg3
-# Randomly shuffle numbers in range.
-shuf --input-range=1-10
+# Get the full path to file.txt.
+realpath file.txt
+
+# Get current process PID.
+echo $$
 ```
-
-### sponge
-
-Soak up standard input and write to a file.
