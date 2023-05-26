@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 14:11
+last_modified_at: 2023-05-26 14:15
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -12,12 +12,28 @@ last_modified_at: 2023-05-26 14:11
 
 ## Command line
 
-### cowsay
+### cowsay / ponysay
 
 ```shell
-# Use ASCII art to show you a cow saying a fortune
+# Use ASCII art to show you a cow saying a fortune.
+# cowsay has various options to change the appearance of the cow.
 fortune | cowsay
+
+# Use a My Little Pony instead of a cow.
+fortune | ponysay
 ```
+
+### factor
+
+Print the prime factors of each specified integer.
+
+### figlet / toilet
+
+Display large characters made up of ordinary screen characters. There are lots of options to control the appearance of its output.
+
+Toilet is a color-based alternative to figlet.
+
+### 
 
 ### shuf
 
