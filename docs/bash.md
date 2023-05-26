@@ -11,6 +11,13 @@ tags:
 
 # bash
 
+## bash
+
+```shell
+# Start shell without any user configuration.
+bash --noprofile --norc
+```
+
 ## Shortcuts
 
 ```shell
