@@ -4,13 +4,17 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 14:15
+last_modified_at: 2023-05-26 15:21
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
 [Operating systems MOC](Operating%20systems%20MOC.md)
 
 ## Command line
+
+### bc
+
+
 
 ### cowsay / ponysay
 
@@ -33,7 +37,13 @@ Display large characters made up of ordinary screen characters. There are lots o
 
 Toilet is a color-based alternative to figlet.
 
-### 
+### lolcat
+
+Rainbow coloring effect for text console display.
+
+### rig
+
+Provides fake name and address data.
 
 ### shuf
 
