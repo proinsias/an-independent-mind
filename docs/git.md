@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 09:47
+last_modified_at: 2023-05-26 09:50
 tags:
     - command-line-tool
     - git
@@ -353,6 +353,11 @@ git push --set-upstream origin :old_branch_name new_branch_name
 
 # Update remote tags with local tags.
 git push --tags
+
+# Git doesn’t push/pull notes by default.
+# You can explicitly handle remote notes with the following commands.
+git push <remote> refs/notes/*  
+git fetch origin refs/notes/*:refs/notes/*
 ```
 
 ### force-with-lease
@@ -379,6 +384,12 @@ git rev-parse HEAD
 ```shell
 # Produce a top-contributor list with their emails.
 git shortlog --email --numbered --summary
+```
+
+## show
+
+```shell
+git show --oneline
 ```
 
 ## stash
