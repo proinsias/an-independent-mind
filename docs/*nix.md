@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 10:49
+last_modified_at: 2023-05-26 13:09
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -42,6 +42,12 @@ whence -m \*
 
 # List all commands/aliases/functions installed in $PATH.
 print -rl - ${(k)builtins} ${(k)functions} ${(k)commands}
+```
+
+### List all unique extensions for files contained in a directory
+
+```shell
+find . -type f | awk -F "." '{ print $(NF) }' | sort -u
 ```
 
 ### shuf

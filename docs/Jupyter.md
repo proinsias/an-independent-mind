@@ -1,7 +1,7 @@
 ---
 title: "Jupyter"
 date: 2023-05-25 20:36
-last_modified_at: 2023-05-25 20:53
+last_modified_at: 2023-05-26 13:11
 tags:
   - data-science
   - jupyter
@@ -21,6 +21,16 @@ tags:
 # that brings you to the position where the exception has occurred.
 # To exit the debugger hit `q`.
 %debug
+
+# Toggle doctest mode on and off.
+# This mode is intended to make IPython behave
+# as much as possible like a plain Python shell,
+# from the perspective of how its prompts, exceptions and output look.
+# This makes it easy to copy and paste parts of a session into doctests.
+%doctest_mode
+
+# Print input history with most recent last.
+%history
 
 # Render the cell contents as LaTeX.
 %%latex
@@ -83,3 +93,4 @@ InteractiveShell.ast_node_interactivity = "last_expr"
 ## Links
 
 * [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b).
+* [Built-in magic commands¶](https://ipython.readthedocs.io/en/stable/interactive/magics.html).
