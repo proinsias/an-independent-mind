@@ -43,3 +43,18 @@ whence -m \*
 # List all commands/aliases/functions installed in $PATH.
 print -rl - ${(k)builtins} ${(k)functions} ${(k)commands}
 ```
+
+### shuf
+
+```
+# Randomly shuffle lines from file.
+shuf file.txt
+# Randomly shuffle arguments.
+shuf --echo arg1 arg2 arg3
+# Randomly shuffle numbers in range.
+shuf --input-range=1-10
+```
+
+### sponge
+
+Soak up standard input and write to a file.
