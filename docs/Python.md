@@ -14,6 +14,15 @@ tags:
 list from [[]] and !outgoing([[]])
 ```
 
+## Enum
+
+```python
+# List names of enum elements.
+[e.name for e in Color]
+# List values of enum elements.
+[e.value for e in Color]
+```
+
 ## Miscellaneous
 
 ### Running python scripts with the ‘i’ option
