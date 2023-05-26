@@ -70,7 +70,7 @@ It is good to avoid red boxes but can be used to alert users to not delete some 
 
 It is a normal property of the cell that only the last output gets printed and for the others, we need to add the `print()` function. Well, it turns out that we can print all the outputs just by adding the following snippet at the top of the notebook.
 
-```
+```python
 from IPython.core.interactiveshell import InteractiveShell  InteractiveShell.ast_node_interactivity = "all"
 ```
 
