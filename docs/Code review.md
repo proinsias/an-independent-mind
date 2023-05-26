@@ -91,4 +91,4 @@ Per [Google’s Code Review Guidelines](https://google.github.io/eng-practices/
 * [6 Practices for Effective Pull Requests](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/).
 * [Code Review Guidelines for Data Science Teams](https://tdhopper.com/blog/code-review-guidelines).
 * [Thoughtbot Code Review Guide](https://github.com/thoughtbot/guides/tree/main/code-review).
-* []()
+
