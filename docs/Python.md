@@ -14,6 +14,14 @@ tags:
 list from [[]] and !outgoing([[]])
 ```
 
+## Dictionary
+
+```python
+# Create dictionary from two lists.
+dict(zip(keys, values))
+#
+```
+
 ## Enum
 
 ```python

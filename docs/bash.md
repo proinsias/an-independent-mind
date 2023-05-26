@@ -1,7 +1,7 @@
 ---
 title: "bash"
 date: 2023-05-23 16:34
-last_modified_at: 2023-05-23 21:34
+last_modified_at: 2023-05-26 12:59
 tags:
   - bash
   - nix
@@ -14,8 +14,11 @@ tags:
 ## bash
 
 ```shell
-# Start shell without any user configuration.
-bash --noprofile --norc
+# Start shell without any configuration.
+env --ignore-environment bash --noprofile --norc
+
+# Start shell with only system-wide configuration.
+env --ignore-environment bash --rcfile /etc/profile
 ```
 
 ## Shortcuts
