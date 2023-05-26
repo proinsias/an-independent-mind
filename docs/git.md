@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 09:38
+last_modified_at: 2023-05-26 09:41
 tags:
     - command-line-tool
     - git
@@ -237,6 +237,9 @@ Via [jbranchaud](https://github.com/jbranchaud/til/blob/master/git/caching-crede
 ## diff
 
 ```shell
+# Diff between two commits.
+git diff HEAD~2 HEAD~1
+
 # Show you the difference between that COMMIT's ancestor and the COMMIT.
 git diff COMMIT^ COMMIT
 
@@ -281,6 +284,8 @@ git log --before="MMM DD YYYY"
 
 # Only show commits involved in current merge conflicts.
 git log --merge
+
+git log --oneline
 ```
 
 ### Show the history of a function or line of code
@@ -349,11 +354,18 @@ To summarize Git's [documentation](https://git-scm.com/docs/git-push#git-push---
 
 Via [medium.freecodecamp.com](https://web.archive.org/web/20170531085421/https://medium.freecodecamp.com/git-please-a182f28efeb5).
 
+## rev-parse
+
+```shell
+# Get the current commit.
+git rev-parse HEAD
+```
+
 ## shortlog
 
 ```shell
-# Produce a top-contributor list.
-git shortlog --numbered --summary
+# Produce a top-contributor list with their emails.
+git shortlog --email --numbered --summary
 ```
 
 ## stash
