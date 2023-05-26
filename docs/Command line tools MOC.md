@@ -16,6 +16,14 @@ where file.name != "README"
 
 ## Miscellaneous
 
+### shuf
+
+```
+# Randomly shuffle lines from file.
+shuf file.txt
+# Randomly shuffle 
+```
+
 ## Links
 
 -   [shot-scraper](https://shot-scraper.datasette.io/en/stable/index.html): A command-line utility for taking automated screenshots of websites.
