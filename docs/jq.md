@@ -1,7 +1,7 @@
 ---
 title: "jq"
 date: 2023-05-26 10:43
-last_modified_at: 2023-05-26 10:51
+last_modified_at: 2023-05-26 10:59
 tags:
   - command-line-tool
   - jq
