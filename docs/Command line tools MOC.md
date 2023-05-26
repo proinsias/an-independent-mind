@@ -1,7 +1,7 @@
 ---
 title: 'Command line tools'
 date: 2023-05-04 09:13
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-05-26 10:42
 tags:
     - command-line-tool
 ---
@@ -16,12 +16,24 @@ where file.name != "README"
 
 ## Miscellaneous
 
+### wttr.in
+
+```
+# Get weather for current location.
+curl --silent wttr.in
+# Get weather for specific location.
+curl --silent wttr.in/Baltimore,MD
+```
+
 ### shuf
 
 ```
 # Randomly shuffle lines from file.
 shuf file.txt
-# Randomly shuffle 
+# Randomly shuffle arguments.
+shuf --echo arg1 arg2 arg3
+# Randomly shuffle numbers in range.
+shuf --input-range=1-10
 ```
 
 ## Links
