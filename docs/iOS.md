@@ -1,19 +1,15 @@
 ---
 title: "iOS"
 date: 2023-05-25 20:26
-last_modified_at: 2023-05-25 20:30
+last_modified_at: 2023-05-25 20:33
 tags:
   - iOS
+  - operating-system
 ---
 
-### [[YOUR MOC]]
+### [Operating systems MOC](Operating%20systems%20MOC.md)
 
 # iOS
-
-```dataview
-list from [[]] and !outgoing([[]])
-```
-
 
 ## Links
 
