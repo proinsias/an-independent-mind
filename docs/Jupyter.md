@@ -1,7 +1,7 @@
 ---
 title: "Jupyter"
 date: 2023-05-25 20:36
-last_modified_at: 2023-05-25 20:45
+last_modified_at: 2023-05-25 20:53
 tags:
   - data-science
   - jupyter
