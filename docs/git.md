@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 09:41
+last_modified_at: 2023-05-26 09:47
 tags:
     - command-line-tool
     - git
@@ -286,6 +286,9 @@ git log --before="MMM DD YYYY"
 git log --merge
 
 git log --oneline
+
+# See https://git-scm.com/docs/pretty-formats for format options.
+git log --format="%Cgreen%h%Creset %an"
 ```
 
 ### Show the history of a function or line of code
@@ -314,6 +317,16 @@ git merge --abort
 # Append one-line commit message from all commits in the branch to be merged to the commit message.
 # Makes it easier to remember what you've done.
 git merge --log
+```
+
+## notes
+
+```shell
+# Link a note to the current commit.
+git notes add -m "Test note"
+
+# Link a multiline long note.
+git notes add
 ```
 
 ## pull
@@ -429,3 +442,7 @@ GIT_CURL_VERBOSE=1 GIT_TRACE=1 git clone <repo url>
 ```
 
 Via [haacked.com](http://haacked.com/archive/2014/07/28/github-flow-aliases/).
+
+## Links
+
+* [Git pretty formats](https://git-scm.com/docs/pretty-formats).
