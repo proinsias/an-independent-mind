@@ -1,7 +1,7 @@
 ---
 title: "jq"
 date: 2023-05-26 10:43
-last_modified_at: 2023-05-26 10:48
+last_modified_at: 2023-05-26 10:51
 tags:
   - command-line-tool
   - jq
@@ -10,6 +10,13 @@ tags:
 ### [Command line tools MOC](Command%20line%20tools%20MOC.md)
 
 # jq
+
+## Add element(s)
+
+```shell
+# Add elements in place using spong
+jq '. + {"debug": { "saveFeatures": true }}' $file | sponge $file
+```
 
 ## Delete element(s)
 
@@ -27,3 +34,5 @@ jq '.topElement.bottomElement|length' file.json
 ## Miscellaneous
 
 ## Links
+
+* [Awesome jq tools and resources](https://github.com/fiatjaf/awesome-jq).

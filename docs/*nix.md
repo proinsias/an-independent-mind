@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-23 16:36
+last_modified_at: 2023-05-26 10:49
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -46,7 +46,7 @@ print -rl - ${(k)builtins} ${(k)functions} ${(k)commands}
 
 ### shuf
 
-```
+```shell
 # Randomly shuffle lines from file.
 shuf file.txt
 # Randomly shuffle arguments.
