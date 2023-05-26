@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 13:05
+last_modified_at: 2023-05-26 13:14
 tags:
     - command-line-tool
     - git
@@ -93,6 +93,9 @@ git branch [-r | --remotes]
 
 # See the last commit on each branch.
 git branch -v
+
+# Delete all Git branches that have been merged.
+git branch --delete $(git branch --merged master --no-contains master --format='%(refname:short)')
 ```
 
 ## bundle
