@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 09:50
+last_modified_at: 2023-05-26 13:05
 tags:
     - command-line-tool
     - git
@@ -233,6 +233,16 @@ git config --global credential.helper 'cache --timeout=300'  # In seconds.
 ```
 
 Via [jbranchaud](https://github.com/jbranchaud/til/blob/master/git/caching-credentials.md).
+
+## count-objects
+
+```shell
+# Count unpacked number of objects and their disk consumption.
+git count-objects
+
+# Report in more detail and in human readable format.
+git count-objects --human-readable --verbose
+```
 
 ## diff
 

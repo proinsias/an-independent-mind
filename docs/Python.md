@@ -1,7 +1,7 @@
 ---
 title: 'Python'
 date: 2023-05-04 09:05
-last_modified_at: 2023-05-26 09:13
+last_modified_at: 2023-05-26 13:03
 tags:
     - programming
 ---
@@ -19,7 +19,8 @@ list from [[]] and !outgoing([[]])
 ```python
 # Create dictionary from two lists.
 dict(zip(keys, values))
-#
+# or
+{key: value for key, value in zip(keys, values)}
 ```
 
 ## Enum
