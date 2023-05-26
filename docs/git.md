@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-24 10:39
+last_modified_at: 2023-05-26 09:38
 tags:
     - command-line-tool
     - git
@@ -10,31 +10,6 @@ tags:
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
 
 # git
-
-## Miscellaneous
-
-### Running git commands in another directory
-
-`git` has `-C`, `--work-tree` and `--git-dir` options, but these are not always respected. Instead just use a subshell:
-
-```shell
-(cd /other/path && git push)
-ssh machine "(cd /other/path && git pull)"
-```
-
-### Git keep files
-
-Git cannot add a completely empty directory. People who want to track empty directories in Git have created the convention of putting files called `.gitkeep` in these directories. The file could be called anything; Git assigns no special significance to this name.
-
-Via [Stack Overflow](http://stackoverflow.com/a/7229996/1257318).
-
-### Verbose output
-
-```shell
-GIT_CURL_VERBOSE=1 GIT_TRACE=1 git clone <repo url>
-```
-
-Via [haacked.com](http://haacked.com/archive/2014/07/28/github-flow-aliases/).
 
 ## add
 
@@ -374,11 +349,11 @@ To summarize Git's [documentation](https://git-scm.com/docs/git-push#git-push---
 
 Via [medium.freecodecamp.com](https://web.archive.org/web/20170531085421/https://medium.freecodecamp.com/git-please-a182f28efeb5).
 
-## switch
+## shortlog
 
 ```shell
-# Go back to previous branch.
-git switch -
+# Produce a top-contributor list.
+git shortlog --numbered --summary
 ```
 
 ## stash
@@ -398,6 +373,13 @@ git stash [-u | --include-untracked]
 git submodule add <repo url> repo
 ```
 
+## switch
+
+```shell
+# Go back to previous branch.
+git switch -
+```
+
 ## tag
 
 ```shell
@@ -410,3 +392,28 @@ git tag -l 'v1.4.*'
 # Create annotated, gpg-signed tag.
 git tag --annotate --sign v2.1.0 --message 'Version 2.1.0'
 ```
+
+## Miscellaneous
+
+### Running git commands in another directory
+
+`git` has `-C`, `--work-tree` and `--git-dir` options, but these are not always respected. Instead just use a subshell:
+
+```shell
+(cd /other/path && git push)
+ssh machine "(cd /other/path && git pull)"
+```
+
+### Git keep files
+
+Git cannot add a completely empty directory. People who want to track empty directories in Git have created the convention of putting files called `.gitkeep` in these directories. The file could be called anything; Git assigns no special significance to this name.
+
+Via [Stack Overflow](http://stackoverflow.com/a/7229996/1257318).
+
+### Verbose output
+
+```shell
+GIT_CURL_VERBOSE=1 GIT_TRACE=1 git clone <repo url>
+```
+
+Via [haacked.com](http://haacked.com/archive/2014/07/28/github-flow-aliases/).
