@@ -1,7 +1,7 @@
 ---
 title: "Code review"
 date: 2023-05-23 20:55
-last_modified_at: 2023-05-26 13:26
+last_modified_at: 2023-05-28 21:49
 tags:
   - git
 ---
@@ -46,7 +46,7 @@ Per [Google’s Code Review Guidelines](https://google.github.io/eng-practices/
 
 * Link to the code review from the ticket/story.
 * Discuss the overall technical approach *before* coding, not after. 
-* Use informative commit messages to help reviewer understand the decisions you made.
+* Use informative [Commit messages](Commit%20messages.md) to help reviewer understand the decisions you made.
 * Write a pull request description that sets your reviewer up for success by helping them understand why the code exists and what the PR intends to accomplish.
 	* Imagine that the code reviewer is arriving in your team today without knowing what is going on, and even so, they should be able to understand the changes.
 	* Describe what was changed in the pull request.

@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 18:12
+last_modified_at: 2023-05-26 21:04
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -14,7 +14,7 @@ last_modified_at: 2023-05-26 18:12
 
 ### bc
 
-
+Arbitrary-precision decimal arithmetic language and calculator.
 
 ### cowsay / ponysay
 

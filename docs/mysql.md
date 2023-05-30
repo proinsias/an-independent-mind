@@ -1,7 +1,7 @@
 ---
 title: 'mysql'
 date: 2023-05-04 09:01
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-05-28 21:46
 tags:
     - command-line-tool
     - database
@@ -14,6 +14,21 @@ tags:
 [sql](sql.md)
 
 # mysql
+
+## having
+
+Use the `HAVING` clause with the `GROUP BY` clause to specify a filter condition for groups of rows or aggregates. If you omit the `GROUP BY` clause, the `HAVING` clause behaves like the `WHERE` clause.
+
+```mysql
+SELECT
+    ordernumber,
+    SUM(quantityOrdered) AS itemsCount,
+    SUM(priceeach*quantityOrdered) AS total
+FROM orderdetails
+GROUP BY ordernumber
+HAVING total > 1000
+;
+```
 
 ## Miscellaneous CLI
 

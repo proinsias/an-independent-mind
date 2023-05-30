@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-26 14:07
+last_modified_at: 2023-05-28 21:27
 tags:
     - command-line-tool
     - git
@@ -385,6 +385,13 @@ To summarize Git's [documentation](https://git-scm.com/docs/git-push#git-push---
 
 Via [medium.freecodecamp.com](https://web.archive.org/web/20170531085421/https://medium.freecodecamp.com/git-please-a182f28efeb5).
 
+## reflog
+
+```shell
+# List all commits containing foo.txt.
+git reflog -- foo.txt
+```
+
 ## rev-parse
 
 ```shell
@@ -442,6 +449,10 @@ git tag -l 'v1.4.*'
 
 # Create annotated, gpg-signed tag.
 git tag --annotate --sign v2.1.0 --message 'Version 2.1.0'
+
+# Create annotated, gpg-signed tag from a previous commit.
+git tag --annotate --sign v2.1.0 --message 'Version 2.1.0' 9fceb02
+
 ```
 
 ## Miscellaneous
