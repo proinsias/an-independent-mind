@@ -322,10 +322,11 @@ My motto is "never say die." — location: [4472](kindle://book?action=open&asin
 
 ---
 
-## Non-Kindle Data
-
-### [Books MOC](Books%20MOC.md)
-
 I’m a real anti-stickler stickler and adamantly use “dice” as a singular. My motto is “never say die.” — location: [4472](kindle://book?action=open&asin=B07R8QSXYB&location=4472) ^ref-6418
 
 ---
+
+## Non-Kindle Data
+
+### [Books MOC](Books%20MOC.md)
+#reviewed

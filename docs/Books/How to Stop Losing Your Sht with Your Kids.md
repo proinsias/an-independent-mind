@@ -1,6 +1,7 @@
 ---
 tags:
     - book
+    - reviewed
     - Family & Relationships
 title: 'How to Stop Losing Your Sh*t with Your Kids'
 subtitle: A Practical Guide to Becoming a Calmer, Happier Parent

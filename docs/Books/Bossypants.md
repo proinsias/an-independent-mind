@@ -23,3 +23,7 @@ I think someone should design exercise machines that reward people with sex at t
 When it’s true, it doesn’t need to be said. — location: [2465](kindle://book?action=open&asin=B0047Y0FGY&location=2465) ^ref-56437
 
 ---
+## Non-Kindle Data
+
+### [Books MOC](Books%20MOC.md)
+#reviewed

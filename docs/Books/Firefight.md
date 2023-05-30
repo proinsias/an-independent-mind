@@ -1,6 +1,7 @@
 ---
 tags:
     - book
+    - reviewed
 title: 'Firefight'
 subtitle:
 author: Brandon Sanderson
