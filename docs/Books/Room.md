@@ -20,3 +20,8 @@ kindle-sync:
 zeitgeisty.” — location: [3768](kindle://book?action=open&asin=B003YFIUW8&location=3768) ^ref-62084
 
 ---
+
+## Non-Kindle Data
+
+### [Books MOC](Books%20MOC.md)
+#toreview 
