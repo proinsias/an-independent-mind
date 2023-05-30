@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 21:04
+last_modified_at: 2023-05-30 09:40
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
