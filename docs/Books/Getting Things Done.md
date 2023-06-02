@@ -71,7 +71,12 @@ by [[David Allen]]
 > The Six-Level Model for Reviewing Your Own Work:
 > 
 > * 50,000+ feet: Life
+> 	* Why does your company exist?
+> 	* Why do you exist?
 > * 40,000 feet: Three- to five-year vision
+> 	* Career development to adapt to changes
+> 	* Family goals
+> 	* Financial goals
 > * 30,000 feet: One- to two-year goals
 > * 20,000 feet: Areas of responsibility
 > 	* Work
@@ -82,6 +87,7 @@ by [[David Allen]]
 > 		* Health
 > 		* Family
 > 		* Finances
+> 		* Home
 > 		* Spirituality
 > 		* Recreation
 > * 10,000 feet: Current projects
