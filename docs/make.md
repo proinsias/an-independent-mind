@@ -98,3 +98,6 @@ Then when you run `make`, the default value for `BINDIR` will be `/usr/local/bin
 ```text
 make BINDIR=/usr/bin
 ```
+
+## Links
+[Makefile tricks for Python projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/).

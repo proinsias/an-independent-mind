@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b964af5a84f0991",
+        "id": "854645521ec8fcac",
         "type": "tabs",
         "children": [
           {
-            "id": "c0000ab2a8036c0e",
+            "id": "5e6fd40486d2111f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Code review.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/Code review.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/Code review.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "docs/Code review.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,8 +124,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0000ab2a8036c0e",
+  "active": "5e6fd40486d2111f",
   "lastOpenFiles": [
+    "docs/make.md",
+    "docs/Code review.md",
     "docs/Obsidian configuration.md",
     "docs/Command line tools MOC.md",
     "README.md",
@@ -162,8 +156,6 @@
     "docs/Books/The Subtle Art of Not Giving a Fck.md",
     "docs/Books/Ready Player Two.md",
     "docs/Books/Miniatures.md",
-    "docs/Books/When to Rob a Bank.md",
-    "docs/Books/An Inconvenient Sequel Truth to Power.md",
     "docs/Books",
     "docs",
     "LICENSE"
