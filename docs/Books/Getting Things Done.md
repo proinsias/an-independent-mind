@@ -62,4 +62,27 @@ by [[David Allen]]
 
 – Elbert Hubbard
 
-> Everything should be mad
+> Everything should be made as simple as possible, but not simpler.
+
+– Albert Einstein
+
+> It's a good habit, as soon as you conclude an action on your calendar (a meeting, a phone call, the final draft of a report), to check and see what else remains to be done.
+
+> The Six-Level Model for Reviewing Your Own Work:
+> 
+> * 50,000+ feet: Life
+> * 40,000 feet: Three- to five-year vision
+> * 30,000 feet: One- to two-year goals
+> * 20,000 feet: Areas of responsibility
+> 	* Work
+> 		* Strategic planning
+> 		* Staff development
+> 		* ...
+> 	* Personal
+> 		* Health
+> 		* Family
+> 		* Finances
+> 		* Spirituality
+> 		* Recreation
+> * 10,000 feet: Current projects
+> * Runway: Current actions
