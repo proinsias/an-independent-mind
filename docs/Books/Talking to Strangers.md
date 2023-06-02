@@ -206,11 +206,11 @@ Encinia caused the infraction. — location: [3853](kindle://book?action=open&as
 
 ---
 
-## Non-Kindle Data
-
-### [Books MOC](Books%20MOC.md)
-
-
 the same police officer who forced her to change lanes is giving her a ticket for improperly changing lanes. Encinia caused the infraction. — location: [3852](kindle://book?action=open&asin=B07NDKVWZW&location=3852) ^ref-3094
 
 ---
+
+## Non-Kindle Data
+
+### [Books MOC](Books%20MOC.md)
+#reviewed

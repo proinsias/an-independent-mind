@@ -25,10 +25,10 @@ Ruy Lopez—one — location: [1475](kindle://book?action=open&asin=B000FC10T8&l
 
 ---
 
-## Non-Kindle Data
-
-### [Books MOC](Books%20MOC.md)
-
 Wilson opened Ruy Lopez—one of the soundest openings there is, and one frequently adopted in tournaments and matches." — location: [1474](kindle://book?action=open&asin=B000FC10T8&location=1474) ^ref-8631
 
 ---
+## Non-Kindle Data
+
+### [Books MOC](Books%20MOC.md)
+#reviewed

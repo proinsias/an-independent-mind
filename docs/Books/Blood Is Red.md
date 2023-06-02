@@ -21,3 +21,7 @@ kindle-sync:
 make your mouth write a check your body can’t cash. — location: [1821](kindle://book?action=open&asin=B004ZG8VVU&location=1821) ^ref-11075
 
 ---
+## Non-Kindle Data
+
+### [Books MOC](Books%20MOC.md)
+#reviewed

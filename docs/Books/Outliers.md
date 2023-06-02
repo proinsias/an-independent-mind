@@ -1,6 +1,7 @@
 ---
 tags:
     - book
+    - reviewed
     - psychology
 title: 'Outliers'
 subtitle: The Story of Success

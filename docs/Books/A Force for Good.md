@@ -403,7 +403,4 @@ That’s why there is a website that mirrors this book, inviting anyone who feel
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
-
-### Tags
-
--   #motivation
+#reviewed #motivation

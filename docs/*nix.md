@@ -4,7 +4,7 @@ tags:
     - nix
     - operating-system
 date: 2023-05-06 00:18
-last_modified_at: 2023-05-26 13:09
+last_modified_at: 2023-05-30 09:40
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)
@@ -12,12 +12,59 @@ last_modified_at: 2023-05-26 13:09
 
 ## Command line
 
-```shell
-# Get the full path to file.txt.
-realpath file.txt
+### bc
 
-# Get current process PID.
-echo $$
+Arbitrary-precision decimal arithmetic language and calculator.
+
+### cowsay / ponysay
+
+```shell
+# Use ASCII art to show you a cow saying a fortune.
+# cowsay has various options to change the appearance of the cow.
+fortune | cowsay
+
+# Use a My Little Pony instead of a cow.
+fortune | ponysay
+```
+
+### factor
+
+Print the prime factors of each specified integer.
+
+### figlet / toilet
+
+Display large characters made up of ordinary screen characters. There are lots of options to control the appearance of its output.
+
+Toilet is a color-based alternative to figlet.
+
+### lolcat
+
+Rainbow coloring effect for text console display.
+
+### rig
+
+Provides fake name and address data.
+
+### shuf
+
+```shell
+# Randomly shuffle lines from file.
+shuf file.txt
+# Randomly shuffle arguments.
+shuf --echo arg1 arg2 arg3
+# Randomly shuffle numbers in range.
+shuf --input-range=1-10
+```
+
+### sponge
+
+Soak up standard input and write to a file.
+
+### say
+
+```shell
+# Speak a fortune out loud.
+say $(fortune)
 ```
 
 ### Split a file into multiple files
@@ -50,17 +97,12 @@ print -rl - ${(k)builtins} ${(k)functions} ${(k)commands}
 find . -type f | awk -F "." '{ print $(NF) }' | sort -u
 ```
 
-### shuf
+### Miscellaneous
 
 ```shell
-# Randomly shuffle lines from file.
-shuf file.txt
-# Randomly shuffle arguments.
-shuf --echo arg1 arg2 arg3
-# Randomly shuffle numbers in range.
-shuf --input-range=1-10
+# Get the full path to file.txt.
+realpath file.txt
+
+# Get current process PID.
+echo $$
 ```
-
-### sponge
-
-Soak up standard input and write to a file.

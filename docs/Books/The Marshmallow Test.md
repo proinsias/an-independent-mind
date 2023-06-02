@@ -3,6 +3,7 @@ tags:
   - book
   - non-fiction
   - psychology
+  - reviewed
 title: "The Marshmallow Test"
 subtitle: Mastering Self-Control
 author: Walter Mischel

@@ -25,7 +25,7 @@ last_modified_at: 2023-05-22 19:10
 History was interesting to the extent that it was catastrophic and, while that might make absorbing viewing, it made horrible living. — location: [816](kindle://book?action=open&asin=B0024NP57Y&location=816) ^ref-35474
 
 ---
-
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
+#reviewed

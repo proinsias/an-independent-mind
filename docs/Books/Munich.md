@@ -28,3 +28,4 @@ The corruption of honest patriotism was one of the many things for which Hartman
 ## Non-Kindle Data
 
 ### [Books MOC](Books%20MOC.md)
+#reviewed

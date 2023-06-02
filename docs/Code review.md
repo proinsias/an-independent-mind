@@ -1,7 +1,7 @@
 ---
 title: "Code review"
 date: 2023-05-23 20:55
-last_modified_at: 2023-05-26 13:17
+last_modified_at: 2023-05-30 09:40
 tags:
   - git
 ---
@@ -46,12 +46,19 @@ Per [Google’s Code Review Guidelines](https://google.github.io/eng-practices/
 
 * Link to the code review from the ticket/story.
 * Discuss the overall technical approach *before* coding, not after. 
-* Use informative commit messages to help reviewer understand the decisions you made.
-* Write a pull request description that sets your reviewer up for success by helping them understand why the code exists and what the PR intends to accomplish. If you have a particularly complex PR, consider doing a code walk-through with a reviewer first.
+* Use informative [Commit messages](Commit%20messages.md) to help reviewer understand the decisions you made.
+* Write a pull request description that sets your reviewer up for success by helping them understand why the code exists and what the PR intends to accomplish.
+	* Imagine that the code reviewer is arriving in your team today without knowing what is going on, and even so, they should be able to understand the changes.
+	* Describe what was changed in the pull request.
+	* Explain why this PR exists.
+	* Make it clear how it does what it sets out to do. E.g., Does it change a column in the database? How is this being done? What happens to the old data?
+	* Use screenshots to demonstrate what has changed.
 * Don’t couple dev tasks 1-to-1 with pull requests. It’s OK to split development of a feature across multiple pull requests. It’s also OK to create pull requests that aren’t associated with a specific task. Code reviews of large change sets are less effective.
 	* Practice feature breakdown - understanding a big feature and breaking it into small pieces that make sense and can be merged into the codebase piece by piece without breaking anything.
+	* This is a form of single responsibility principle – pull requests should do only one thing and try to solve only one problem.
 	* Keep pull requests short whenever possible. `git diff --shortstat origin/main` will show you the size of your branch's diff from main; under 400 lines changed is a great [goal](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/).
 	* [10 lines of code = 10 issues. 500 lines of code = "looks fine." Code reviews.](https://twitter.com/iamdevloper/status/397664295875805184).
+	* If you have a particularly complex PR, consider doing a code walk-through with a reviewer first.
 *  Follow the campsite rule and leave the codebase cleaner than you found it – though these sort of changes should be made in a separate PR.
 
 #### During the review
@@ -91,4 +98,4 @@ Per [Google’s Code Review Guidelines](https://google.github.io/eng-practices/
 * [6 Practices for Effective Pull Requests](https://blog.thepete.net/blog/2019/05/10/6-practices-for-effective-pull-requests/).
 * [Code Review Guidelines for Data Science Teams](https://tdhopper.com/blog/code-review-guidelines).
 * [Thoughtbot Code Review Guide](https://github.com/thoughtbot/guides/tree/main/code-review).
-
+* [The anatomy of a perfect pull request](https://hugooodias.medium.com/the-anatomy-of-a-perfect-pull-request-567382bb6067).
