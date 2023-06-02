@@ -1,12 +1,12 @@
 ---
 kindle-sync:
-    bookId: '27526'
-    title: 'Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime'
-    author: Sean Carroll
-    asin: B07NTYJJDX
-    lastAnnotatedDate: '2022-05-07'
-    bookImageUrl: 'https://m.media-amazon.com/images/I/81-dTgsNAML._SY160.jpg'
-    highlightsCount: 73
+  bookId: '27526'
+  title: 'Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime'
+  author: Sean Carroll
+  asin: B07NTYJJDX
+  lastAnnotatedDate: '2023-05-24'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81-dTgsNAML._SY160.jpg'
+  highlightsCount: 69
 ---
 
 # Something Deeply Hidden
@@ -53,6 +53,9 @@ modes. When we observe such a system, we see those discrete possibilities. That'
 
 ---
 
+The word “quantum,” referring to some definite amount of stuff, can give the impression that quantum mechanics describes a world that is fundamentally discrete and pixelated, like when you zoom in closely on a computer monitor or TV screen. It’s actually the opposite; quantum mechanics describes the world as a smooth wave function. But in the right circumstances, where individual parts of the wave function are tied down in a certain way, the wave takes the form of a combination of distinct vibrational modes. When we observe such a system, we see those discrete possibilities. That’s true for orbits of electrons, and it will also explain why quantum fields look like sets of individual particles. In quantum mechanics, the world is fundamentally wavy; its apparent quantum discreteness comes from the particular way those waves are able to vibrate. — location: [954](kindle://book?action=open&asin=B07NTYJJDX&location=954) ^ref-50843
+
+---
 It's not that we can't know position and momentum, it's that they don't even exist at the same time. — location: [1061](kindle://book?action=open&asin=B07NTYJJDX&location=1061) ^ref-35604
 
 ---
@@ -65,6 +68,9 @@ same time; it's just a fact about how wave functions work that if position is co
 
 ---
 
+That’s the uncertainty principle. It’s not that we can’t know both quantities at the same time; it’s just a fact about how wave functions work that if position is concentrated near some location, momentum is completely undetermined, and vice versa. — location: [1103](kindle://book?action=open&asin=B07NTYJJDX&location=1103) ^ref-50374
+
+---
 The uncertainty principle is a statement about the nature of quantum states and their relationship to observable quantities, not a statement about the physical act of measurement. — location: [1112](kindle://book?action=open&asin=B07NTYJJDX&location=1112) ^ref-65454
 
 ---
@@ -265,6 +271,9 @@ and a positron change into a photon and then change back. For one thing, real ph
 
 ---
 
+It’s not literally true that an electron and a positron change into a photon and then change back. For one thing, real photons move at the speed of light, while electron/positron pairs (either the individual particles or the center of mass of a pair of them) do not. — location: [4469](kindle://book?action=open&asin=B07NTYJJDX&location=4469) ^ref-18714
+
+---
 What we mean by "virtual particles" are subtle distortions in the wave function of a collection of quantum fields. — location: [4485](kindle://book?action=open&asin=B07NTYJJDX&location=4485) ^ref-53989
 
 ---
@@ -309,6 +318,9 @@ effective field theory—one — location: [4549](kindle://book?action=open&asin
 
 ---
 
+By admitting our ignorance in this way, what we’re left with is an effective field theory—one that doesn’t presume to be an exact description of anything, but one that can successfully fit the data we actually have. — location: [4548](kindle://book?action=open&asin=B07NTYJJDX&location=4548) ^ref-35091
+
+---
 It's common for quotations to be reattributed to plausible speakers who are more famous than the actual source of the quote. Sociologist Robert Merton has dubbed this the Matthew Effect, after a line from the Gospel of Matthew: "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath." — location: [5848](kindle://book?action=open&asin=B07NTYJJDX&location=5848) ^ref-16864
 
 ---
