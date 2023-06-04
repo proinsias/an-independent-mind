@@ -1,7 +1,7 @@
 ---
 title: 'Management MOC'
 date: 2023-05-05 16:13
-last_modified_at: 2023-05-24 10:46
+last_modified_at: 2023-06-03 21:06
 tags:
     - management
 ---
@@ -27,6 +27,14 @@ From [Sully](Sully.md).
 > Great leaders aren’t the ones who do more; they’re the ones who know how to prioritize best. They’re the ones who make time to really investigate problems and come up with rock-solid solutions. They’re the ones who make time to act deliberately.
 
 From [Making Time To Act Deliberately](https://statushero.com/blog/making-time-to-act-deliberately/).
+
+> Talk like you are right but listen like you are wrong.
+
+Not attributed.
+
+> Ensuring that they are in their “zone of genius” - an intersection of what they are good at, what they like to be doing, and what the team needs.
+
+Not attributed.
 
 ## Links
 
