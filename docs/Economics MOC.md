@@ -1,13 +1,18 @@
 ---
 title: "Economics"
 date: 2023-05-18 16:01
-last_modified_at: 2023-05-19 22:34
+last_modified_at: 2023-06-03 21:42
 tags:
+  - economics
 ---
 
-### [[YOUR MOC]]
-
 # Economics
+
+```dataview
+list
+from [[]] and !outgoing([[]])
+where file.name != "README"
+```
 
 ## Quotes
 
@@ -16,3 +21,4 @@ tags:
 From [The Premonition](The%20Premonition.md).
 
 ## Links
+

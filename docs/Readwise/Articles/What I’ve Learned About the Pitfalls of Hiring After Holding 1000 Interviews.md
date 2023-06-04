@@ -1,3 +1,7 @@
+---
+date: 2023-06-03 21:38
+last_modified_at: 2023-06-03 21:39
+---
 # What I’ve Learned About the Pitfalls of Hiring After Holding 1000 Interviews
 
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1122/1*RTfDNS9CiOLHRQNugwjLQg.jpeg)

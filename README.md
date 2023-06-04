@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-06-03 21:37
+last_modified_at: 2023-06-03 21:42
 tags:
   - reviewed
 ---
@@ -29,6 +29,7 @@ My public digital garden / knowledge base, created using [Obsidian](https://obsi
 -   [Command line tools MOC](docs/Command%20line%20tools%20MOC.md)
 -   [Data science MOC](docs/Data%20science%20MOC.md)
 -   [Databases MOC](docs/Databases%20MOC.md)
+-   [Economics MOC](Economics%20MOC.md)
 -   [Management MOC](docs/Management%20MOC.md)
 -   [Newsletters MOC](docs/Newsletters%20MOC.md)
 -   [Operating systems MOC](docs/Operating%20systems%20MOC.md)
