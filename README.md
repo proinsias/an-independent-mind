@@ -1,6 +1,8 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-06-03 21:27
+last_modified_at: 2023-06-03 21:31
+tags:
+  - reviewed
 ---
 
 # An Independent Mind
@@ -44,8 +46,8 @@ And so 'An Independent Mind' was born.
 
 ## Recent items needing review
 
-```query
-not tag: #reviewed 
-limit 10
+```dataview
+LIST FROM -#reviewed
+SORT file.mtime DESC
+LIMIT 10
 ```
-
