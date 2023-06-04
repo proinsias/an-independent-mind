@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-03 21:27
 ---
 
 # An Independent Mind
@@ -19,6 +19,8 @@ My public digital garden / knowledge base, created using [Obsidian](https://obsi
 <!-- tocstop -->
 
 ## Main topics
+
+<!-- FIXME: Update! Can I do this automatically? -->
 
 -   [Books MOC](docs/Books/Books%20MOC.md)
 -   [Cloud computing MOC](docs/Cloud%20computing%20MOC.md)
@@ -40,10 +42,10 @@ and when you often had to register your software, there was often a required fie
 But I was just a wee lad, so I didn't have anything to put there.
 And so 'An Independent Mind' was born.
 
-<!-- FIXME:
+## Recent items needing review
 
 ```query
-tag: #programming-languages
+not tag: #reviewed 
+limit 10
 ```
 
--->

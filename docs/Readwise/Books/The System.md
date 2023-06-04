@@ -1,3 +1,7 @@
+---
+date: 2023-06-03 21:23
+last_modified_at: 2023-06-03 21:26
+---
 # The System
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/81HcM8toTnL._SY160.jpg)
