@@ -1,7 +1,3 @@
----
-date: 2023-06-06 14:59
-last_modified_at: 2023-06-06 15:00
----
 # "Guns Don't Kill People, People Kill People"
 
 ![rw-book-cover](https://m.media-amazon.com/images/I/814vpUnjsxL._SY160.jpg)
