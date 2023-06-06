@@ -1,9 +1,10 @@
 ---
 title: 'Obsidian configuration'
 date: 2023-05-05 14:49
-last_modified_at: 2023-06-06 14:59
+last_modified_at: 2023-06-06 15:02
 tags:
     - obsidian
+    - reviewed
 ---
 
 # Obsidian configuration
