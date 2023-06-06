@@ -1,7 +1,3 @@
----
-date: 2023-06-06 14:57
-last_modified_at: 2023-06-06 14:57
----
 # Parallel Play for Adults: How Ignoring Each Other Can Build Bonds
 
 ![rw-book-cover](https://images.seattletimes.com/wp-content/uploads/2021/10/parallelplay_TZR_1031.jpg?d=1200x630)
