@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-30 09:40
+last_modified_at: 2023-06-06 16:20
 tags:
     - command-line-tool
     - git
@@ -121,6 +121,13 @@ git clone myBundle bundled_repo
 ```
 
 Via [Enki](https://app.enki.com/public/insight/56c5ab363e75da06001547cc).
+
+## checkout
+
+```shell
+# Interactive checkout.
+git checkout [-p | --partial]
+```
 
 ## clean
 
@@ -367,6 +374,9 @@ git push --set-upstream origin :old_branch_name new_branch_name
 # Update remote tags with local tags.
 git push --tags
 
+# Push a single tag.
+git push origin [tagname]
+
 # Git doesn’t push/pull notes by default.
 # You can explicitly handle remote notes with the following commands.
 git push <remote> refs/notes/*  
@@ -384,6 +394,13 @@ $ git push --force-with-lease origin master
 To summarize Git's [documentation](https://git-scm.com/docs/git-push#git-push---force-with-leaseltrefnamegt), using `force-with-lease` tells `git` to check whether the remote repo is the same as the one you're trying to push up. If it isn't, `git` will throw an error instead of blindly overwriting the remote repo. This will save you from accidentally overwriting work that you don't intend to.
 
 Via [medium.freecodecamp.com](https://web.archive.org/web/20170531085421/https://medium.freecodecamp.com/git-please-a182f28efeb5).
+
+## rebase
+
+```shell
+# Interactive rebase last two commits.
+git rebase -i HEAD~2
+```
 
 ## reflog
 
