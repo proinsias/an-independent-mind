@@ -1,7 +1,7 @@
 ---
 title: "pre-commit"
 date: 2023-06-06 16:28
-last_modified_at: 2023-06-06 16:28
+last_modified_at: 2023-06-06 16:32
 tags:
   - command-line-tool
   - git
@@ -48,10 +48,8 @@ pre-commit run --all-files
 # use something like:  
 pre-commit run --from-ref origin/HEAD --to-ref HEAD
 
-git commit -m "Skipping git hooks" --no-verify
-SKIP=hook_id git commit -m ""
-
-Not all hooks are perfect so sometimes you may need to skip execution of one or more hooks. pre-commit solves this by querying a `SKIP` environment variable. The `SKIP` environment variable is a comma separated list of hook ids. This allows you to skip a single hook instead of `--no-verify`ing the entire commit.
+git commit -m "Skipping all git hooks" --no-verify
+SKIP=hook_id git commit -m "Skipping individual git hook"
 ```
 
 ## Links
