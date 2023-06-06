@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-06-06 16:25
+last_modified_at: 2023-06-06 16:28
 tags:
     - command-line-tool
     - git
@@ -130,6 +130,9 @@ Via [Enki](https://app.enki.com/public/insight/56c5ab363e75da06001547cc).
 ```shell
 # Interactive checkout.
 git checkout [-p | --partial]
+
+# Move to the previous branch.
+git checkout -
 ```
 
 ## clean
@@ -166,6 +169,13 @@ git commit --amend
 
 # Include diff of committed changes in the commit message screen.
 git commit -v
+
+# Commit using contexts of file.
+git commit [-F | --file] filename
+# Commit using contexts of stdin.
+git commit -F -
+# Open commit message template in editor.
+git commit --template=filename/-t filename 
 ```
 
 ### Empty commits

@@ -1,7 +1,7 @@
 ---
 title: 'GitHub'
 date: 2023-05-09 17:10
-last_modified_at: 2023-05-30 09:40
+last_modified_at: 2023-06-06 16:27
 tags:
     - command-line-tools
     - git
@@ -22,8 +22,9 @@ Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 
 ```
 is:open
-is:pr 
-author:proinsias status:failure
+is:pr
+author:proinsias
+status:failure
 ```
 
 ## GitHub Apps
