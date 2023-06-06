@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-06-06 16:20
+last_modified_at: 2023-06-06 16:25
 tags:
     - command-line-tool
     - git
@@ -19,6 +19,9 @@ git add -N file.txt
 
 # Add all changes including untracked files.
 git add -A
+
+# Interactive adding.
+git add [-p | --patch]
 ```
 
 ## bisect
@@ -306,6 +309,10 @@ git log --before="MMM DD YYYY"
 git log --merge
 
 git log --oneline
+git log --pretty=oneline
+git log --pretty=short
+git log --pretty=full
+git log --pretty=fuller
 
 # See https://git-scm.com/docs/pretty-formats for format options.
 git log --format="%Cgreen%h%Creset %an"
@@ -337,6 +344,9 @@ git merge --abort
 # Append one-line commit message from all commits in the branch to be merged to the commit message.
 # Makes it easier to remember what you've done.
 git merge --log
+
+# Merge if fast-forward is possible and without message.
+git merge --ff-only --no-commit name_of_branch
 ```
 
 ## notes
@@ -439,6 +449,16 @@ git stash [-k | --keep-index]
 
 # Stash including untracked files.
 git stash [-u | --include-untracked]
+
+# Interactive stashing.
+git stash [-p | --patch]
+```
+
+## status
+
+```shell
+# Get a simplified status output.
+git status [-s | --short]
 ```
 
 ## submodule

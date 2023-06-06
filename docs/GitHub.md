@@ -18,6 +18,14 @@ tags:
 
 Via [@diegohaz](https://twitter.com/diegohaz/status/1511433132930707457).
 
+## Search tips
+
+```
+is:open
+is:pr 
+author:proinsias status:failure
+```
+
 ## GitHub Apps
 
 -   [GitHub Apps Cheat Sheet](https://github.com/github-developer/github-apps-cheat-sheet).
