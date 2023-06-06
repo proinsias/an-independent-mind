@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 8976478,
+  "lastSavedStatusID": 9017904,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -57,7 +57,8 @@
     "docs/Readwise/Articles/Distill or Annotate Cost-Efficient Fine-Tuning of Compact Models.md": "28547732",
     "docs/Readwise/Articles/What I’ve Learned About the Pitfalls of Hiring After Holding 1000 Interviews.md": "28560943",
     "docs/Readwise/Articles/This To Do List Hack Has My Rebellious Brain Actually Wanting to Get Things Done!.md": "28561041",
-    "docs/Readwise/Articles/The work is never just “the work”.md": "28561212"
+    "docs/Readwise/Articles/The work is never just “the work”.md": "28561212",
+    "docs/Readwise/Books/Guns Don't Kill People, People Kill People.md": "28445688"
   },
   "reimportShowConfirmation": true
 }
