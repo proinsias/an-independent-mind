@@ -1,7 +1,7 @@
 ---
 title: "Women Who Code LLMs Webinars"
 date: 2023-06-06 22:03
-last_modified_at: 2023-06-06 23:19
+last_modified_at: 2023-06-06 23:27
 tags:
   - data-science
   - llms
@@ -58,9 +58,9 @@ GPT assistant training pipeline
 | Stage    | Pretraining | Supervised Finetuning | Reward Modeling | Reinforcement Learning |
 | --------- | ----------- | ----------- | ----------- | ----------- |
 | Dataset    | Raw internet <br> text trillions of words <br> low quality, large quantity       | Demonstrations <br> Ideal Assistant responses, <br> ~10-100K (prompt, response)<br>written by contractors<br>low quantity, high quality| Comparisons<br>100K-1m comparisons<br>written by contractors<br>low quantity, high quality | Prompts<br>~10K-100K prompts<br>written by contractors<br>low quantity, high quality |
-| Algorithm | Language modeling <br> predict the next token        | Language modeling <br> predict the next token| Binary classification<br>predict rewards consistent w/ preferences | Reinforcement learning<br>generate tokens that maximize th |
+| Algorithm | Language modeling <br> predict the next token        | Language modeling <br> predict the next token| Binary classification<br>predict rewards consistent w/ preferences | Reinforcement learning<br>generate tokens that maximize the reward |
 | Model | Base model        | SFT model | RM model | RL model |
-| Notes | 1000s of GPUS <br> months of training <br> ex GPT, LLaMA, PaLM <br> can deploy this model        | 1-100 GPUs <br> days of training<br>ex: Vicuna-13B<br>can deploy this model| 1-100 GPUs | 1-100 GPUs |
+| Notes | 1000s of GPUS <br> months of training <br> ex: GPT, LLaMA, PaLM <br> can deploy this model        | 1-100 GPUs <br> days of training<br>ex: Vicuna-13B<br>can deploy this model| 1-100 GPUs<br>days of training | 1-100 GPUs<br>days of training<br>ex: ChatGPT, Claude<br>can deploy this model |
 
 
 
