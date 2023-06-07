@@ -1,7 +1,7 @@
 ---
 title: "Women Who Code LLMs Webinars"
 date: 2023-06-06 22:03
-last_modified_at: 2023-06-06 23:06
+last_modified_at: 2023-06-06 23:15
 tags:
   - data-science
   - llms
@@ -28,12 +28,37 @@ tags:
 * Vocabulary Size refers to the number of unique tokens the model knows. It's like the model's personal dictionary. The larger the vocabulary size, the more nuanced and varied the language the model can understand and generate. Imagine having a dictionary that, instead of containing a few thousand words, contains tens of thousands of words - that's a big vocabulary!
 * Fine-tuning
 	* After a model like GPT-3 is pre-trained on a large dataset, it can be fine-tuned on a more specific task, like translating English to French, or writing poetry. Fine-tuning is like going to medical school after graduating from college: you've got a broad base of knowledge, and now you're specializing.
-* Few-shot learningThis refers to the model's ability to understand a
-task given only a few examples.
-It's like showing a super-smart alien a few examples
-of a bicycle and then asking it to build one.
-GPT-3's performance on few-shot learning tasks was
-a big part of what made it so exciting.
+* Few-shot learning refers to the model's ability to understand a task given only a few examples. It's like showing a super-smart alien a few examples of a bicycle and then asking it to build one. GPT-3's performance on few-shot learning tasks was a big part of what made it so exciting.
+* Context Length refers to the amount of recent input that the model can "remember" or use to produce output. It's kind of like having a conversation with Dory. After a few rounds of swimming, Dory forgets what you said. Similarly, the context length is the number of "laps" the model can "remember." The longer the context length, the better the model can keep track of long conversations or documents.
+* In 2019, OpenAl released GPT-2. It was essentially a larger and more powerful version of GPT, boasting 1.5 billion parameters. Its architecture remained largely the same, but it was trained on even more data.
+* LLaMA is known to perform better than GPT-3, why is that the case?
+	* GPT-3 (2020)
+		* 50,257 vocabulary size
+		* 2048 context length
+		* 175B parameters
+	* LLaMA (2023)
+		* 32,000 vocabulary size
+		* 2048 context length
+		* 65B parameters
+	* LLAMA was actually trained on 1.4T token vs GPT-3 trained on 300B tokens!
+* LLMs
+	* Good at:
+		* Creativity
+		* Human-like text
+		* Simplify complex language
+		* Translate
+	* Bad at:
+		* Handling ambiguity
+		* Guaranteeing truthfulness
+		* Recognizing and responding to emotional states
+* Base models can be prompted into completing tasks – Make your model look like a document!
+
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
 
 ## Links
 
