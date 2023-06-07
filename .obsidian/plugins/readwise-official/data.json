@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9017904,
+  "lastSavedStatusID": 9021522,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -58,7 +58,16 @@
     "docs/Readwise/Articles/What I’ve Learned About the Pitfalls of Hiring After Holding 1000 Interviews.md": "28560943",
     "docs/Readwise/Articles/This To Do List Hack Has My Rebellious Brain Actually Wanting to Get Things Done!.md": "28561041",
     "docs/Readwise/Articles/The work is never just “the work”.md": "28561212",
-    "docs/Readwise/Books/Guns Don't Kill People, People Kill People.md": "28445688"
+    "docs/Readwise/Books/Guns Don't Kill People, People Kill People.md": "28445688",
+    "docs/Readwise/Articles/What’s UnAI-able.md": "28688111",
+    "docs/Readwise/Articles/The Devious Genius of “Prompt Injection Attacks” on Today’s Big Language Models.md": "28688381",
+    "docs/Readwise/Articles/Fat Shame—Inside and Out.md": "28688489",
+    "docs/Readwise/Articles/Build Your Own Face Recognition Tool With Python.md": "28688541",
+    "docs/Readwise/Articles/Three Simple, Brilliant Mental Models for Better Collaboration.md": "28688556",
+    "docs/Readwise/Articles/As a Developer, Know Your Worth.md": "28689781",
+    "docs/Readwise/Articles/A Hand Up, Not a Hand-Out.md": "28689797",
+    "docs/Readwise/Articles/Who Is Responsible for Data Quality 5 Different Answers From Real Data Teams.md": "28689836",
+    "docs/Readwise/Articles/Benefits of Cochlear Implantation in Childhood Unilateral Hearing Loss.md": "28690148"
   },
   "reimportShowConfirmation": true
 }
