@@ -1,7 +1,7 @@
 ---
 title: "Women Who Code LLMs Webinars"
 date: 2023-06-06 22:03
-last_modified_at: 2023-06-06 23:15
+last_modified_at: 2023-06-06 23:19
 tags:
   - data-science
   - llms
@@ -53,11 +53,15 @@ tags:
 		* Recognizing and responding to emotional states
 * Base models can be prompted into completing tasks – Make your model look like a document!
 
+GPT assistant training pipeline
 
-| Syntax    | Description |
+| Stage    | Pretraining | Supervised Finetuning | Reward Modeling | Reinforcement Learning |
 | --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
+| Dataset    | Raw internet <br> text trillions of words <br> low quality, large quantity       |
+| Algorithm | Language modeling <br> predict the next token        |
+| Model | Base model        |
+| Notes | 1000s of GPUS <br> months of training <br> ex GPT, LLaMA, PaLM <br> can deploy this model        |
+
 
 
 ## Links
