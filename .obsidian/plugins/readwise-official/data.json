@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9021522,
+  "lastSavedStatusID": 9037070,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -67,7 +67,13 @@
     "docs/Readwise/Articles/As a Developer, Know Your Worth.md": "28689781",
     "docs/Readwise/Articles/A Hand Up, Not a Hand-Out.md": "28689797",
     "docs/Readwise/Articles/Who Is Responsible for Data Quality 5 Different Answers From Real Data Teams.md": "28689836",
-    "docs/Readwise/Articles/Benefits of Cochlear Implantation in Childhood Unilateral Hearing Loss.md": "28690148"
+    "docs/Readwise/Articles/Benefits of Cochlear Implantation in Childhood Unilateral Hearing Loss.md": "28690148",
+    "docs/Readwise/Books/Sully.md": "28445959",
+    "docs/Readwise/Articles/AI Does Not Help Programmers.md": "28708794",
+    "docs/Readwise/Articles/Virtual Clinics Are Battling Inequalities in Women’s Health.md": "28718664",
+    "docs/Readwise/Articles/Why AI Will Save the World.md": "28729423",
+    "docs/Readwise/Articles/Foods You Should Eat (And Avoid) to Reverse Insulin Resistance.md": "28739548",
+    "docs/Readwise/Articles/Insulin Resistance 4 Causes That Aren’t Related to Food.md": "28739678"
   },
   "reimportShowConfirmation": true
 }
