@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9037070,
+  "lastSavedStatusID": 9061833,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -73,7 +73,22 @@
     "docs/Readwise/Articles/Virtual Clinics Are Battling Inequalities in Women’s Health.md": "28718664",
     "docs/Readwise/Articles/Why AI Will Save the World.md": "28729423",
     "docs/Readwise/Articles/Foods You Should Eat (And Avoid) to Reverse Insulin Resistance.md": "28739548",
-    "docs/Readwise/Articles/Insulin Resistance 4 Causes That Aren’t Related to Food.md": "28739678"
+    "docs/Readwise/Articles/Insulin Resistance 4 Causes That Aren’t Related to Food.md": "28739678",
+    "docs/Readwise/Articles/Morality Is Declining, Right Scientists Say That Idea Is an Illusion.md": "28753306",
+    "docs/Readwise/Articles/3 Rules to Express Your Thoughts So That Everyone Will Understand You.md": "28753351",
+    "docs/Readwise/Articles/2 Regrets of a 55 Years Old Retired Software Engineer.md": "28753405",
+    "docs/Readwise/Articles/8 Ways Balancing Your Blood Sugar Can Improve Your Health.md": "28757240",
+    "docs/Readwise/Articles/3-2-1 On Seizing the Day, Perseverance, and Focusing on One Task at a Time.md": "28767540",
+    "docs/Readwise/Articles/Marc Andreessen Is (Mostly) Wrong This Time.md": "28769176",
+    "docs/Readwise/Articles/Secret to Optimizing SQL Queries - Understand the SQL Execution Order 🚀.md": "28758436",
+    "docs/Readwise/Articles/Dockerfile Optimization Using Multistage Builds, Caching, and Lightweight Images.md": "28771528",
+    "docs/Readwise/Articles/‘I Gave Away Our Stuff’ The Minimalists Doing More With Less.md": "28772508",
+    "docs/Readwise/Articles/Good Programmer vs Average Programmer - And, Why Asking Questions and Paying Attention to Details Matters..md": "28772656",
+    "docs/Readwise/Articles/The Myth of Self-Control.md": "28772703",
+    "docs/Readwise/Articles/The Purpose of Life Is Not Happiness It’s Usefulness.md": "28772835",
+    "docs/Readwise/Articles/5-Hour Rule If You’re Not Spending 5 Hours Per Week Learning, You’re Being Irresponsible.md": "28772864",
+    "docs/Readwise/Articles/Pluralistic Capitalists Hate Capitalism.md": "28790683",
+    "docs/Readwise/Articles/June 8, 2023.md": "28790779"
   },
   "reimportShowConfirmation": true
 }
