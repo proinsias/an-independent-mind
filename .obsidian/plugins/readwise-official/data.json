@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9061833,
+  "lastSavedStatusID": 9074736,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -88,7 +88,9 @@
     "docs/Readwise/Articles/The Purpose of Life Is Not Happiness It’s Usefulness.md": "28772835",
     "docs/Readwise/Articles/5-Hour Rule If You’re Not Spending 5 Hours Per Week Learning, You’re Being Irresponsible.md": "28772864",
     "docs/Readwise/Articles/Pluralistic Capitalists Hate Capitalism.md": "28790683",
-    "docs/Readwise/Articles/June 8, 2023.md": "28790779"
+    "docs/Readwise/Articles/June 8, 2023.md": "28790779",
+    "docs/Readwise/Articles/4 Pandas Functions for Element-Wise Comparison of DataFrames.md": "28835268",
+    "docs/Readwise/Articles/June 9, 2023.md": "28835657"
   },
   "reimportShowConfirmation": true
 }
