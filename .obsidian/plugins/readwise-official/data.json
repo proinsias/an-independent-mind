@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9074736,
+  "lastSavedStatusID": 9116358,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -90,7 +90,12 @@
     "docs/Readwise/Articles/Pluralistic Capitalists Hate Capitalism.md": "28790683",
     "docs/Readwise/Articles/June 8, 2023.md": "28790779",
     "docs/Readwise/Articles/4 Pandas Functions for Element-Wise Comparison of DataFrames.md": "28835268",
-    "docs/Readwise/Articles/June 9, 2023.md": "28835657"
+    "docs/Readwise/Articles/June 9, 2023.md": "28835657",
+    "docs/Readwise/Books/The Body.md": "28445659",
+    "docs/Readwise/Articles/Hired to Be Fired.md": "28923977",
+    "docs/Readwise/Articles/3 Easy Tips to Optimize Pandas DataFrames.md": "28923978",
+    "docs/Readwise/Articles/Hypermodern Terminal Toolbox.md": "28923979",
+    "docs/Readwise/Articles/Visualizing the Effect of Multicollinearity on Multiple Regression Model.md": "28930415"
   },
   "reimportShowConfirmation": true
 }
