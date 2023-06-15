@@ -203,3 +203,6 @@
 - between 50 and 60 percent of terminally ill patients report having intense but highly comforting dreams about their impending passing. ([Location 6282](https://readwise.io/to_kindle?action=open&asin=B07M82PNSX&location=6282))
 - Three separate studies have shown that cancer sufferers receiving palliative care in their final weeks rather than chemotherapy actually live longer and suffer much less. ([Location 6293](https://readwise.io/to_kindle?action=open&asin=B07M82PNSX&location=6293))
 - It is a myth, and physiological impossibility, incidentally, that hair and nails continue to grow after death. Nothing grows after death. ([Location 6314](https://readwise.io/to_kindle?action=open&asin=B07M82PNSX&location=6314))
+## New highlights added June 15, 2023 at 5:10 PM
+- Spinal cord injuries are dismayingly common. More than one million people in the United States are paralyzed from them. ([Location 5151](https://readwise.io/to_kindle?action=open&asin=B07M82PNSX&location=5151))
+- More than one million people in the United States are paralyzed from them. ([Location 5151](https://readwise.io/to_kindle?action=open&asin=B07M82PNSX&location=5151))
