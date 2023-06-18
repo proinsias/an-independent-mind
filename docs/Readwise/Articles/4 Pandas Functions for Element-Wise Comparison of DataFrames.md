@@ -15,3 +15,20 @@
 - If one of the values is `NaN` (i.e. missing value), the combined DataFrame at this position has `NaN` as well because Pandas can’t compare a value with a missing value.
   We can choose a constant value to be used in the case of missing values by using the `fill_value` parameter. Missing values are filled with this value before comparing them to the values in the other DataFrame.
   combined_df = df1.combine(df2, np.maximum, fill_value=0) ([View Highlight](https://read.readwise.io/read/01h2jwden6kkj51cets7sthm58))
+# 4 Pandas Functions for Element-Wise Comparison of DataFrames
+
+![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*DawjpLiK0fbBUwN0CQGLEA.jpeg)
+
+## Metadata
+- Author: [[Soner Yıldırım]]
+- Full Title: 4 Pandas Functions for Element-Wise Comparison of DataFrames
+- Category: #articles
+- URL: https://towardsdatascience.com/4-pandas-functions-for-element-wise-comparison-of-dataframes-c7e06e51d399
+
+## Highlights
+- The `combine` function does an element-wise comparison based on the given function.
+  For instance, we can select the maximum value out of two values for each position. It’ll be more clear when we do the example.
+  combined_df = df1.combine(df2, np.maximum) ([View Highlight](https://read.readwise.io/read/01h33g53h7hqf8tev172ffd668))
+- If one of the values is `NaN` (i.e. missing value), the combined DataFrame at this position has `NaN` as well because Pandas can’t compare a value with a missing value.
+  We can choose a constant value to be used in the case of missing values by using the `fill_value` parameter. Missing values are filled with this value before comparing them to the values in the other DataFrame.
+  combined_df = df1.combine(df2, np.maximum, fill_value=0) ([View Highlight](https://read.readwise.io/read/01h33g5bf48tj379kgc7ytehs5))

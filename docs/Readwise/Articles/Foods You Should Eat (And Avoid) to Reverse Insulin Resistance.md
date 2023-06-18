@@ -21,3 +21,23 @@
 - 4. Sugar-free sodas ([View Highlight](https://read.readwise.io/read/01h2c85ss46dkcf55gtgwzenpk))
 - sucralose (Splenda) and saccharin (Sweet 'N Low) have been shown to change the [composition of bacteria in the gut](https://www.veri.co/learn/are-artificial-sweeteners-bad-for-you) and even impair glycemic response in healthy adults, and some artificial sweeteners trigger an outsized insulin response — i.e., even though they aren’t raising your glucose levels, your body still overproduces insulin, which can promote fat storage. ([View Highlight](https://read.readwise.io/read/01h2c8672ccydaf8wk8asnj07q))
 - go for seltzer with a squeeze of lemon, unsweetened tea (with an optional splash of almond milk), or water infused with citrus slices. ([View Highlight](https://read.readwise.io/read/01h2c86fncqvs4c4f1mjrtjj6b))
+# Foods You Should Eat (And Avoid) to Reverse Insulin Resistance
+
+![rw-book-cover](https://images.prismic.io/veri-dev/f7783fc9-7720-40bb-a84b-2c35f8503831_insulin_resistance_foods_list.jpg?auto=compress,format)
+
+## Metadata
+- Author: [[veri.co]]
+- Full Title: Foods You Should Eat (And Avoid) to Reverse Insulin Resistance
+- Category: #articles
+- URL: https://www.veri.co/learn/insulin-resistance-foods-list
+
+## Highlights
+- If you’re eating with the aim to improve your insulin sensitivity, a general rule of thumb is to add lots of [colorful vegetables to your plate](https://www.veri.co/learn/eat-the-rainbow-fruits-veggies), make sure you’re getting enough [fiber](https://www.veri.co/learn/fiber-and-blood-sugar), and eat lean proteins and healthy fats with most of your meals. Look for these 4 ingredients in particular: ([View Highlight](https://read.readwise.io/read/01h32smnjhcj626z0hw91gbj03))
+- 1. Fresh berries ([View Highlight](https://read.readwise.io/read/01h32smpsqkc6qdf6pyytr4bgd))
+- 3. Sardines ([View Highlight](https://read.readwise.io/read/01h32sn1mwrc89xtcj7eb778cx))
+- 4. Avocados ([View Highlight](https://read.readwise.io/read/01h32snmgr1sktx34arm55dcvr))
+- 4 foods to avoid for insulin resistance ([View Highlight](https://read.readwise.io/read/01h32snxyhf4gcqgtknq6vxej9))
+- 1. Breakfast cereals ([View Highlight](https://read.readwise.io/read/01h32sp8cyr7vsy6xyjxjtgt54))
+- 2. French fries ([View Highlight](https://read.readwise.io/read/01h32spb22dsvw47trs9m9r420))
+- 3. Oat milk ([View Highlight](https://read.readwise.io/read/01h32spjxshp1n0ppe6t3d91tc))
+- 4. Sugar-free sodas ([View Highlight](https://read.readwise.io/read/01h32spsargx1rw9fbe9avevgt))
