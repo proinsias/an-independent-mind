@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 9183599,
+  "lastSavedStatusID": 9208422,
   "currentSyncStatusID": 0,
   "refreshBooks": true,
   "booksToRefresh": [],
@@ -133,7 +133,13 @@
     "docs/Readwise/Articles/(Lack Of) Curiosity Killed the Cat.md": "29116840",
     "docs/Readwise/Articles/A Fight Over the Right to Repair Cars Turns Ugly.md": "29121629",
     "docs/Readwise/Articles/Crop Yield Prediction Using Machine Learning and Flask Deployment.md": "29126641",
-    "docs/Readwise/Articles/Topic Extraction with c-TF-IDF.md": "29135414"
+    "docs/Readwise/Articles/Topic Extraction with c-TF-IDF.md": "29135414",
+    "docs/Readwise/Articles/What Is the Team Data Science Process.md": "29156927",
+    "docs/Readwise/Articles/10 Unix File Management Commands That Every Developer Should Know.md": "29160645",
+    "docs/Readwise/Articles/Topic Modeling With BERT.md": "29171709",
+    "docs/Readwise/Articles/Interactive Topic Modeling With BERTopic.md": "29171762",
+    "docs/Readwise/Articles/5 Modern Bash Scripting Techniques That Only a Few Programmers Know.md": "29160799",
+    "docs/Readwise/Articles/Imaginary Problems Are the Root of Bad Software.md": "29199370"
   },
   "reimportShowConfirmation": true
 }
