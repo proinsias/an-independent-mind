@@ -10,3 +10,5 @@
 
 ## Highlights
 - In the wake of a voter-approved law, Subaru and Kia dealers in Massachusetts have disabled systems that allow remote starts and send maintenance alerts. ([View Highlight](https://read.readwise.io/read/01h35ckk1hcx9eg43w68697mtj))
+
+#reviewed 

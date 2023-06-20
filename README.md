@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-06-20 14:17
+last_modified_at: 2023-06-20 14:43
 tags:
   - reviewed
 ---
@@ -44,24 +44,3 @@ Well back in the olden days when [Shareware](https://en.wikipedia.org/wiki/Share
 and when you often had to register your software, there was often a required field for the company you worked out.
 But I was just a wee lad, so I didn't have anything to put there.
 And so 'An Independent Mind' was born.
-
-## Recent items needing review
-
-### Items marked as toreview but not incomplete
-
-```dataview
-LIST 
-FROM #toreview 
-AND -#incomplete
-SORT file.mtime DESC
-LIMIT 10
-```
-### Items not marked as reviewed, toreview, or incomplete
-```dataview
-LIST 
-FROM -#reviewed
-AND -#toreview
-AND -#incomplete
-SORT file.mtime DESC
-LIMIT 10
-```

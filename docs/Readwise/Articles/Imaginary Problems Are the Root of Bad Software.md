@@ -13,3 +13,5 @@
 - Imaginary problems are often more fun to solve than real ones. Extremely intelligent people play competitive games, construct and solve math problems, and write books that aim to answer abstract questions about the human condition, all of them for free. A mediocre programmer, however, will probably charge you a fair amount to build a simple Android app. That’s not because mediocre programmers are harder to find than geniuses, but because the former activities are all fun, while the latter can be quite boring. ([View Highlight](https://read.readwise.io/read/01h3axbckzqry3b2pw2hn4hvhm))
 - > *It is difficult to get a man to understand something, when his salary depends upon his not understanding it!”*
   > *— Upton Sinclair* ([View Highlight](https://read.readwise.io/read/01h3axfvva9g9h8jc2qj2fch10))
+
+#reviewed 

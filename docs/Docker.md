@@ -5,6 +5,7 @@ last_modified_at: 2023-05-16 13:25:44
 tags:
     - command-line-tool
     - docker
+    - reviewed
 ---
 
 ### [Command line tools MOC](Command%20line%20tools%20MOC.md)

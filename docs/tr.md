@@ -5,6 +5,7 @@ last_modified_at: 2023-05-30 09:40
 tags:
     - command-line-tool
     - programming
+    - reviewed
 ---
 
 ### [\*nix](*nix.md)
