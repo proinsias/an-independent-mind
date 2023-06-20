@@ -1,9 +1,10 @@
 ---
 title: "Mathematics MOC"
 date: 2023-05-19 11:42
-last_modified_at: 2023-05-19 11:49
+last_modified_at: 2023-06-20 14:48
 tags:
   - math
+  - reviewed
 ---
 
 # Mathematics MOC

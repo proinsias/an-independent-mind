@@ -1,9 +1,10 @@
 ---
 title: 'Command line tools'
 date: 2023-05-04 09:13
-last_modified_at: 2023-05-30 09:40
+last_modified_at: 2023-06-20 14:47
 tags:
     - command-line-tool
+    - reviewed
 ---
 
 # Command line tools MOC

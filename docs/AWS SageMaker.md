@@ -1,10 +1,11 @@
 ---
 title: "AWS SageMaker"
 date: 2023-05-18 13:57
-last_modified_at: 2023-05-19 16:16
+last_modified_at: 2023-06-20 14:47
 tags:
     - cloud-computing
     - data-science
+    - reviewed
 ---
 
 ### [Cloud computing MOC](Cloud%20computing%20MOC.md)

@@ -1,9 +1,10 @@
 ---
 title: 'Newsletters MOC'
 date: 2023-05-06 00:28
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-20 14:48
 tags:
     - newsletter
+    - reviewed
 ---
 
 # Newsletters MOC

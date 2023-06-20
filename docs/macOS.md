@@ -1,10 +1,11 @@
 ---
 title: 'macOS'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-25 20:33
+last_modified_at: 2023-06-20 14:48
 tags:
     - command-line-tool
     - operating-system
+    - reviewed
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)

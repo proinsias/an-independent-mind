@@ -1,9 +1,10 @@
 ---
 title: 'Management MOC'
 date: 2023-05-05 16:13
-last_modified_at: 2023-06-03 21:06
+last_modified_at: 2023-06-20 14:48
 tags:
     - management
+    - reviewed
 ---
 
 # Management MOC

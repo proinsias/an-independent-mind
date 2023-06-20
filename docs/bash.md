@@ -1,10 +1,11 @@
 ---
 title: "bash"
 date: 2023-05-23 16:34
-last_modified_at: 2023-05-26 13:08
+last_modified_at: 2023-06-20 14:47
 tags:
   - bash
   - nix
+  - reviewed
 ---
 
 ### [*nix](*nix.md)

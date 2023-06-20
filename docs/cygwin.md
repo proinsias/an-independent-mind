@@ -1,10 +1,11 @@
 ---
 title: 'cygwin'
 date: 2023-05-04 09:03
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-20 14:47
 tags:
     - cygwin
     - windows
+    - reviewed
 ---
 
 [windows](windows.md)

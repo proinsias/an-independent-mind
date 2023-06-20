@@ -1,10 +1,11 @@
 ---
 title: 'pandas'
 date: 2023-05-04 09:04
-last_modified_at: 2023-05-25 16:12
+last_modified_at: 2023-06-20 14:49
 tags:
     - pandas
     - python
+    - reviewed
 ---
 
 [Python](Python.md)

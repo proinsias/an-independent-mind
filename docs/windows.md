@@ -1,10 +1,11 @@
 ---
 title: 'windows'
 date: 2023-05-04 09:06
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-20 14:49
 tags:
     - operating-system
     - windows
+    - reviewed
 ---
 
 # Windows

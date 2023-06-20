@@ -1,11 +1,12 @@
 ---
 title: "Mermaid"
 date: 2023-05-19 11:48
-last_modified_at: 2023-05-19 14:43
+last_modified_at: 2023-06-20 14:48
 tags:
   - javascript
   - markdown
   - mermaid
+  - reviewed
 ---
 
 ### [[YOUR MOC]]

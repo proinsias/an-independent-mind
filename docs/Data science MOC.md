@@ -1,9 +1,10 @@
 ---
 title: 'Data science MOC'
 date: 2023-05-06 00:27
-last_modified_at: 2023-05-23 21:27
+last_modified_at: 2023-06-20 14:47
 tags:
     - data-science
+    - reviewed
 ---
 
 # Data science MOC

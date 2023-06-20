@@ -1,11 +1,12 @@
 ---
 title: 'dvc'
 date: 2023-05-08 22:32
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-20 14:47
 tags:
     - command-line-tool
     - data-science
     - git
+    - reviewed
 link: https://dvc.org/doc/get-started
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: 'LaTeX'
 date: 2023-05-16 16:30
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-20 14:48
 tags:
     - command-line-tools
     - latex
+    - reviewed
 ---
 
 ### [Command line tools MOC](Command%20line%20tools%20MOC.md)

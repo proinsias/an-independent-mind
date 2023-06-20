@@ -1,11 +1,12 @@
 ---
 title: "Jupyter"
 date: 2023-05-25 20:36
-last_modified_at: 2023-05-26 13:11
+last_modified_at: 2023-06-20 14:48
 tags:
   - data-science
   - jupyter
   - python
+  - reviewed
 ---
 
 ### [Data science MOC](Data%20science%20MOC.md)

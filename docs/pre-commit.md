@@ -1,11 +1,12 @@
 ---
 title: "pre-commit"
 date: 2023-06-06 16:28
-last_modified_at: 2023-06-06 16:32
+last_modified_at: 2023-06-20 14:49
 tags:
   - command-line-tool
   - git
   - pre-commit
+  - reviewed
 ---
 
 ### [git](git.md)

@@ -1,10 +1,11 @@
 ---
 title: "jq"
 date: 2023-05-26 10:43
-last_modified_at: 2023-05-26 10:59
+last_modified_at: 2023-06-20 14:48
 tags:
   - command-line-tool
   - jq
+  - reviewed
 ---
 
 ### [Command line tools MOC](Command%20line%20tools%20MOC.md)

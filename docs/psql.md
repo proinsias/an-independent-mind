@@ -1,12 +1,13 @@
 ---
 title: 'psql'
 date: 2023-05-04 09:20
-last_modified_at: 2023-05-23 15:23
+last_modified_at: 2023-06-20 14:49
 tags:
     - command-line-tool
     - database
     - psql
     - sql
+    - reviewed
 ---
 
 [Command line tools MOC](Command%20line%20tools%20MOC.md)

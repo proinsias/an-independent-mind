@@ -1,10 +1,11 @@
 ---
 title: 'aws-cli'
 date: 2023-05-09 11:01
-last_modified_at: 2023-05-22 20:05
+last_modified_at: 2023-06-20 14:47
 tags:
     - cloud-computing
     - command-line-tool
+    - reviewed
 ---
 
 ### [Cloud computing MOC](Cloud%20computing%20MOC.md)

@@ -1,10 +1,11 @@
 ---
 title: "Women Who Code LLMs Webinars"
 date: 2023-06-06 22:03
-last_modified_at: 2023-06-06 23:27
+last_modified_at: 2023-06-20 14:50
 tags:
   - data-science
   - llms
+  - toreview
 ---
 
 ### 
