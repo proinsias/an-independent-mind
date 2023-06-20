@@ -5,6 +5,7 @@ tags:
   - math
   - non-fiction
   - racism
+  - reviewed
 title: "Weapons of Math Destruction"
 author: Cathy O'Neil
 link: https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality-ebook/dp/B019B6VCLO/
