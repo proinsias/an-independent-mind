@@ -1,6 +1,6 @@
 ---
 date: 2023-05-05 00:30
-last_modified_at: 2023-06-03 21:42
+last_modified_at: 2023-06-20 14:17
 tags:
   - reviewed
 ---
@@ -47,19 +47,21 @@ And so 'An Independent Mind' was born.
 
 ## Recent items needing review
 
-### Items marked as toreview
+### Items marked as toreview but not incomplete
 
 ```dataview
 LIST 
 FROM #toreview 
+AND -#incomplete
 SORT file.mtime DESC
 LIMIT 10
 ```
-### Items not marked as reviewed or toreview
+### Items not marked as reviewed, toreview, or incomplete
 ```dataview
 LIST 
 FROM -#reviewed
 AND -#toreview
+AND -#incomplete
 SORT file.mtime DESC
 LIMIT 10
 ```

@@ -5,8 +5,6 @@ tags:
   - math
   - non-fiction
   - racism
-  - todo
-  - toreview
 title: "Weapons of Math Destruction"
 author: Cathy O'Neil
 link: https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality-ebook/dp/B019B6VCLO/
@@ -26,21 +24,8 @@ by [[Cathy O'Neil]]
 
 ## Summary
 
-<!-- No more than a couple paragraphs summarizing this BOOK -->
-
-{{description}}
-
-## Table of Contents
-
-## <!--Link to table of contents (TOC) -->
-
-## Notes
-
-## <!-- The main content of my thoughts really -->
 
 ## Quotes
-
-<!-- Notable quotes with reference to their page or location -->
 
 > In Weapons of Math Destruction, many poisonous assumptions are camouflaged by math and go largely untested and unquestioned.
 
@@ -50,12 +35,3 @@ by [[Cathy O'Neil]]
 
 > Justice cannot just be something that one part of society inflicts on another.
 
----
-
-## Questions
-
-## <!-- What remains for you to consider? -->
-
-## References
-
-<!-- Links to pages not referenced in the content -->
