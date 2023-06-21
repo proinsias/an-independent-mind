@@ -11,3 +11,5 @@
 ## Highlights
 - The more pressure you take, the more pressure you will get ([View Highlight](https://read.readwise.io/read/01h2dkg4xwps3w305ep20d6p9j))
 - The biggest risk is not taking any risk… In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks. ([View Highlight](https://read.readwise.io/read/01h2dkhfwk37d1a5m9qq0yedr3))
+
+#reviewed 

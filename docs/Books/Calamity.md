@@ -2,6 +2,7 @@
 tags:
   - book
   - Young Adult Fiction
+  - reviewed
 title: "Calamity"
 subtitle: 
 author: Brandon Sanderson

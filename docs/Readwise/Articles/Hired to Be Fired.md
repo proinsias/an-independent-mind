@@ -10,3 +10,5 @@
 
 ## Highlights
 - Firing workers does little for a company’s bottom line. And long term, it costs a company more as the economy returns and workers need to be rehired.
+
+#reviewed 
