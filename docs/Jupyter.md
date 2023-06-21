@@ -1,7 +1,7 @@
 ---
 title: "Jupyter"
 date: 2023-05-25 20:36
-last_modified_at: 2023-06-21 10:33
+last_modified_at: 2023-06-21 10:35
 tags:
   - data-science
   - jupyter
@@ -20,6 +20,7 @@ tags:
 * [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git): git.
 * [jupyter-scheduler](https://github.com/jupyter-server/jupyter-scheduler) run Jupyter notebooks as jobs.
 * [nbdime](https://github.com/jupyter/nbdime): tools for diffing and merging of Jupyter notebooks.
+* [plotly.py](https://github.com/plotly/plotly.py): support for the plotly tool.
 
 ## Magic commands
 
