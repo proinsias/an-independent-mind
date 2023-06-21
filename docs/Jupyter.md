@@ -1,7 +1,7 @@
 ---
 title: "Jupyter"
 date: 2023-05-25 20:36
-last_modified_at: 2023-06-20 14:48
+last_modified_at: 2023-06-21 10:27
 tags:
   - data-science
   - jupyter
@@ -12,6 +12,10 @@ tags:
 ### [Data science MOC](Data%20science%20MOC.md)
 
 # Jupyter
+
+## JupyterLab extensions
+
+* [jupyterlab_execute_time](https://github.com/deshaw/jupyterlab-execute-time): display cell timings.
 
 ## Magic commands
 
@@ -75,9 +79,7 @@ It is good to avoid red boxes but can be used to alert users to not delete some 
 </div>
 ```
 
-## Miscellaneous
-
-### Printing all the outputs of a cell
+## Printing all the outputs of a cell
 
 It is a normal property of the cell that only the last output gets printed and for the others, we need to add the `print()` function. Well, it turns out that we can print all the outputs just by adding the following snippet at the top of the notebook.
 
@@ -90,6 +92,8 @@ To revert to the original setting :
 ```python
 InteractiveShell.ast_node_interactivity = "last_expr"
 ```
+
+
 
 ## Links
 
