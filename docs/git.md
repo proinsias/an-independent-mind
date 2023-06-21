@@ -1,7 +1,7 @@
 ---
 title: 'git'
 date: 2023-05-04 09:03
-last_modified_at: 2023-06-20 14:48
+last_modified_at: 2023-06-20 22:01
 tags:
     - command-line-tool
     - git
@@ -148,6 +148,9 @@ git clean [-i | --interactive] -d
 # Don't actually remove anything, just show what would be done.
 git clean [-n | --dry-run]
 
+# Delete directories
+git clean -d
+
 # Delete ignored files as well.
 git clean -x
 ```
@@ -282,6 +285,14 @@ git diff <revision_1>:<file_1> <revision_2>:<file_2>
 
 # Show you the size of your branch's diff from main. Under 400 lines is best.
 git diff --shortstat origin/main
+```
+
+## fetch
+
+```shell
+# Prune remote-tracking branches for the origin remote.
+git fetch --prune origin
+
 ```
 
 ## log
