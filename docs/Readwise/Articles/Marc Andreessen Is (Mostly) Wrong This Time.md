@@ -22,3 +22,5 @@
 - while technology may make *companies* more productive, it only sometimes makes individual *workers* more productive (so-called marginal productivity). Other times, it just allows companies to automate part of the work and employ fewer people ([View Highlight](https://read.readwise.io/read/01h2e8k8f7djatj99q8c98f5hm))
 - For example, take supermarket self-checkout kiosks. These don’t make the remaining checkout staff more productive; nor do they help the supermarket get more shoppers or sell more goods. They merely allow it to let go of some staff. ([View Highlight](https://read.readwise.io/read/01h2e8ks14qhspxx1tanwskmkk))
 - Plenty of technological advances *can* improve marginal productivity, but—the book argues—whether they *do* depends on how companies choose to implement them ([View Highlight](https://read.readwise.io/read/01h2e8m1fj4j909p2cjff5y6cw))
+
+#reviewed 

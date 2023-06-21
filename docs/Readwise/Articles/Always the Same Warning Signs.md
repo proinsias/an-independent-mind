@@ -13,3 +13,5 @@
 - Only one person can get this great stuff to work. ([View Highlight](https://read.readwise.io/read/01h33fe2j42jhsfrc5qtx7t46q))
 - **Legitimate questions are met with stonewalling.** ([View Highlight](https://read.readwise.io/read/01h33fed0hfqvfpx2whq1gjm5y))
 - **Important data are missing or kept secret.** ([View Highlight](https://read.readwise.io/read/01h33fesd5jxgx1j5rhjm52322))
+
+#reviewed 
